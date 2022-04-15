@@ -1,0 +1,2819 @@
+league,season,rank,team,matches,wins,draws,losses,goals,goalDiff,points
+Serie A,2018/2019,1,Juventus,38,28,6,4,70:30,40,90
+Serie A,2018/2019,2,SSC Napoli,38,24,7,7,74:36,38,79
+Serie A,2018/2019,3,Atalanta,38,20,9,9,77:46,31,69
+Serie A,2018/2019,4,Inter,38,20,9,9,57:33,24,69
+Serie A,2018/2019,5,AC Milan,38,19,11,8,55:36,19,68
+Serie A,2018/2019,6,AS Roma,38,18,12,8,66:48,18,66
+Serie A,2018/2019,7,Torino FC,38,16,15,7,52:37,15,63
+Serie A,2018/2019,8,Lazio Roma,38,17,8,13,56:46,10,59
+Serie A,2018/2019,9,Sampdoria,38,15,8,15,60:51,9,53
+Serie A,2018/2019,10,Bologna FC,38,11,11,16,48:56,-8,44
+Serie A,2018/2019,11,Sassuolo Calcio,38,9,16,13,53:60,-7,43
+Serie A,2018/2019,12,Udinese Calcio,38,11,10,17,39:53,-14,43
+Serie A,2018/2019,13,SPAL 2013 Ferrara,38,11,9,18,44:56,-12,42
+Serie A,2018/2019,14,Parma Calcio 1913,38,10,11,17,41:61,-20,41
+Serie A,2018/2019,15,Cagliari Calcio,38,10,11,17,36:54,-18,41
+Serie A,2018/2019,16,ACF Fiorentina,38,8,17,13,47:45,2,41
+Serie A,2018/2019,17,Genoa CFC,38,8,14,16,39:57,-18,38
+Serie A,2018/2019,18,Empoli FC,38,10,8,20,51:70,-19,38
+Serie A,2018/2019,19,Frosinone Calcio,38,5,10,23,29:69,-40,25
+Serie A,2018/2019,20,Chievo Verona,38,2,14,22,25:75,-50,17
+Ligue 1,2020/2021,1,Lille OSC,38,24,11,3,64:23,41,83
+Ligue 1,2020/2021,2,Paris Saint-Germain,38,26,4,8,86:28,58,82
+Ligue 1,2020/2021,3,AS Monaco,38,24,6,8,76:42,34,78
+Ligue 1,2020/2021,4,Olympique Lyon,38,22,10,6,81:43,38,76
+Ligue 1,2020/2021,5,Olympique Marseille,38,16,12,10,54:47,7,60
+Ligue 1,2020/2021,6,Stade Rennes,38,16,10,12,52:40,12,58
+Ligue 1,2020/2021,7,RC Lens,38,15,12,11,55:54,1,57
+Ligue 1,2020/2021,8,Montpellier HSC,38,14,12,12,60:62,-2,54
+Ligue 1,2020/2021,9,OGC Nice,38,15,7,16,50:53,-3,52
+Ligue 1,2020/2021,10,FC Metz,38,12,11,15,44:48,-4,47
+Ligue 1,2020/2021,11,AS Saint-Étienne,38,12,10,16,42:54,-12,46
+Ligue 1,2020/2021,12,Girondins Bordeaux,38,13,6,19,42:56,-14,45
+Ligue 1,2020/2021,13,Angers SCO,38,12,8,18,40:58,-18,44
+Ligue 1,2020/2021,14,Stade Reims,38,9,15,14,42:50,-8,42
+Ligue 1,2020/2021,15,RC Strasbourg,38,11,9,18,49:58,-9,42
+Ligue 1,2020/2021,16,FC Lorient,38,11,9,18,50:68,-18,42
+Ligue 1,2020/2021,17,Stade Brest,38,11,8,19,50:66,-16,41
+Ligue 1,2020/2021,18,FC Nantes,38,9,13,16,47:55,-8,40
+Ligue 1,2020/2021,19,Nîmes Olympique,38,9,8,21,40:71,-31,35
+Ligue 1,2020/2021,20,Dijon FCO,38,4,9,25,25:73,-48,21
+Serie A,2016/2017,1,Juventus,38,29,4,5,77:27,50,91
+Serie A,2016/2017,2,AS Roma,38,28,3,7,90:38,52,87
+Serie A,2016/2017,3,SSC Napoli,38,26,8,4,94:39,55,86
+Serie A,2016/2017,4,Atalanta,38,21,9,8,62:41,21,72
+Serie A,2016/2017,5,Lazio Roma,38,21,7,10,74:51,23,70
+Serie A,2016/2017,6,AC Milan,38,18,9,11,57:45,12,63
+Serie A,2016/2017,7,Inter,38,19,5,14,72:49,23,62
+Serie A,2016/2017,8,ACF Fiorentina,38,16,12,10,63:57,6,60
+Serie A,2016/2017,9,Torino FC,38,13,14,11,71:66,5,53
+Serie A,2016/2017,10,Sampdoria,38,12,12,14,49:55,-6,48
+Serie A,2016/2017,11,Cagliari Calcio,38,14,5,19,55:76,-21,47
+Serie A,2016/2017,12,Sassuolo Calcio,38,13,7,18,58:63,-5,46
+Serie A,2016/2017,13,Udinese Calcio,38,12,9,17,47:56,-9,45
+Serie A,2016/2017,14,Chievo Verona,38,12,7,19,43:61,-18,43
+Serie A,2016/2017,15,Bologna FC,38,11,8,19,40:58,-18,41
+Serie A,2016/2017,16,Genoa CFC,38,9,9,20,38:64,-26,36
+Serie A,2016/2017,17,FC Crotone,38,9,7,22,34:58,-24,34
+Serie A,2016/2017,18,Empoli FC,38,8,8,22,29:61,-32,32
+Serie A,2016/2017,19,US Palermo,38,6,8,24,33:77,-44,26
+Serie A,2016/2017,20,Pescara Calcio,38,3,9,26,37:81,-44,18
+Bundesliga,1996/1997,1,Bayern München,34,20,11,3,68:34,34,71
+Bundesliga,1996/1997,2,Bayer Leverkusen,34,21,6,7,69:41,28,69
+Bundesliga,1996/1997,3,Borussia Dortmund,34,19,6,9,63:41,22,63
+Bundesliga,1996/1997,4,VfB Stuttgart,34,18,7,9,78:40,38,61
+Bundesliga,1996/1997,5,VfL Bochum,34,14,11,9,54:51,3,53
+Bundesliga,1996/1997,6,Karlsruher SC,34,13,10,11,55:44,11,49
+Bundesliga,1996/1997,7,TSV 1860 München,34,13,10,11,56:56,0,49
+Bundesliga,1996/1997,8,Werder Bremen,34,14,6,14,53:52,1,48
+Bundesliga,1996/1997,9,MSV Duisburg,34,12,9,13,44:49,-5,45
+Bundesliga,1996/1997,10,1. FC Köln,34,13,5,16,62:62,0,44
+Bundesliga,1996/1997,11,Bor. Mönchengladbach,34,12,7,15,46:48,-2,43
+Bundesliga,1996/1997,12,FC Schalke 04,34,11,10,13,35:40,-5,43
+Bundesliga,1996/1997,13,Hamburger SV,34,10,11,13,46:60,-14,41
+Bundesliga,1996/1997,14,Arminia Bielefeld,34,11,7,16,46:54,-8,40
+Bundesliga,1996/1997,15,Hansa Rostock,34,11,7,16,35:46,-11,40
+Bundesliga,1996/1997,16,Fortuna Düsseldorf,34,9,6,19,26:57,-31,33
+Bundesliga,1996/1997,17,SC Freiburg,34,8,5,21,43:67,-24,29
+Bundesliga,1996/1997,18,FC St. Pauli,34,7,6,21,32:69,-37,27
+Bundesliga,2002/2003,1,Bayern München,34,23,6,5,70:25,45,75
+Bundesliga,2002/2003,2,VfB Stuttgart,34,17,8,9,53:39,14,59
+Bundesliga,2002/2003,3,Borussia Dortmund,34,15,13,6,51:27,24,58
+Bundesliga,2002/2003,4,Hamburger SV,34,15,11,8,46:36,10,56
+Bundesliga,2002/2003,5,Hertha BSC,34,16,6,12,52:43,9,54
+Bundesliga,2002/2003,6,Werder Bremen,34,16,4,14,51:50,1,52
+Bundesliga,2002/2003,7,FC Schalke 04,34,12,13,9,46:40,6,49
+Bundesliga,2002/2003,8,VfL Wolfsburg,34,13,7,14,39:42,-3,46
+Bundesliga,2002/2003,9,VfL Bochum,34,12,9,13,55:56,-1,45
+Bundesliga,2002/2003,10,TSV 1860 München,34,12,9,13,44:52,-8,45
+Bundesliga,2002/2003,11,Hannover 96,34,12,7,15,47:57,-10,43
+Bundesliga,2002/2003,12,Bor. Mönchengladbach,34,11,9,14,43:45,-2,42
+Bundesliga,2002/2003,13,Hansa Rostock,34,11,8,15,35:41,-6,41
+Bundesliga,2002/2003,14,1. FC Kaiserslautern,34,10,10,14,40:42,-2,40
+Bundesliga,2002/2003,15,Bayer Leverkusen,34,11,7,16,47:56,-9,40
+Bundesliga,2002/2003,16,Arminia Bielefeld,34,8,12,14,35:46,-11,36
+Bundesliga,2002/2003,17,1. FC Nürnberg,34,8,6,20,33:60,-27,30
+Bundesliga,2002/2003,18,Energie Cottbus,34,7,9,18,34:64,-30,30
+Serie A,2000/2001,1,AS Roma,34,22,9,3,68:33,35,75
+Serie A,2000/2001,2,Juventus,34,21,10,3,61:27,34,73
+Serie A,2000/2001,3,Lazio Roma,34,21,6,7,65:36,29,69
+Serie A,2000/2001,4,Parma AC,34,16,8,10,51:31,20,56
+Serie A,2000/2001,5,Inter,34,14,9,11,47:47,0,51
+Serie A,2000/2001,6,AC Milan,34,12,13,9,56:46,10,49
+Serie A,2000/2001,7,Atalanta,34,10,14,10,38:34,4,44
+Serie A,2000/2001,8,Brescia Calcio,34,10,14,10,44:42,2,44
+Serie A,2000/2001,9,ACF Fiorentina,34,10,13,11,53:52,1,43
+Serie A,2000/2001,10,Bologna FC,34,11,10,13,49:53,-4,43
+Serie A,2000/2001,11,AC Perugia,34,10,12,12,49:53,-4,42
+Serie A,2000/2001,12,Udinese Calcio,34,11,5,18,49:59,-10,38
+Serie A,2000/2001,13,US Lecce,34,8,13,13,40:54,-14,37
+Serie A,2000/2001,14,Reggina Calcio,34,10,7,17,32:49,-17,37
+Serie A,2000/2001,15,Hellas Verona,34,10,7,17,40:59,-19,37
+Serie A,2000/2001,16,Vicenza Calcio,34,9,9,16,37:51,-14,36
+Serie A,2000/2001,17,SSC Napoli,34,8,12,14,35:51,-16,36
+Serie A,2000/2001,18,AS Bari,34,5,5,24,31:68,-37,20
+Bundesliga,2000/2001,1,Bayern München,34,19,6,9,62:37,25,63
+Bundesliga,2000/2001,2,FC Schalke 04,34,18,8,8,65:35,30,62
+Bundesliga,2000/2001,3,Borussia Dortmund,34,16,10,8,62:42,20,58
+Bundesliga,2000/2001,4,Bayer Leverkusen,34,17,6,11,54:40,14,57
+Bundesliga,2000/2001,5,Hertha BSC,34,18,2,14,58:52,6,56
+Bundesliga,2000/2001,6,SC Freiburg,34,15,10,9,54:37,17,55
+Bundesliga,2000/2001,7,Werder Bremen,34,15,8,11,53:48,5,53
+Bundesliga,2000/2001,8,1. FC Kaiserslautern,34,15,5,14,49:54,-5,50
+Bundesliga,2000/2001,9,VfL Wolfsburg,34,12,11,11,60:45,15,47
+Bundesliga,2000/2001,10,1. FC Köln,34,12,10,12,59:52,7,46
+Bundesliga,2000/2001,11,TSV 1860 München,34,12,8,14,43:55,-12,44
+Bundesliga,2000/2001,12,Hansa Rostock,34,12,7,15,34:47,-13,43
+Bundesliga,2000/2001,13,Hamburger SV,34,10,11,13,58:58,0,41
+Bundesliga,2000/2001,14,Energie Cottbus,34,12,3,19,38:52,-14,39
+Bundesliga,2000/2001,15,VfB Stuttgart,34,9,11,14,42:49,-7,38
+Bundesliga,2000/2001,16,SpVgg Unterhaching,34,8,11,15,35:59,-24,35
+Bundesliga,2000/2001,17,Eintracht Frankfurt,34,10,5,19,41:68,-27,35
+Bundesliga,2000/2001,18,VfL Bochum,34,7,6,21,30:67,-37,27
+Ligue 1,2005/2006,1,Olympique Lyon,38,25,9,4,73:31,42,84
+Ligue 1,2005/2006,2,Girondins Bordeaux,38,18,15,5,43:25,18,69
+Ligue 1,2005/2006,3,Lille OSC,38,16,14,8,56:31,25,62
+Ligue 1,2005/2006,4,RC Lens,38,14,18,6,48:34,14,60
+Ligue 1,2005/2006,5,Olympique Marseille,38,16,12,10,44:35,9,60
+Ligue 1,2005/2006,6,AJ Auxerre,38,17,8,13,50:39,11,59
+Ligue 1,2005/2006,7,Stade Rennes,38,18,5,15,48:49,-1,59
+Ligue 1,2005/2006,8,OGC Nice,38,16,10,12,36:31,5,58
+Ligue 1,2005/2006,9,Paris Saint-Germain,38,13,13,12,44:38,6,52
+Ligue 1,2005/2006,10,AS Monaco,38,13,13,12,42:36,6,52
+Ligue 1,2005/2006,11,Le Mans UC 72,38,13,13,12,33:36,-3,52
+Ligue 1,2005/2006,12,AS Nancy,38,12,12,14,35:37,-2,48
+Ligue 1,2005/2006,13,AS Saint-Étienne,38,11,14,13,29:39,-10,47
+Ligue 1,2005/2006,14,FC Nantes,38,11,12,15,37:41,-4,45
+Ligue 1,2005/2006,15,FC Sochaux,38,11,11,16,34:47,-13,44
+Ligue 1,2005/2006,16,Toulouse FC,38,10,11,17,36:47,-11,41
+Ligue 1,2005/2006,17,ESTAC Troyes,38,9,12,17,37:47,-10,39
+Ligue 1,2005/2006,18,AC Ajaccio,38,8,9,21,27:53,-26,33
+Ligue 1,2005/2006,19,RC Strasbourg,38,5,14,19,33:56,-23,29
+Ligue 1,2005/2006,20,FC Metz,38,6,11,21,26:59,-33,29
+Ligue 1,1998/1999,1,Girondins Bordeaux,34,22,6,6,66:29,37,72
+Ligue 1,1998/1999,2,Olympique Marseille,34,21,8,5,56:28,28,71
+Ligue 1,1998/1999,3,Olympique Lyon,34,18,9,7,51:31,20,63
+Ligue 1,1998/1999,4,AS Monaco,34,18,8,8,52:32,20,62
+Ligue 1,1998/1999,5,Stade Rennes,34,17,8,9,45:38,7,59
+Ligue 1,1998/1999,6,RC Lens,34,14,7,13,46:43,3,49
+Ligue 1,1998/1999,7,FC Nantes,34,12,12,10,40:34,6,48
+Ligue 1,1998/1999,8,Montpellier HSC,34,11,10,13,53:50,3,43
+Ligue 1,1998/1999,9,Paris Saint-Germain,34,10,9,15,34:35,-1,39
+Ligue 1,1998/1999,10,FC Metz,34,9,12,13,28:37,-9,39
+Ligue 1,1998/1999,11,AS Nancy,34,10,9,15,35:45,-10,39
+Ligue 1,1998/1999,12,RC Strasbourg,34,8,14,12,30:36,-6,38
+Ligue 1,1998/1999,13,SC Bastia,34,10,8,16,37:46,-9,38
+Ligue 1,1998/1999,14,AJ Auxerre,34,9,10,15,40:45,-5,37
+Ligue 1,1998/1999,15,Le Havre AC,34,8,11,15,23:38,-15,35
+Ligue 1,1998/1999,16,FC Lorient,34,8,11,15,33:49,-16,35
+Ligue 1,1998/1999,17,FC Sochaux,34,6,15,13,30:54,-24,33
+Ligue 1,1998/1999,18,Toulouse FC,34,6,11,17,24:53,-29,29
+Ligue 1,1994/1995,1,FC Nantes,38,21,16,1,71:34,37,79
+Ligue 1,1994/1995,2,Olympique Lyon,38,19,12,7,56:38,18,69
+Ligue 1,1994/1995,3,Paris Saint-Germain,38,20,7,11,58:41,17,67
+Ligue 1,1994/1995,4,AJ Auxerre,38,15,17,6,59:34,25,62
+Ligue 1,1994/1995,5,RC Lens,38,15,14,9,48:44,4,59
+Ligue 1,1994/1995,6,AS Monaco,38,15,12,11,60:39,21,57
+Ligue 1,1994/1995,7,Girondins Bordeaux,38,16,9,13,52:47,5,57
+Ligue 1,1994/1995,8,FC Metz,38,16,8,14,50:44,6,56
+Ligue 1,1994/1995,9,AS Cannes,38,15,8,15,56:48,8,53
+Ligue 1,1994/1995,10,RC Strasbourg,38,13,12,13,43:43,0,51
+Ligue 1,1994/1995,11,FC Martigues,38,13,12,13,37:49,-12,51
+Ligue 1,1994/1995,12,Le Havre AC,38,12,13,13,46:49,-3,49
+Ligue 1,1994/1995,13,Stade Rennes,38,12,12,14,53:55,-2,48
+Ligue 1,1994/1995,14,Lille OSC,38,13,9,16,29:44,-15,48
+Ligue 1,1994/1995,15,SC Bastia,38,11,11,16,44:56,-12,44
+Ligue 1,1994/1995,16,OGC Nice,38,11,10,17,39:52,-13,43
+Ligue 1,1994/1995,17,Montpellier HSC,38,9,14,15,38:53,-15,41
+Ligue 1,1994/1995,18,AS Saint-Étienne,38,9,11,18,45:55,-10,38
+Ligue 1,1994/1995,19,SM Caen,38,10,6,22,38:58,-20,36
+Ligue 1,1994/1995,20,FC Sochaux,38,6,5,27,29:68,-39,23
+Serie A,2002/2003,1,Juventus,34,21,9,4,64:29,35,72
+Serie A,2002/2003,2,Inter,34,19,8,7,64:38,26,65
+Serie A,2002/2003,3,AC Milan,34,18,7,9,55:30,25,61
+Serie A,2002/2003,4,Lazio Roma,34,15,15,4,57:32,25,60
+Serie A,2002/2003,5,Parma AC,34,15,11,8,55:36,19,56
+Serie A,2002/2003,6,Udinese Calcio,34,16,8,10,38:35,3,56
+Serie A,2002/2003,7,Chievo Verona,34,16,7,11,51:39,12,55
+Serie A,2002/2003,8,AS Roma,34,13,10,11,55:46,9,49
+Serie A,2002/2003,9,Brescia Calcio,34,9,15,10,36:38,-2,42
+Serie A,2002/2003,10,AC Perugia,34,10,12,12,40:48,-8,42
+Serie A,2002/2003,11,Bologna FC,34,10,11,13,39:47,-8,41
+Serie A,2002/2003,12,Empoli FC,34,9,11,14,36:46,-10,38
+Serie A,2002/2003,13,Atalanta,34,8,14,12,35:47,-12,38
+Serie A,2002/2003,14,Reggina Calcio,34,10,8,16,38:53,-15,38
+Serie A,2002/2003,15,Modena FC,34,9,11,14,30:48,-18,38
+Serie A,2002/2003,16,Piacenza Calcio,34,8,6,20,44:62,-18,30
+Serie A,2002/2003,17,Calcio Como,34,4,12,18,29:57,-28,24
+Serie A,2002/2003,18,Torino FC,34,4,9,21,23:58,-35,21
+Ligue 1,2000/2001,1,FC Nantes,34,21,5,8,58:36,22,68
+Ligue 1,2000/2001,2,Olympique Lyon,34,17,13,4,57:30,27,64
+Ligue 1,2000/2001,3,Lille OSC,34,16,11,7,43:27,16,59
+Ligue 1,2000/2001,4,Girondins Bordeaux,34,15,12,7,48:33,15,57
+Ligue 1,2000/2001,5,CS Sedan,34,14,10,10,47:40,7,52
+Ligue 1,2000/2001,6,Stade Rennes,34,14,6,14,46:37,9,50
+Ligue 1,2000/2001,7,ESTAC Troyes,34,11,13,10,45:47,-2,46
+Ligue 1,2000/2001,8,SC Bastia,34,13,6,15,45:41,4,45
+Ligue 1,2000/2001,9,Paris Saint-Germain,34,12,8,14,44:45,-1,44
+Ligue 1,2000/2001,10,EA Guingamp,34,11,11,12,40:48,-8,44
+Ligue 1,2000/2001,11,AS Monaco,34,12,7,15,53:50,3,43
+Ligue 1,2000/2001,12,FC Metz,34,11,10,13,35:44,-9,42
+Ligue 1,2000/2001,13,AJ Auxerre,34,11,8,15,31:41,-10,41
+Ligue 1,2000/2001,14,RC Lens,34,9,13,12,37:39,-2,40
+Ligue 1,2000/2001,15,Olympique Marseille,34,11,7,16,31:40,-9,40
+Ligue 1,2000/2001,16,Toulouse FC,34,8,10,16,34:49,-15,37
+Ligue 1,2000/2001,17,AS Saint-Étienne,34,9,10,15,42:56,-14,34
+Ligue 1,2000/2001,18,RC Strasbourg,34,7,8,19,28:61,-33,29
+Ligue 1,2001/2002,1,Olympique Lyon,34,20,6,8,62:32,30,66
+Ligue 1,2001/2002,2,RC Lens,34,18,10,6,55:30,25,64
+Ligue 1,2001/2002,3,AJ Auxerre,34,16,11,7,48:38,10,59
+Ligue 1,2001/2002,4,Paris Saint-Germain,34,15,13,6,43:24,19,58
+Ligue 1,2001/2002,5,Lille OSC,34,15,11,8,39:32,7,56
+Ligue 1,2001/2002,6,Girondins Bordeaux,34,14,8,12,34:31,3,50
+Ligue 1,2001/2002,7,ESTAC Troyes,34,13,8,13,40:35,5,47
+Ligue 1,2001/2002,8,FC Sochaux,34,12,10,12,41:40,1,46
+Ligue 1,2001/2002,9,Olympique Marseille,34,11,11,12,34:39,-5,44
+Ligue 1,2001/2002,10,FC Nantes,34,12,7,15,35:41,-6,43
+Ligue 1,2001/2002,11,SC Bastia,34,12,5,17,38:44,-6,41
+Ligue 1,2001/2002,12,Stade Rennes,34,11,8,15,40:51,-11,41
+Ligue 1,2001/2002,13,Montpellier HSC,34,9,13,12,28:31,-3,40
+Ligue 1,2001/2002,14,CS Sedan,34,8,15,11,35:39,-4,39
+Ligue 1,2001/2002,15,AS Monaco,34,9,12,13,36:41,-5,39
+Ligue 1,2001/2002,16,EA Guingamp,34,9,8,17,34:57,-23,35
+Ligue 1,2001/2002,17,FC Metz,34,9,6,19,31:47,-16,33
+Ligue 1,2001/2002,18,FC Lorient,34,7,10,17,43:64,-21,31
+Bundesliga,2009/2010,1,Bayern München,34,20,10,4,72:31,41,70
+Bundesliga,2009/2010,2,FC Schalke 04,34,19,8,7,53:31,22,65
+Bundesliga,2009/2010,3,Werder Bremen,34,17,10,7,71:40,31,61
+Bundesliga,2009/2010,4,Bayer Leverkusen,34,15,14,5,65:38,27,59
+Bundesliga,2009/2010,5,Borussia Dortmund,34,16,9,9,54:42,12,57
+Bundesliga,2009/2010,6,VfB Stuttgart,34,15,10,9,51:41,10,55
+Bundesliga,2009/2010,7,Hamburger SV,34,13,13,8,56:41,15,52
+Bundesliga,2009/2010,8,VfL Wolfsburg,34,14,8,12,64:58,6,50
+Bundesliga,2009/2010,9,1. FSV Mainz 05,34,12,11,11,36:42,-6,47
+Bundesliga,2009/2010,10,Eintracht Frankfurt,34,12,10,12,47:54,-7,46
+Bundesliga,2009/2010,11,1899 Hoffenheim,34,11,9,14,44:42,2,42
+Bundesliga,2009/2010,12,Bor. Mönchengladbach,34,10,9,15,43:60,-17,39
+Bundesliga,2009/2010,13,1. FC Köln,34,9,11,14,33:42,-9,38
+Bundesliga,2009/2010,14,SC Freiburg,34,9,8,17,35:59,-24,35
+Bundesliga,2009/2010,15,Hannover 96,34,9,6,19,43:67,-24,33
+Bundesliga,2009/2010,16,1. FC Nürnberg,34,8,7,19,32:58,-26,31
+Bundesliga,2009/2010,17,VfL Bochum,34,6,10,18,33:64,-31,28
+Bundesliga,2009/2010,18,Hertha BSC,34,5,9,20,34:56,-22,24
+Serie A,1995/1996,1,AC Milan,34,21,10,3,60:24,36,73
+Serie A,1995/1996,2,Juventus,34,19,8,7,58:35,23,65
+Serie A,1995/1996,3,Lazio Roma,34,17,8,9,66:38,28,59
+Serie A,1995/1996,4,ACF Fiorentina,34,17,8,9,53:41,12,59
+Serie A,1995/1996,5,AS Roma,34,16,10,8,51:34,17,58
+Serie A,1995/1996,6,Parma AC,34,16,10,8,44:31,13,58
+Serie A,1995/1996,7,Inter,34,15,9,10,51:30,21,54
+Serie A,1995/1996,8,Sampdoria,34,14,10,10,59:47,12,52
+Serie A,1995/1996,9,Vicenza Calcio,34,13,10,11,36:37,-1,49
+Serie A,1995/1996,10,Udinese Calcio,34,11,8,15,41:49,-8,41
+Serie A,1995/1996,11,Cagliari Calcio,34,11,8,15,34:47,-13,41
+Serie A,1995/1996,12,SSC Napoli,34,10,11,13,28:41,-13,41
+Serie A,1995/1996,13,Atalanta,34,11,6,17,38:50,-12,39
+Serie A,1995/1996,14,Piacenza Calcio,34,9,10,15,31:48,-17,37
+Serie A,1995/1996,15,AS Bari,34,8,8,18,49:71,-22,32
+Serie A,1995/1996,16,Torino FC,34,6,11,17,28:46,-18,29
+Serie A,1995/1996,17,US Cremonese,34,5,12,17,37:57,-20,27
+Serie A,1995/1996,18,Calcio Padova,34,7,3,24,41:79,-38,24
+Serie A,2006/2007,1,Inter,38,30,7,1,80:34,46,97
+Serie A,2006/2007,2,AS Roma,38,22,9,7,74:34,40,75
+Serie A,2006/2007,3,Lazio Roma,38,18,11,9,59:33,26,62
+Serie A,2006/2007,4,AC Milan,38,19,12,7,57:36,21,61
+Serie A,2006/2007,5,US Palermo,38,16,10,12,58:51,7,58
+Serie A,2006/2007,6,ACF Fiorentina,38,21,10,7,62:31,31,58
+Serie A,2006/2007,7,Empoli FC,38,14,12,12,42:43,-1,54
+Serie A,2006/2007,8,Atalanta,38,12,14,12,56:54,2,50
+Serie A,2006/2007,9,Sampdoria,38,13,10,15,44:48,-4,49
+Serie A,2006/2007,10,Udinese Calcio,38,12,10,16,49:55,-6,46
+Serie A,2006/2007,11,AS Livorno,38,10,13,15,41:54,-13,43
+Serie A,2006/2007,12,Parma FC,38,10,12,16,41:56,-15,42
+Serie A,2006/2007,13,Calcio Catania,38,10,11,17,46:68,-22,41
+Serie A,2006/2007,14,Reggina Calcio,38,12,15,11,52:50,2,40
+Serie A,2006/2007,15,AC Siena,38,9,14,15,35:45,-10,40
+Serie A,2006/2007,16,Torino FC,38,10,10,18,27:47,-20,40
+Serie A,2006/2007,17,Cagliari Calcio,38,9,13,16,35:46,-11,40
+Serie A,2006/2007,18,Chievo Verona,38,9,12,17,38:48,-10,39
+Serie A,2006/2007,19,Ascoli Calcio,38,5,12,21,36:67,-31,27
+Serie A,2006/2007,20,FC Messina,38,5,11,22,37:69,-32,26
+Serie A,2005/2006,1,Juventus,38,27,10,1,71:24,47,91
+Serie A,2005/2006,2,Inter,38,23,7,8,68:30,38,76
+Serie A,2005/2006,3,AS Roma,38,19,12,7,70:42,28,69
+Serie A,2005/2006,4,AC Milan,38,28,4,6,85:31,54,58
+Serie A,2005/2006,5,Chievo Verona,38,13,15,10,54:49,5,54
+Serie A,2005/2006,6,US Palermo,38,13,13,12,50:52,-2,52
+Serie A,2005/2006,7,AS Livorno,38,12,13,13,37:44,-7,49
+Serie A,2005/2006,8,Empoli FC,38,13,6,19,47:61,-14,45
+Serie A,2005/2006,9,Parma FC,38,12,9,17,46:60,-14,45
+Serie A,2005/2006,10,ACF Fiorentina,38,22,8,8,66:41,25,44
+Serie A,2005/2006,11,Ascoli Calcio,38,9,16,13,43:53,-10,43
+Serie A,2005/2006,12,Udinese Calcio,38,11,10,17,40:54,-14,43
+Serie A,2005/2006,13,Sampdoria,38,10,11,17,47:51,-4,41
+Serie A,2005/2006,14,Reggina Calcio,38,11,8,19,39:65,-26,41
+Serie A,2005/2006,15,Cagliari Calcio,38,8,15,15,42:55,-13,39
+Serie A,2005/2006,16,AC Siena,38,9,12,17,42:60,-18,39
+Serie A,2005/2006,17,Lazio Roma,38,16,14,8,57:47,10,32
+Serie A,2005/2006,18,FC Messina,38,6,13,19,33:59,-26,31
+Serie A,2005/2006,19,US Lecce,38,7,8,23,30:57,-27,29
+Serie A,2005/2006,20,Treviso FBC,38,3,12,23,24:56,-32,21
+Ligue 1,1997/1998,1,RC Lens,34,21,5,8,55:30,25,68
+Ligue 1,1997/1998,2,FC Metz,34,20,8,6,48:28,20,68
+Ligue 1,1997/1998,3,AS Monaco,34,18,5,11,51:33,18,59
+Ligue 1,1997/1998,4,Olympique Marseille,34,16,9,9,47:27,20,57
+Ligue 1,1997/1998,5,Girondins Bordeaux,34,15,11,8,49:41,8,56
+Ligue 1,1997/1998,6,Olympique Lyon,34,16,5,13,39:37,2,53
+Ligue 1,1997/1998,7,AJ Auxerre,34,14,9,11,55:45,10,51
+Ligue 1,1997/1998,8,Paris Saint-Germain,34,14,8,12,43:35,8,50
+Ligue 1,1997/1998,9,SC Bastia,34,13,11,10,36:31,5,50
+Ligue 1,1997/1998,10,Le Havre AC,34,10,14,10,38:35,3,44
+Ligue 1,1997/1998,11,FC Nantes,34,11,8,15,35:41,-6,41
+Ligue 1,1997/1998,12,Montpellier HSC,34,10,11,13,32:42,-10,41
+Ligue 1,1997/1998,13,RC Strasbourg,34,9,10,15,39:43,-4,37
+Ligue 1,1997/1998,14,Stade Rennes,34,9,9,16,36:48,-12,36
+Ligue 1,1997/1998,15,Toulouse FC,34,9,9,16,26:46,-20,36
+Ligue 1,1997/1998,16,EA Guingamp,34,9,8,17,30:42,-12,35
+Ligue 1,1997/1998,17,LB Châteauroux,34,8,7,19,31:59,-28,31
+Ligue 1,1997/1998,18,AS Cannes,34,7,7,20,32:59,-27,28
+Ligue 1,2007/2008,1,Olympique Lyon,38,24,7,7,74:37,37,79
+Ligue 1,2007/2008,2,Girondins Bordeaux,38,22,9,7,65:38,27,75
+Ligue 1,2007/2008,3,Olympique Marseille,38,17,11,10,58:45,13,62
+Ligue 1,2007/2008,4,AS Nancy,38,15,15,8,44:30,14,60
+Ligue 1,2007/2008,5,AS Saint-Étienne,38,16,10,12,47:34,13,58
+Ligue 1,2007/2008,6,Stade Rennes,38,16,10,12,47:44,3,58
+Ligue 1,2007/2008,7,Lille OSC,38,13,18,7,45:32,13,57
+Ligue 1,2007/2008,8,OGC Nice,38,13,16,9,35:30,5,55
+Ligue 1,2007/2008,9,Le Mans UC 72,38,14,11,13,46:49,-3,53
+Ligue 1,2007/2008,10,FC Lorient,38,12,16,10,32:35,-3,52
+Ligue 1,2007/2008,11,SM Caen,38,13,12,13,48:53,-5,51
+Ligue 1,2007/2008,12,AS Monaco,38,13,8,17,40:48,-8,47
+Ligue 1,2007/2008,13,Valenciennes FC,38,12,9,17,42:40,2,45
+Ligue 1,2007/2008,14,FC Sochaux,38,10,14,14,34:43,-9,44
+Ligue 1,2007/2008,15,AJ Auxerre,38,12,8,18,33:52,-19,44
+Ligue 1,2007/2008,16,Paris Saint-Germain,38,10,13,15,37:45,-8,43
+Ligue 1,2007/2008,17,Toulouse FC,38,9,15,14,36:42,-6,42
+Ligue 1,2007/2008,18,RC Lens,38,9,13,16,43:52,-9,40
+Ligue 1,2007/2008,19,RC Strasbourg,38,9,8,21,34:55,-21,35
+Ligue 1,2007/2008,20,FC Metz,38,5,9,24,28:64,-36,24
+Ligue 1,2003/2004,1,Olympique Lyon,38,24,7,7,64:26,38,79
+Ligue 1,2003/2004,2,Paris Saint-Germain,38,22,10,6,50:28,22,76
+Ligue 1,2003/2004,3,AS Monaco,38,21,12,5,59:30,29,75
+Ligue 1,2003/2004,4,AJ Auxerre,38,19,8,11,60:34,26,65
+Ligue 1,2003/2004,5,FC Sochaux,38,18,9,11,54:42,12,63
+Ligue 1,2003/2004,6,FC Nantes,38,17,9,12,47:35,12,60
+Ligue 1,2003/2004,7,Olympique Marseille,38,17,6,15,51:45,6,57
+Ligue 1,2003/2004,8,RC Lens,38,15,8,15,34:48,-14,53
+Ligue 1,2003/2004,9,Stade Rennes,38,14,10,14,56:44,12,52
+Ligue 1,2003/2004,10,Lille OSC,38,14,9,15,41:41,0,51
+Ligue 1,2003/2004,11,OGC Nice,38,11,17,10,42:39,3,50
+Ligue 1,2003/2004,12,Girondins Bordeaux,38,13,11,14,40:43,-3,50
+Ligue 1,2003/2004,13,RC Strasbourg,38,10,13,15,43:50,-7,43
+Ligue 1,2003/2004,14,FC Metz,38,11,9,18,34:42,-8,42
+Ligue 1,2003/2004,15,AC Ajaccio,38,10,10,18,33:55,-22,40
+Ligue 1,2003/2004,16,Toulouse FC,38,9,12,17,31:44,-13,39
+Ligue 1,2003/2004,17,SC Bastia,38,9,12,17,33:49,-16,39
+Ligue 1,2003/2004,18,EA Guingamp,38,10,8,20,36:58,-22,38
+Ligue 1,2003/2004,19,Le Mans UC 72,38,9,11,18,35:57,-22,38
+Ligue 1,2003/2004,20,Montpellier HSC,38,8,7,23,41:74,-33,31
+Ligue 1,2009/2010,1,Olympique Marseille,38,23,9,6,69:36,33,78
+Ligue 1,2009/2010,2,Olympique Lyon,38,20,12,6,64:38,26,72
+Ligue 1,2009/2010,3,AJ Auxerre,38,20,11,7,42:29,13,71
+Ligue 1,2009/2010,4,Lille OSC,38,21,7,10,72:40,32,70
+Ligue 1,2009/2010,5,Montpellier HSC,38,20,9,9,50:40,10,69
+Ligue 1,2009/2010,6,Girondins Bordeaux,38,19,7,12,58:40,18,64
+Ligue 1,2009/2010,7,FC Lorient,38,16,10,12,54:42,12,58
+Ligue 1,2009/2010,8,AS Monaco,38,15,10,13,39:45,-6,55
+Ligue 1,2009/2010,9,Stade Rennes,38,14,11,13,52:41,11,53
+Ligue 1,2009/2010,10,Valenciennes FC,38,14,10,14,50:50,0,52
+Ligue 1,2009/2010,11,RC Lens,38,12,12,14,40:44,-4,48
+Ligue 1,2009/2010,12,AS Nancy,38,13,9,16,46:53,-7,48
+Ligue 1,2009/2010,13,Paris Saint-Germain,38,12,11,15,50:46,4,47
+Ligue 1,2009/2010,14,Toulouse FC,38,12,11,15,36:36,0,47
+Ligue 1,2009/2010,15,OGC Nice,38,11,11,16,41:57,-16,44
+Ligue 1,2009/2010,16,FC Sochaux,38,11,8,19,28:52,-24,41
+Ligue 1,2009/2010,17,AS Saint-Étienne,38,10,10,18,27:45,-18,40
+Ligue 1,2009/2010,18,Le Mans UC 72,38,8,8,22,36:59,-23,32
+Ligue 1,2009/2010,19,US Boulogne,38,7,10,21,31:62,-31,31
+Ligue 1,2009/2010,20,Grenoble Foot 38,38,5,8,25,31:61,-30,23
+Ligue 1,2002/2003,1,Olympique Lyon,38,19,11,8,63:41,22,68
+Ligue 1,2002/2003,2,AS Monaco,38,19,10,9,66:33,33,67
+Ligue 1,2002/2003,3,Olympique Marseille,38,19,8,11,41:36,5,65
+Ligue 1,2002/2003,4,Girondins Bordeaux,38,18,10,10,57:36,21,64
+Ligue 1,2002/2003,5,FC Sochaux,38,17,13,8,46:31,15,64
+Ligue 1,2002/2003,6,AJ Auxerre,38,18,10,10,38:29,9,64
+Ligue 1,2002/2003,7,EA Guingamp,38,19,5,14,59:46,13,62
+Ligue 1,2002/2003,8,RC Lens,38,14,15,9,43:31,12,57
+Ligue 1,2002/2003,9,FC Nantes,38,16,8,14,37:39,-2,56
+Ligue 1,2002/2003,10,OGC Nice,38,13,16,9,39:31,8,55
+Ligue 1,2002/2003,11,Paris Saint-Germain,38,14,12,12,47:36,11,54
+Ligue 1,2002/2003,12,SC Bastia,38,12,11,15,40:48,-8,47
+Ligue 1,2002/2003,13,RC Strasbourg,38,11,12,15,40:54,-14,45
+Ligue 1,2002/2003,14,Lille OSC,38,10,12,16,29:44,-15,42
+Ligue 1,2002/2003,15,Stade Rennes,38,10,10,18,35:45,-10,40
+Ligue 1,2002/2003,16,Montpellier HSC,38,10,10,18,37:54,-17,40
+Ligue 1,2002/2003,17,AC Ajaccio,38,9,12,17,29:49,-20,39
+Ligue 1,2002/2003,18,Le Havre AC,38,10,8,20,27:47,-20,38
+Ligue 1,2002/2003,19,CS Sedan,38,9,9,20,41:59,-18,36
+Ligue 1,2002/2003,20,ESTAC Troyes,38,7,10,21,23:48,-25,31
+Primera División,1999/2000,1,Deportivo La Coruña,38,21,6,11,66:44,22,69
+Primera División,1999/2000,2,FC Barcelona,38,19,7,12,70:46,24,64
+Primera División,1999/2000,3,Valencia CF,38,18,10,10,59:39,20,64
+Primera División,1999/2000,4,Real Zaragoza,38,16,15,7,60:40,20,63
+Primera División,1999/2000,5,Real Madrid,38,16,14,8,58:48,10,62
+Primera División,1999/2000,6,CD Alavés,38,17,10,11,41:37,4,61
+Primera División,1999/2000,7,Celta Vigo,38,15,8,15,45:43,2,53
+Primera División,1999/2000,8,Real Valladolid,38,14,11,13,36:44,-8,53
+Primera División,1999/2000,9,Rayo Vallecano,38,15,7,16,51:53,-2,52
+Primera División,1999/2000,10,RCD Mallorca,38,14,9,15,52:45,7,51
+Primera División,1999/2000,11,Athletic Bilbao,38,12,14,12,47:57,-10,50
+Primera División,1999/2000,12,Málaga CF,38,11,15,12,55:50,5,48
+Primera División,1999/2000,13,Espanyol Barcelona,38,12,11,15,51:48,3,47
+Primera División,1999/2000,14,Real Sociedad,38,11,14,13,42:49,-7,47
+Primera División,1999/2000,15,Racing Santander,38,10,16,12,52:50,2,46
+Primera División,1999/2000,16,CD Numancia,38,11,12,15,47:59,-12,45
+Primera División,1999/2000,17,Real Oviedo,38,11,12,15,44:60,-16,45
+Primera División,1999/2000,18,Real Betis,38,11,9,18,33:56,-23,42
+Primera División,1999/2000,19,Atlético Madrid,38,9,11,18,48:64,-16,38
+Primera División,1999/2000,20,Sevilla FC,38,5,13,20,42:67,-25,28
+Primera División,2002/2003,1,Real Madrid,38,22,12,4,86:42,44,78
+Primera División,2002/2003,2,Real Sociedad,38,22,10,6,71:45,26,76
+Primera División,2002/2003,3,Deportivo La Coruña,38,22,6,10,67:47,20,72
+Primera División,2002/2003,4,Celta Vigo,38,17,10,11,45:36,9,61
+Primera División,2002/2003,5,Valencia CF,38,17,9,12,56:35,21,60
+Primera División,2002/2003,6,FC Barcelona,38,15,11,12,63:47,16,56
+Primera División,2002/2003,7,Athletic Bilbao,38,15,10,13,63:61,2,55
+Primera División,2002/2003,8,Real Betis,38,14,12,12,56:53,3,54
+Primera División,2002/2003,9,RCD Mallorca,38,14,10,14,49:56,-7,52
+Primera División,2002/2003,10,Sevilla FC,38,13,11,14,38:39,-1,50
+Primera División,2002/2003,11,Atlético Madrid,38,12,11,15,51:56,-5,47
+Primera División,2002/2003,12,CA Osasuna,38,12,11,15,40:48,-8,47
+Primera División,2002/2003,13,Real Valladolid,38,12,10,16,37:40,-3,46
+Primera División,2002/2003,14,Málaga CF,38,11,13,14,44:49,-5,46
+Primera División,2002/2003,15,Villarreal CF,38,11,12,15,44:53,-9,45
+Primera División,2002/2003,16,Racing Santander,38,13,5,20,54:64,-10,44
+Primera División,2002/2003,17,Espanyol Barcelona,38,10,13,15,48:54,-6,43
+Primera División,2002/2003,18,Recreativo Huelva,38,8,12,18,35:61,-26,36
+Primera División,2002/2003,19,CD Alavés,38,8,11,19,38:68,-30,35
+Primera División,2002/2003,20,Rayo Vallecano,38,7,11,20,31:62,-31,32
+Premier League,1995/1996,1,Manchester United,38,25,7,6,73:35,38,82
+Premier League,1995/1996,2,Newcastle United,38,24,6,8,66:37,29,78
+Premier League,1995/1996,3,Liverpool FC,38,20,11,7,70:34,36,71
+Premier League,1995/1996,4,Aston Villa,38,18,9,11,52:35,17,63
+Premier League,1995/1996,5,Arsenal FC,38,17,12,9,49:32,17,63
+Premier League,1995/1996,6,Everton FC,38,17,10,11,64:44,20,61
+Premier League,1995/1996,7,Blackburn Rovers,38,18,7,13,61:47,14,61
+Premier League,1995/1996,8,Tottenham Hotspur,38,16,13,9,50:38,12,61
+Premier League,1995/1996,9,Nottingham Forest,38,15,13,10,50:54,-4,58
+Premier League,1995/1996,10,West Ham United,38,14,9,15,43:52,-9,51
+Premier League,1995/1996,11,Chelsea FC,38,12,14,12,46:44,2,50
+Premier League,1995/1996,12,Middlesbrough FC,38,11,10,17,35:50,-15,43
+Premier League,1995/1996,13,Leeds United,38,12,7,19,40:57,-17,43
+Premier League,1995/1996,14,Wimbledon FC,38,10,11,17,55:70,-15,41
+Premier League,1995/1996,15,Sheffield Wednesday,38,10,10,18,48:61,-13,40
+Premier League,1995/1996,16,Coventry City,38,8,14,16,42:60,-18,38
+Premier League,1995/1996,17,Southampton FC,38,9,11,18,34:52,-18,38
+Premier League,1995/1996,18,Manchester City,38,9,11,18,33:58,-25,38
+Premier League,1995/1996,19,Queens Park Rangers,38,9,6,23,38:57,-19,33
+Premier League,1995/1996,20,Bolton Wanderers,38,8,5,25,39:71,-32,29
+Primera División,2004/2005,1,FC Barcelona,38,25,9,4,73:29,44,84
+Primera División,2004/2005,2,Real Madrid,38,25,5,8,71:32,39,80
+Primera División,2004/2005,3,Villarreal CF,38,18,11,9,69:37,32,65
+Primera División,2004/2005,4,Real Betis,38,16,14,8,62:50,12,62
+Primera División,2004/2005,5,Espanyol Barcelona,38,17,10,11,54:46,8,61
+Primera División,2004/2005,6,Sevilla FC,38,17,9,12,44:41,3,60
+Primera División,2004/2005,7,Valencia CF,38,14,16,8,54:39,15,58
+Primera División,2004/2005,8,Athletic Bilbao,38,14,9,15,59:54,5,51
+Primera División,2004/2005,9,Deportivo La Coruña,38,12,15,11,46:50,-4,51
+Primera División,2004/2005,10,Málaga CF,38,15,6,17,40:48,-8,51
+Primera División,2004/2005,11,Atlético Madrid,38,13,11,14,40:34,6,50
+Primera División,2004/2005,12,Real Zaragoza,38,14,8,16,52:57,-5,50
+Primera División,2004/2005,13,Getafe CF,38,12,11,15,38:46,-8,47
+Primera División,2004/2005,14,Real Sociedad,38,13,8,17,47:56,-9,47
+Primera División,2004/2005,15,CA Osasuna,38,12,10,16,46:65,-19,46
+Primera División,2004/2005,16,Racing Santander,38,12,8,18,41:58,-17,44
+Primera División,2004/2005,17,RCD Mallorca,38,10,9,19,42:63,-21,39
+Primera División,2004/2005,18,Levante UD,38,9,10,19,39:58,-19,37
+Primera División,2004/2005,19,CD Numancia,38,6,11,21,30:61,-31,29
+Primera División,2004/2005,20,Albacete,38,6,10,22,33:56,-23,28
+Bundesliga,1995/1996,1,Borussia Dortmund,34,19,11,4,76:38,38,68
+Bundesliga,1995/1996,2,Bayern München,34,19,5,10,66:46,20,62
+Bundesliga,1995/1996,3,FC Schalke 04,34,14,14,6,45:36,9,56
+Bundesliga,1995/1996,4,Bor. Mönchengladbach,34,15,8,11,52:51,1,53
+Bundesliga,1995/1996,5,Hamburger SV,34,12,14,8,52:47,5,50
+Bundesliga,1995/1996,6,Hansa Rostock,34,13,10,11,47:43,4,49
+Bundesliga,1995/1996,7,Karlsruher SC,34,12,12,10,53:47,6,48
+Bundesliga,1995/1996,8,TSV 1860 München,34,11,12,11,52:46,6,45
+Bundesliga,1995/1996,9,Werder Bremen,34,10,14,10,39:42,-3,44
+Bundesliga,1995/1996,10,VfB Stuttgart,34,10,13,11,59:62,-3,43
+Bundesliga,1995/1996,11,SC Freiburg,34,11,9,14,30:41,-11,42
+Bundesliga,1995/1996,12,1. FC Köln,34,9,13,12,33:35,-2,40
+Bundesliga,1995/1996,13,Fortuna Düsseldorf,34,8,16,10,40:47,-7,40
+Bundesliga,1995/1996,14,Bayer Leverkusen,34,8,14,12,37:38,-1,38
+Bundesliga,1995/1996,15,FC St. Pauli,34,9,11,14,43:51,-8,38
+Bundesliga,1995/1996,16,1. FC Kaiserslautern,34,6,18,10,31:37,-6,36
+Bundesliga,1995/1996,17,Eintracht Frankfurt,34,7,11,16,43:68,-25,32
+Bundesliga,1995/1996,18,KFC Uerdingen 05,34,5,11,18,33:56,-23,26
+Serie A,1997/1998,1,Juventus,34,21,11,2,67:28,39,74
+Serie A,1997/1998,2,Inter,34,21,6,7,62:27,35,69
+Serie A,1997/1998,3,Udinese Calcio,34,19,7,8,62:40,22,64
+Serie A,1997/1998,4,AS Roma,34,16,11,7,67:42,25,59
+Serie A,1997/1998,5,ACF Fiorentina,34,15,12,7,65:36,29,57
+Serie A,1997/1998,6,Parma AC,34,15,12,7,55:39,16,57
+Serie A,1997/1998,7,Lazio Roma,34,16,8,10,53:30,23,56
+Serie A,1997/1998,8,Bologna FC,34,12,12,10,55:46,9,48
+Serie A,1997/1998,9,Sampdoria,34,13,9,12,52:55,-3,48
+Serie A,1997/1998,10,AC Milan,34,11,11,12,37:43,-6,44
+Serie A,1997/1998,11,AS Bari,34,10,8,16,30:45,-15,38
+Serie A,1997/1998,12,Empoli FC,34,10,7,17,50:58,-8,37
+Serie A,1997/1998,13,Piacenza Calcio,34,7,16,11,29:38,-9,37
+Serie A,1997/1998,14,Vicenza Calcio,34,9,9,16,36:61,-25,36
+Serie A,1997/1998,15,Brescia Calcio,34,9,8,17,45:63,-18,35
+Serie A,1997/1998,16,Atalanta,34,7,11,16,25:48,-23,32
+Serie A,1997/1998,17,US Lecce,34,6,8,20,32:72,-40,26
+Serie A,1997/1998,18,SSC Napoli,34,2,8,24,25:76,-51,14
+Bundesliga,2004/2005,1,Bayern München,34,24,5,5,75:33,42,77
+Bundesliga,2004/2005,2,FC Schalke 04,34,20,3,11,56:46,10,63
+Bundesliga,2004/2005,3,Werder Bremen,34,18,5,11,68:37,31,59
+Bundesliga,2004/2005,4,Hertha BSC,34,15,13,6,59:31,28,58
+Bundesliga,2004/2005,5,VfB Stuttgart,34,17,7,10,54:40,14,58
+Bundesliga,2004/2005,6,Bayer Leverkusen,34,16,9,9,65:44,21,57
+Bundesliga,2004/2005,7,Borussia Dortmund,34,15,10,9,47:44,3,55
+Bundesliga,2004/2005,8,Hamburger SV,34,16,3,15,55:50,5,51
+Bundesliga,2004/2005,9,VfL Wolfsburg,34,15,3,16,49:51,-2,48
+Bundesliga,2004/2005,10,Hannover 96,34,13,6,15,34:36,-2,45
+Bundesliga,2004/2005,11,1. FSV Mainz 05,34,12,7,15,50:55,-5,43
+Bundesliga,2004/2005,12,1. FC Kaiserslautern,34,12,6,16,43:52,-9,42
+Bundesliga,2004/2005,13,Arminia Bielefeld,34,11,7,16,37:49,-12,40
+Bundesliga,2004/2005,14,1. FC Nürnberg,34,10,8,16,55:63,-8,38
+Bundesliga,2004/2005,15,Bor. Mönchengladbach,34,8,12,14,35:51,-16,36
+Bundesliga,2004/2005,16,VfL Bochum,34,9,8,17,47:68,-21,35
+Bundesliga,2004/2005,17,Hansa Rostock,34,7,9,18,31:65,-34,30
+Bundesliga,2004/2005,18,SC Freiburg,34,3,9,22,30:75,-45,18
+Serie A,2001/2002,1,Juventus,34,20,11,3,64:23,41,71
+Serie A,2001/2002,2,AS Roma,34,19,13,2,58:24,34,70
+Serie A,2001/2002,3,Inter,34,20,9,5,62:35,27,69
+Serie A,2001/2002,4,AC Milan,34,14,13,7,47:33,14,55
+Serie A,2001/2002,5,Chievo Verona,34,14,12,8,57:52,5,54
+Serie A,2001/2002,6,Lazio Roma,34,14,11,9,50:37,13,53
+Serie A,2001/2002,7,Bologna FC,34,15,7,12,40:40,0,52
+Serie A,2001/2002,8,AC Perugia,34,13,7,14,38:46,-8,46
+Serie A,2001/2002,9,Atalanta,34,12,9,13,41:50,-9,45
+Serie A,2001/2002,10,Parma AC,34,12,8,14,43:47,-4,44
+Serie A,2001/2002,11,Torino FC,34,10,13,11,37:39,-2,43
+Serie A,2001/2002,12,Piacenza Calcio,34,11,9,14,49:43,6,42
+Serie A,2001/2002,13,Brescia Calcio,34,9,13,12,43:52,-9,40
+Serie A,2001/2002,14,Udinese Calcio,34,11,7,16,41:52,-11,40
+Serie A,2001/2002,15,Hellas Verona,34,11,6,17,41:53,-12,39
+Serie A,2001/2002,16,US Lecce,34,6,10,18,36:56,-20,28
+Serie A,2001/2002,17,ACF Fiorentina,34,5,7,22,29:63,-34,22
+Serie A,2001/2002,18,AC Venezia,34,3,9,22,30:61,-31,18
+Bundesliga,2016/2017,1,Bayern München,34,25,7,2,89:22,67,82
+Bundesliga,2016/2017,2,RB Leipzig,34,20,7,7,66:39,27,67
+Bundesliga,2016/2017,3,Borussia Dortmund,34,18,10,6,72:40,32,64
+Bundesliga,2016/2017,4,1899 Hoffenheim,34,16,14,4,64:37,27,62
+Bundesliga,2016/2017,5,1. FC Köln,34,12,13,9,51:42,9,49
+Bundesliga,2016/2017,6,Hertha BSC,34,15,4,15,43:47,-4,49
+Bundesliga,2016/2017,7,SC Freiburg,34,14,6,14,42:60,-18,48
+Bundesliga,2016/2017,8,Werder Bremen,34,13,6,15,61:64,-3,45
+Bundesliga,2016/2017,9,Bor. Mönchengladbach,34,12,9,13,45:49,-4,45
+Bundesliga,2016/2017,10,FC Schalke 04,34,11,10,13,45:40,5,43
+Bundesliga,2016/2017,11,Eintracht Frankfurt,34,11,9,14,36:43,-7,42
+Bundesliga,2016/2017,12,Bayer Leverkusen,34,11,8,15,53:55,-2,41
+Bundesliga,2016/2017,13,FC Augsburg,34,9,11,14,35:51,-16,38
+Bundesliga,2016/2017,14,Hamburger SV,34,10,8,16,33:61,-28,38
+Bundesliga,2016/2017,15,1. FSV Mainz 05,34,10,7,17,44:55,-11,37
+Bundesliga,2016/2017,16,VfL Wolfsburg,34,10,7,17,34:52,-18,37
+Bundesliga,2016/2017,17,FC Ingolstadt 04,34,8,8,18,36:57,-21,32
+Bundesliga,2016/2017,18,SV Darmstadt 98,34,7,4,23,28:63,-35,25
+Serie A,1999/2000,1,Lazio Roma,34,21,9,4,64:33,31,72
+Serie A,1999/2000,2,Juventus,34,21,8,5,46:20,26,71
+Serie A,1999/2000,3,AC Milan,34,16,13,5,65:40,25,61
+Serie A,1999/2000,4,Inter,34,17,7,10,58:36,22,58
+Serie A,1999/2000,5,Parma AC,34,16,10,8,52:37,15,58
+Serie A,1999/2000,6,AS Roma,34,14,12,8,57:34,23,54
+Serie A,1999/2000,7,ACF Fiorentina,34,13,12,9,48:38,10,51
+Serie A,1999/2000,8,Udinese Calcio,34,13,11,10,55:45,10,50
+Serie A,1999/2000,9,Hellas Verona,34,10,13,11,40:45,-5,43
+Serie A,1999/2000,10,AC Perugia,34,12,6,16,36:52,-16,42
+Serie A,1999/2000,11,Bologna FC,34,9,13,12,32:39,-7,40
+Serie A,1999/2000,12,Reggina Calcio,34,9,13,12,31:42,-11,40
+Serie A,1999/2000,13,US Lecce,34,10,10,14,33:49,-16,40
+Serie A,1999/2000,14,AS Bari,34,10,9,15,34:48,-14,39
+Serie A,1999/2000,15,Torino FC,34,8,12,14,35:47,-12,36
+Serie A,1999/2000,16,AC Venezia,34,6,8,20,30:60,-30,26
+Serie A,1999/2000,17,Cagliari Calcio,34,3,13,18,29:54,-25,22
+Serie A,1999/2000,18,Piacenza Calcio,34,4,9,21,19:45,-26,21
+Serie A,2004/2005,1,Juventus,38,26,8,4,67:27,40,86
+Serie A,2004/2005,2,AC Milan,38,23,10,5,63:28,35,79
+Serie A,2004/2005,3,Inter,38,18,18,2,65:37,28,72
+Serie A,2004/2005,4,Udinese Calcio,38,17,11,10,56:40,16,62
+Serie A,2004/2005,5,Sampdoria,38,17,10,11,42:29,13,61
+Serie A,2004/2005,6,US Palermo,38,12,17,9,48:44,4,53
+Serie A,2004/2005,7,FC Messina,38,12,12,14,44:52,-8,48
+Serie A,2004/2005,8,AS Roma,38,11,12,15,55:58,-3,45
+Serie A,2004/2005,9,AS Livorno,38,11,12,15,49:60,-11,45
+Serie A,2004/2005,10,Lazio Roma,38,11,11,16,48:53,-5,44
+Serie A,2004/2005,11,US Lecce,38,10,14,14,66:73,-7,44
+Serie A,2004/2005,12,Cagliari Calcio,38,10,14,14,51:60,-9,44
+Serie A,2004/2005,13,Reggina Calcio,38,10,14,14,36:45,-9,44
+Serie A,2004/2005,14,AC Siena,38,9,16,13,44:55,-11,43
+Serie A,2004/2005,15,Chievo Verona,38,11,10,17,32:49,-17,43
+Serie A,2004/2005,16,ACF Fiorentina,38,9,15,14,42:50,-8,42
+Serie A,2004/2005,17,Bologna FC,38,9,15,14,33:36,-3,42
+Serie A,2004/2005,18,Parma FC,38,10,12,16,48:65,-17,42
+Serie A,2004/2005,19,Brescia Calcio,38,11,8,19,37:54,-17,41
+Serie A,2004/2005,20,Atalanta,38,8,11,19,34:45,-11,35
+Ligue 1,1999/2000,1,AS Monaco,34,20,5,9,69:38,31,65
+Ligue 1,1999/2000,2,Paris Saint-Germain,34,16,10,8,54:40,14,58
+Ligue 1,1999/2000,3,Olympique Lyon,34,16,8,10,45:42,3,56
+Ligue 1,1999/2000,4,Girondins Bordeaux,34,15,9,10,52:40,12,54
+Ligue 1,1999/2000,5,RC Lens,34,14,7,13,42:41,1,49
+Ligue 1,1999/2000,6,AS Saint-Étienne,34,13,9,12,46:47,-1,48
+Ligue 1,1999/2000,7,CS Sedan,34,13,9,12,43:44,-1,48
+Ligue 1,1999/2000,8,AJ Auxerre,34,13,8,13,37:39,-2,47
+Ligue 1,1999/2000,9,RC Strasbourg,34,13,7,14,42:52,-10,46
+Ligue 1,1999/2000,10,SC Bastia,34,11,12,11,43:39,4,45
+Ligue 1,1999/2000,11,FC Metz,34,9,17,8,38:33,5,44
+Ligue 1,1999/2000,12,FC Nantes,34,12,7,15,39:40,-1,43
+Ligue 1,1999/2000,13,Stade Rennes,34,12,7,15,44:48,-4,43
+Ligue 1,1999/2000,14,ATAC Troyes,34,13,4,17,36:52,-16,43
+Ligue 1,1999/2000,15,Olympique Marseille,34,9,15,10,45:45,0,42
+Ligue 1,1999/2000,16,AS Nancy,34,11,9,14,43:45,-2,42
+Ligue 1,1999/2000,17,Le Havre AC,34,9,7,18,30:52,-22,34
+Ligue 1,1999/2000,18,Montpellier HSC,34,7,10,17,39:50,-11,31
+Ligue 1,2012/2013,1,Paris Saint-Germain,38,25,8,5,69:23,46,83
+Ligue 1,2012/2013,2,Olympique Marseille,38,21,8,9,42:36,6,71
+Ligue 1,2012/2013,3,Olympique Lyon,38,19,10,9,61:38,23,67
+Ligue 1,2012/2013,4,OGC Nice,38,18,10,10,57:46,11,64
+Ligue 1,2012/2013,5,AS Saint-Étienne,38,16,15,7,60:32,28,63
+Ligue 1,2012/2013,6,Lille OSC,38,16,14,8,59:40,19,62
+Ligue 1,2012/2013,7,Girondins Bordeaux,38,13,16,9,40:34,6,55
+Ligue 1,2012/2013,8,FC Lorient,38,14,11,13,57:58,-1,53
+Ligue 1,2012/2013,9,Montpellier HSC,38,15,7,16,54:51,3,52
+Ligue 1,2012/2013,10,Toulouse FC,38,13,12,13,49:47,2,51
+Ligue 1,2012/2013,11,Valenciennes FC,38,12,12,14,49:53,-4,48
+Ligue 1,2012/2013,12,SC Bastia,38,13,8,17,50:66,-16,47
+Ligue 1,2012/2013,13,Stade Rennes,38,13,7,18,48:59,-11,46
+Ligue 1,2012/2013,14,Stade Reims,38,10,13,15,33:42,-9,43
+Ligue 1,2012/2013,15,FC Sochaux,38,10,11,17,41:57,-16,41
+Ligue 1,2012/2013,16,Évian Thonon Gaillard,38,10,10,18,46:53,-7,40
+Ligue 1,2012/2013,17,AC Ajaccio,38,9,15,14,39:51,-12,40
+Ligue 1,2012/2013,18,AS Nancy,38,9,11,18,38:58,-20,38
+Ligue 1,2012/2013,19,ESTAC Troyes,38,8,13,17,43:61,-18,37
+Ligue 1,2012/2013,20,Stade Brest,38,8,5,25,32:62,-30,29
+Ligue 1,2004/2005,1,Olympique Lyon,38,22,13,3,56:22,34,79
+Ligue 1,2004/2005,2,Lille OSC,38,18,13,7,52:29,23,67
+Ligue 1,2004/2005,3,AS Monaco,38,15,18,5,52:35,17,63
+Ligue 1,2004/2005,4,Stade Rennes,38,15,10,13,49:42,7,55
+Ligue 1,2004/2005,5,Olympique Marseille,38,15,10,13,47:42,5,55
+Ligue 1,2004/2005,6,AS Saint-Étienne,38,12,17,9,47:34,13,53
+Ligue 1,2004/2005,7,RC Lens,38,13,13,12,45:39,6,52
+Ligue 1,2004/2005,8,AJ Auxerre,38,14,10,14,48:47,1,52
+Ligue 1,2004/2005,9,Paris Saint-Germain,38,12,15,11,40:41,-1,51
+Ligue 1,2004/2005,10,FC Sochaux,38,13,11,14,42:41,1,50
+Ligue 1,2004/2005,11,RC Strasbourg,38,12,12,14,42:43,-1,48
+Ligue 1,2004/2005,12,OGC Nice,38,10,16,12,38:45,-7,46
+Ligue 1,2004/2005,13,Toulouse FC,38,12,10,16,36:43,-7,46
+Ligue 1,2004/2005,14,AC Ajaccio,38,10,15,13,36:40,-4,45
+Ligue 1,2004/2005,15,Girondins Bordeaux,38,8,20,10,37:41,-4,44
+Ligue 1,2004/2005,16,FC Metz,38,10,14,14,33:45,-12,44
+Ligue 1,2004/2005,17,FC Nantes,38,10,13,15,33:38,-5,43
+Ligue 1,2004/2005,18,SM Caen,38,10,12,16,36:60,-24,42
+Ligue 1,2004/2005,19,SC Bastia,38,11,8,19,32:48,-16,41
+Ligue 1,2004/2005,20,FC Istres,38,6,14,18,25:51,-26,32
+Ligue 1,2011/2012,1,Montpellier HSC,38,25,7,6,68:34,34,82
+Ligue 1,2011/2012,2,Paris Saint-Germain,38,23,10,5,75:41,34,79
+Ligue 1,2011/2012,3,Lille OSC,38,21,11,6,72:39,33,74
+Ligue 1,2011/2012,4,Olympique Lyon,38,19,7,12,64:51,13,64
+Ligue 1,2011/2012,5,Girondins Bordeaux,38,16,13,9,53:41,12,61
+Ligue 1,2011/2012,6,Stade Rennes,38,17,9,12,53:44,9,60
+Ligue 1,2011/2012,7,AS Saint-Étienne,38,16,9,13,49:45,4,57
+Ligue 1,2011/2012,8,Toulouse FC,38,15,11,12,37:34,3,56
+Ligue 1,2011/2012,9,Évian Thonon Gaillard,38,13,11,14,54:55,-1,50
+Ligue 1,2011/2012,10,Olympique Marseille,38,12,12,14,45:41,4,48
+Ligue 1,2011/2012,11,AS Nancy,38,11,12,15,38:48,-10,45
+Ligue 1,2011/2012,12,Valenciennes FC,38,12,7,19,40:50,-10,43
+Ligue 1,2011/2012,13,OGC Nice,38,10,12,16,39:46,-7,42
+Ligue 1,2011/2012,14,FC Sochaux,38,11,9,18,40:60,-20,42
+Ligue 1,2011/2012,15,Stade Brest,38,8,17,13,31:38,-7,41
+Ligue 1,2011/2012,16,AC Ajaccio,38,9,14,15,40:61,-21,41
+Ligue 1,2011/2012,17,FC Lorient,38,9,12,17,35:49,-14,39
+Ligue 1,2011/2012,18,SM Caen,38,9,11,18,39:59,-20,38
+Ligue 1,2011/2012,19,Dijon FCO,38,9,9,20,38:63,-25,36
+Ligue 1,2011/2012,20,AJ Auxerre,38,7,13,18,46:57,-11,34
+Serie A,1996/1997,1,Juventus,34,17,14,3,51:24,27,65
+Serie A,1996/1997,2,Parma AC,34,18,9,7,41:26,15,63
+Serie A,1996/1997,3,Inter,34,15,14,5,51:35,16,59
+Serie A,1996/1997,4,Lazio Roma,34,15,10,9,54:37,17,55
+Serie A,1996/1997,5,Udinese Calcio,34,15,9,10,53:41,12,54
+Serie A,1996/1997,6,Sampdoria,34,14,11,9,60:46,14,53
+Serie A,1996/1997,7,Bologna FC,34,13,10,11,50:44,6,49
+Serie A,1996/1997,8,Vicenza Calcio,34,12,11,11,43:38,5,47
+Serie A,1996/1997,9,ACF Fiorentina,34,10,15,9,46:41,5,45
+Serie A,1996/1997,10,Atalanta,34,11,11,12,44:46,-2,44
+Serie A,1996/1997,11,AC Milan,34,11,10,13,43:45,-2,43
+Serie A,1996/1997,12,AS Roma,34,10,11,13,46:47,-1,41
+Serie A,1996/1997,13,SSC Napoli,34,9,14,11,38:45,-7,41
+Serie A,1996/1997,14,Cagliari Calcio,34,9,10,15,45:55,-10,37
+Serie A,1996/1997,15,Piacenza Calcio,34,7,16,11,29:45,-16,37
+Serie A,1996/1997,16,AC Perugia,34,10,7,17,48:62,-14,37
+Serie A,1996/1997,17,Hellas Verona,34,6,9,19,38:64,-26,27
+Serie A,1996/1997,18,AC Reggiana,34,2,13,19,28:67,-39,19
+Serie A,2007/2008,1,Inter,38,25,10,3,69:26,43,85
+Serie A,2007/2008,2,AS Roma,38,24,10,4,72:37,35,82
+Serie A,2007/2008,3,Juventus,38,20,12,6,72:37,35,72
+Serie A,2007/2008,4,ACF Fiorentina,38,19,9,10,55:39,16,66
+Serie A,2007/2008,5,AC Milan,38,18,10,10,66:38,28,64
+Serie A,2007/2008,6,Sampdoria,38,17,9,12,56:46,10,60
+Serie A,2007/2008,7,Udinese Calcio,38,16,9,13,48:53,-5,57
+Serie A,2007/2008,8,SSC Napoli,38,14,8,16,50:53,-3,50
+Serie A,2007/2008,9,Atalanta,38,12,12,14,52:56,-4,48
+Serie A,2007/2008,10,Genoa CFC,38,13,9,16,44:52,-8,48
+Serie A,2007/2008,11,US Palermo,38,12,11,15,47:57,-10,47
+Serie A,2007/2008,12,Lazio Roma,38,11,13,14,47:51,-4,46
+Serie A,2007/2008,13,AC Siena,38,9,17,12,40:45,-5,44
+Serie A,2007/2008,14,Cagliari Calcio,38,11,9,18,40:56,-16,42
+Serie A,2007/2008,15,Torino FC,38,8,16,14,36:49,-13,40
+Serie A,2007/2008,16,Reggina Calcio,38,9,13,16,37:56,-19,40
+Serie A,2007/2008,17,Calcio Catania,38,8,13,17,33:45,-12,37
+Serie A,2007/2008,18,Empoli FC,38,9,9,20,29:52,-23,36
+Serie A,2007/2008,19,Parma FC,38,7,13,18,42:62,-20,34
+Serie A,2007/2008,20,AS Livorno,38,6,12,20,35:60,-25,30
+Serie A,1998/1999,1,AC Milan,34,20,10,4,59:34,25,70
+Serie A,1998/1999,2,Lazio Roma,34,20,9,5,65:31,34,69
+Serie A,1998/1999,3,ACF Fiorentina,34,16,8,10,55:41,14,56
+Serie A,1998/1999,4,Parma AC,34,15,10,9,55:36,19,55
+Serie A,1998/1999,5,AS Roma,34,15,9,10,69:49,20,54
+Serie A,1998/1999,6,Juventus,34,15,9,10,42:36,6,54
+Serie A,1998/1999,7,Udinese Calcio,34,16,6,12,52:52,0,54
+Serie A,1998/1999,8,Inter,34,13,7,14,59:54,5,46
+Serie A,1998/1999,9,Bologna FC,34,11,11,12,44:47,-3,44
+Serie A,1998/1999,10,AS Bari,34,9,15,10,39:44,-5,42
+Serie A,1998/1999,11,AC Venezia,34,11,9,14,38:45,-7,42
+Serie A,1998/1999,12,Cagliari Calcio,34,11,8,15,49:50,-1,41
+Serie A,1998/1999,13,Piacenza Calcio,34,11,8,15,48:49,-1,41
+Serie A,1998/1999,14,AC Perugia,34,11,6,17,43:61,-18,39
+Serie A,1998/1999,15,Salernitana Sport,34,10,8,16,37:51,-14,38
+Serie A,1998/1999,16,Sampdoria,34,9,10,15,38:55,-17,37
+Serie A,1998/1999,17,Vicenza Calcio,34,8,9,17,27:47,-20,33
+Serie A,1998/1999,18,Empoli FC,34,4,10,20,26:63,-37,22
+Bundesliga,2007/2008,1,Bayern München,34,22,10,2,68:21,47,76
+Bundesliga,2007/2008,2,Werder Bremen,34,20,6,8,75:45,30,66
+Bundesliga,2007/2008,3,FC Schalke 04,34,18,10,6,55:32,23,64
+Bundesliga,2007/2008,4,Hamburger SV,34,14,12,8,47:26,21,54
+Bundesliga,2007/2008,5,VfL Wolfsburg,34,15,9,10,58:46,12,54
+Bundesliga,2007/2008,6,VfB Stuttgart,34,16,4,14,57:57,0,52
+Bundesliga,2007/2008,7,Bayer Leverkusen,34,15,6,13,57:40,17,51
+Bundesliga,2007/2008,8,Hannover 96,34,13,10,11,54:56,-2,49
+Bundesliga,2007/2008,9,Eintracht Frankfurt,34,12,10,12,43:50,-7,46
+Bundesliga,2007/2008,10,Hertha BSC,34,12,8,14,39:44,-5,44
+Bundesliga,2007/2008,11,Karlsruher SC,34,11,10,13,38:53,-15,43
+Bundesliga,2007/2008,12,VfL Bochum,34,10,11,13,48:54,-6,41
+Bundesliga,2007/2008,13,Borussia Dortmund,34,10,10,14,50:62,-12,40
+Bundesliga,2007/2008,14,Energie Cottbus,34,9,9,16,35:56,-21,36
+Bundesliga,2007/2008,15,Arminia Bielefeld,34,8,10,16,35:60,-25,34
+Bundesliga,2007/2008,16,1. FC Nürnberg,34,7,10,17,35:51,-16,31
+Bundesliga,2007/2008,17,Hansa Rostock,34,8,6,20,30:52,-22,30
+Bundesliga,2007/2008,18,MSV Duisburg,34,8,5,21,36:55,-19,29
+Serie A,2003/2004,1,AC Milan,34,25,7,2,65:24,41,82
+Serie A,2003/2004,2,AS Roma,34,21,8,5,68:19,49,71
+Serie A,2003/2004,3,Juventus,34,21,6,7,67:42,25,69
+Serie A,2003/2004,4,Inter,34,17,8,9,59:37,22,59
+Serie A,2003/2004,5,Parma AC,34,16,10,8,57:46,11,58
+Serie A,2003/2004,6,Lazio Roma,34,16,8,10,52:38,14,56
+Serie A,2003/2004,7,Udinese Calcio,34,13,11,10,44:40,4,50
+Serie A,2003/2004,8,Sampdoria,34,11,13,10,40:42,-2,46
+Serie A,2003/2004,9,Chievo Verona,34,11,11,12,36:37,-1,44
+Serie A,2003/2004,10,US Lecce,34,11,8,15,43:56,-13,41
+Serie A,2003/2004,11,Brescia Calcio,34,9,13,12,52:57,-5,40
+Serie A,2003/2004,12,Bologna FC,34,10,9,15,45:53,-8,39
+Serie A,2003/2004,13,AC Siena,34,8,10,16,41:54,-13,34
+Serie A,2003/2004,14,Reggina Calcio,34,6,16,12,29:45,-16,34
+Serie A,2003/2004,15,AC Perugia,34,6,14,14,44:56,-12,32
+Serie A,2003/2004,16,Modena FC,34,6,12,16,27:46,-19,30
+Serie A,2003/2004,17,Empoli FC,34,7,9,18,26:54,-28,30
+Serie A,2003/2004,18,Ancona Calcio,34,2,7,25,21:70,-49,13
+Bundesliga,1999/2000,1,Bayern München,34,22,7,5,73:28,45,73
+Bundesliga,1999/2000,2,Bayer Leverkusen,34,21,10,3,74:36,38,73
+Bundesliga,1999/2000,3,Hamburger SV,34,16,11,7,63:39,24,59
+Bundesliga,1999/2000,4,TSV 1860 München,34,14,11,9,55:48,7,53
+Bundesliga,1999/2000,5,1. FC Kaiserslautern,34,15,5,14,54:59,-5,50
+Bundesliga,1999/2000,6,Hertha BSC,34,13,11,10,39:46,-7,50
+Bundesliga,1999/2000,7,VfL Wolfsburg,34,12,13,9,51:58,-7,49
+Bundesliga,1999/2000,8,VfB Stuttgart,34,14,6,14,44:47,-3,48
+Bundesliga,1999/2000,9,Werder Bremen,34,13,8,13,65:52,13,47
+Bundesliga,1999/2000,10,SpVgg Unterhaching,34,12,8,14,40:42,-2,44
+Bundesliga,1999/2000,11,Borussia Dortmund,34,9,13,12,41:38,3,40
+Bundesliga,1999/2000,12,SC Freiburg,34,10,10,14,45:50,-5,40
+Bundesliga,1999/2000,13,FC Schalke 04,34,8,15,11,42:44,-2,39
+Bundesliga,1999/2000,14,Eintracht Frankfurt,34,12,5,17,42:44,-2,39
+Bundesliga,1999/2000,15,Hansa Rostock,34,8,14,12,44:60,-16,38
+Bundesliga,1999/2000,16,SSV Ulm 1846,34,9,8,17,36:62,-26,35
+Bundesliga,1999/2000,17,Arminia Bielefeld,34,7,9,18,40:61,-21,30
+Bundesliga,1999/2000,18,MSV Duisburg,34,4,10,20,37:71,-34,22
+Bundesliga,1994/1995,1,Borussia Dortmund,34,20,9,5,67:33,34,49:19
+Bundesliga,1994/1995,2,Werder Bremen,34,20,8,6,70:39,31,48:20
+Bundesliga,1994/1995,3,SC Freiburg,34,20,6,8,66:44,22,46:22
+Bundesliga,1994/1995,4,1. FC Kaiserslautern,34,17,12,5,58:41,17,46:22
+Bundesliga,1994/1995,5,Bor. Mönchengladbach,34,17,9,8,66:41,25,43:25
+Bundesliga,1994/1995,6,Bayern München,34,15,13,6,55:41,14,43:25
+Bundesliga,1994/1995,7,Bayer Leverkusen,34,13,10,11,62:51,11,36:32
+Bundesliga,1994/1995,8,Karlsruher SC,34,11,14,9,51:47,4,36:32
+Bundesliga,1994/1995,9,Eintracht Frankfurt,34,12,9,13,41:49,-8,33:35
+Bundesliga,1994/1995,10,1. FC Köln,34,11,10,13,54:54,0,32:36
+Bundesliga,1994/1995,11,FC Schalke 04,34,10,11,13,48:54,-6,31:37
+Bundesliga,1994/1995,12,VfB Stuttgart,34,10,10,14,52:66,-14,30:38
+Bundesliga,1994/1995,13,Hamburger SV,34,10,9,15,43:50,-7,29:39
+Bundesliga,1994/1995,14,TSV 1860 München,34,8,11,15,41:57,-16,27:41
+Bundesliga,1994/1995,15,Bayer 05 Uerdingen,34,7,11,16,37:52,-15,25:43
+Bundesliga,1994/1995,16,VfL Bochum,34,9,4,21,43:67,-24,22:46
+Bundesliga,1994/1995,17,MSV Duisburg,34,6,8,20,31:64,-33,20:48
+Bundesliga,1994/1995,18,Dynamo Dresden,34,4,8,22,33:68,-35,16:52
+Ligue 1,2006/2007,1,Olympique Lyon,38,24,9,5,64:27,37,81
+Ligue 1,2006/2007,2,Olympique Marseille,38,19,7,12,53:38,15,64
+Ligue 1,2006/2007,3,Toulouse FC,38,17,7,14,44:43,1,58
+Ligue 1,2006/2007,4,Stade Rennes,38,14,15,9,38:30,8,57
+Ligue 1,2006/2007,5,RC Lens,38,15,12,11,47:41,6,57
+Ligue 1,2006/2007,6,Girondins Bordeaux,38,16,9,13,39:35,4,57
+Ligue 1,2006/2007,7,FC Sochaux,38,15,12,11,46:48,-2,57
+Ligue 1,2006/2007,8,AJ Auxerre,38,13,15,10,41:41,0,54
+Ligue 1,2006/2007,9,AS Monaco,38,13,12,13,45:38,7,51
+Ligue 1,2006/2007,10,Lille OSC,38,13,11,14,45:43,2,50
+Ligue 1,2006/2007,11,AS Saint-Étienne,38,14,7,17,52:50,2,49
+Ligue 1,2006/2007,12,Le Mans UC 72,38,11,16,11,45:46,-1,49
+Ligue 1,2006/2007,13,AS Nancy,38,13,10,15,37:44,-7,49
+Ligue 1,2006/2007,14,FC Lorient,38,12,13,13,33:40,-7,49
+Ligue 1,2006/2007,15,Paris Saint-Germain,38,12,12,14,42:42,0,48
+Ligue 1,2006/2007,16,OGC Nice,38,9,16,13,34:40,-6,43
+Ligue 1,2006/2007,17,Valenciennes FC,38,11,10,17,36:48,-12,43
+Ligue 1,2006/2007,18,ESTAC Troyes,38,9,12,17,39:54,-15,39
+Ligue 1,2006/2007,19,CS Sedan,38,7,14,17,46:58,-12,35
+Ligue 1,2006/2007,20,FC Nantes,38,7,13,18,29:49,-20,34
+Premier League,1998/1999,1,Manchester United,38,22,13,3,80:37,43,79
+Premier League,1998/1999,2,Arsenal FC,38,22,12,4,59:17,42,78
+Premier League,1998/1999,3,Chelsea FC,38,20,15,3,57:30,27,75
+Premier League,1998/1999,4,Leeds United,38,18,13,7,62:34,28,67
+Premier League,1998/1999,5,West Ham United,38,16,9,13,46:53,-7,57
+Premier League,1998/1999,6,Aston Villa,38,15,10,13,51:46,5,55
+Premier League,1998/1999,7,Liverpool FC,38,15,9,14,68:49,19,54
+Premier League,1998/1999,8,Derby County,38,13,13,12,40:45,-5,52
+Premier League,1998/1999,9,Middlesbrough FC,38,12,15,11,48:54,-6,51
+Premier League,1998/1999,10,Leicester City,38,12,13,13,40:46,-6,49
+Premier League,1998/1999,11,Tottenham Hotspur,38,11,14,13,47:50,-3,47
+Premier League,1998/1999,12,Sheffield Wednesday,38,13,7,18,41:42,-1,46
+Premier League,1998/1999,13,Newcastle United,38,11,13,14,48:54,-6,46
+Premier League,1998/1999,14,Everton FC,38,11,10,17,42:47,-5,43
+Premier League,1998/1999,15,Coventry City,38,11,9,18,39:51,-12,42
+Premier League,1998/1999,16,Wimbledon FC,38,10,12,16,40:63,-23,42
+Premier League,1998/1999,17,Southampton FC,38,11,8,19,37:64,-27,41
+Premier League,1998/1999,18,Charlton Athletic,38,8,12,18,41:56,-15,36
+Premier League,1998/1999,19,Blackburn Rovers,38,7,14,17,38:52,-14,35
+Premier League,1998/1999,20,Nottingham Forest,38,7,9,22,35:69,-34,30
+Premier League,2000/2001,1,Manchester United,38,24,8,6,79:31,48,80
+Premier League,2000/2001,2,Arsenal FC,38,20,10,8,63:38,25,70
+Premier League,2000/2001,3,Liverpool FC,38,20,9,9,71:39,32,69
+Premier League,2000/2001,4,Leeds United,38,20,8,10,64:43,21,68
+Premier League,2000/2001,5,Ipswich Town,38,20,6,12,57:42,15,66
+Premier League,2000/2001,6,Chelsea FC,38,17,10,11,68:45,23,61
+Premier League,2000/2001,7,Sunderland AFC,38,15,12,11,46:41,5,57
+Premier League,2000/2001,8,Aston Villa,38,13,15,10,46:43,3,54
+Premier League,2000/2001,9,Charlton Athletic,38,14,10,14,50:57,-7,52
+Premier League,2000/2001,10,Southampton FC,38,14,10,14,40:48,-8,52
+Premier League,2000/2001,11,Newcastle United,38,14,9,15,44:50,-6,51
+Premier League,2000/2001,12,Tottenham Hotspur,38,13,10,15,47:54,-7,49
+Premier League,2000/2001,13,Leicester City,38,14,6,18,39:51,-12,48
+Premier League,2000/2001,14,Middlesbrough FC,38,9,15,14,44:44,0,42
+Premier League,2000/2001,15,West Ham United,38,10,12,16,45:50,-5,42
+Premier League,2000/2001,16,Everton FC,38,11,9,18,45:59,-14,42
+Premier League,2000/2001,17,Derby County,38,10,12,16,37:59,-22,42
+Premier League,2000/2001,18,Manchester City,38,8,10,20,41:65,-24,34
+Premier League,2000/2001,19,Coventry City,38,8,10,20,36:63,-27,34
+Premier League,2000/2001,20,Bradford City,38,5,11,22,30:70,-40,26
+Premier League,1999/2000,1,Manchester United,38,28,7,3,97:45,52,91
+Premier League,1999/2000,2,Arsenal FC,38,22,7,9,73:43,30,73
+Premier League,1999/2000,3,Leeds United,38,21,6,11,58:43,15,69
+Premier League,1999/2000,4,Liverpool FC,38,19,10,9,51:30,21,67
+Premier League,1999/2000,5,Chelsea FC,38,18,11,9,53:34,19,65
+Premier League,1999/2000,6,Aston Villa,38,15,13,10,46:35,11,58
+Premier League,1999/2000,7,Sunderland AFC,38,16,10,12,57:56,1,58
+Premier League,1999/2000,8,Leicester City,38,16,7,15,55:55,0,55
+Premier League,1999/2000,9,West Ham United,38,15,10,13,52:53,-1,55
+Premier League,1999/2000,10,Tottenham Hotspur,38,15,8,15,57:49,8,53
+Premier League,1999/2000,11,Newcastle United,38,14,10,14,63:54,9,52
+Premier League,1999/2000,12,Middlesbrough FC,38,14,10,14,46:52,-6,52
+Premier League,1999/2000,13,Everton FC,38,12,14,12,59:49,10,50
+Premier League,1999/2000,14,Coventry City,38,12,8,18,47:54,-7,44
+Premier League,1999/2000,15,Southampton FC,38,12,8,18,45:62,-17,44
+Premier League,1999/2000,16,Derby County,38,9,11,18,44:57,-13,38
+Premier League,1999/2000,17,Bradford City,38,9,9,20,38:68,-30,36
+Premier League,1999/2000,18,Wimbledon FC,38,7,12,19,46:74,-28,33
+Premier League,1999/2000,19,Sheffield Wednesday,38,8,7,23,38:70,-32,31
+Premier League,1999/2000,20,Watford FC,38,6,6,26,35:77,-42,24
+Primera División,2006/2007,1,Real Madrid,38,23,7,8,66:40,26,76
+Primera División,2006/2007,2,FC Barcelona,38,22,10,6,78:33,45,76
+Primera División,2006/2007,3,Sevilla FC,38,21,8,9,64:35,29,71
+Primera División,2006/2007,4,Valencia CF,38,20,6,12,57:42,15,66
+Primera División,2006/2007,5,Villarreal CF,38,18,8,12,48:44,4,62
+Primera División,2006/2007,6,Real Zaragoza,38,16,12,10,55:43,12,60
+Primera División,2006/2007,7,Atlético Madrid,38,17,9,12,46:39,7,60
+Primera División,2006/2007,8,Recreativo Huelva,38,15,9,14,54:52,2,54
+Primera División,2006/2007,9,Getafe CF,38,14,10,14,39:33,6,52
+Primera División,2006/2007,10,Racing Santander,38,12,14,12,42:48,-6,50
+Primera División,2006/2007,11,Espanyol Barcelona,38,12,13,13,46:53,-7,49
+Primera División,2006/2007,12,RCD Mallorca,38,14,7,17,41:47,-6,49
+Primera División,2006/2007,13,Deportivo La Coruña,38,12,11,15,32:45,-13,47
+Primera División,2006/2007,14,CA Osasuna,38,13,7,18,51:49,2,46
+Primera División,2006/2007,15,Levante UD,38,10,12,16,37:53,-16,42
+Primera División,2006/2007,16,Real Betis,38,8,16,14,36:49,-13,40
+Primera División,2006/2007,17,Athletic Bilbao,38,10,10,18,44:62,-18,40
+Primera División,2006/2007,18,Celta Vigo,38,10,9,19,40:59,-19,39
+Primera División,2006/2007,19,Real Sociedad,38,8,11,19,32:47,-15,35
+Primera División,2006/2007,20,Gimnàstic,38,7,7,24,34:69,-35,28
+Primera División,2009/2010,1,FC Barcelona,38,31,6,1,98:24,74,99
+Primera División,2009/2010,2,Real Madrid,38,31,3,4,102:35,67,96
+Primera División,2009/2010,3,Valencia CF,38,21,8,9,59:40,19,71
+Primera División,2009/2010,4,Sevilla FC,38,19,6,13,65:49,16,63
+Primera División,2009/2010,5,RCD Mallorca,38,18,8,12,59:44,15,62
+Primera División,2009/2010,6,Getafe CF,38,17,7,14,58:48,10,58
+Primera División,2009/2010,7,Villarreal CF,38,16,8,14,58:57,1,56
+Primera División,2009/2010,8,Athletic Bilbao,38,15,9,14,50:53,-3,54
+Primera División,2009/2010,9,Atlético Madrid,38,13,8,17,57:61,-4,47
+Primera División,2009/2010,10,Deportivo La Coruña,38,13,8,17,35:49,-14,47
+Primera División,2009/2010,11,Espanyol Barcelona,38,11,11,16,29:46,-17,44
+Primera División,2009/2010,12,CA Osasuna,38,11,10,17,37:46,-9,43
+Primera División,2009/2010,13,UD Almería,38,10,12,16,43:55,-12,42
+Primera División,2009/2010,14,Real Zaragoza,38,10,11,17,46:64,-18,41
+Primera División,2009/2010,15,Sporting Gijón,38,9,13,16,36:51,-15,40
+Primera División,2009/2010,16,Racing Santander,38,9,12,17,42:59,-17,39
+Primera División,2009/2010,17,Málaga CF,38,7,16,15,42:48,-6,37
+Primera División,2009/2010,18,CD Tenerife,38,9,9,20,40:74,-34,36
+Primera División,2009/2010,19,Real Valladolid,38,7,15,16,37:62,-25,36
+Primera División,2009/2010,20,Xerez CD,38,8,10,20,38:66,-28,34
+Primera División,2007/2008,1,Real Madrid,38,27,4,7,84:36,48,85
+Primera División,2007/2008,2,Villarreal CF,38,24,5,9,63:40,23,77
+Primera División,2007/2008,3,FC Barcelona,38,19,10,9,76:43,33,67
+Primera División,2007/2008,4,Atlético Madrid,38,19,7,12,66:47,19,64
+Primera División,2007/2008,5,Sevilla FC,38,20,4,14,75:49,26,64
+Primera División,2007/2008,6,Racing Santander,38,17,9,12,42:41,1,60
+Primera División,2007/2008,7,RCD Mallorca,38,15,14,9,69:54,15,59
+Primera División,2007/2008,8,Deportivo La Coruña,38,15,7,16,46:47,-1,52
+Primera División,2007/2008,9,UD Almería,38,14,10,14,42:45,-3,52
+Primera División,2007/2008,10,Valencia CF,38,15,6,17,48:62,-14,51
+Primera División,2007/2008,11,Athletic Bilbao,38,13,11,14,40:43,-3,50
+Primera División,2007/2008,12,Espanyol Barcelona,38,13,9,16,43:53,-10,48
+Primera División,2007/2008,13,Getafe CF,38,12,11,15,44:48,-4,47
+Primera División,2007/2008,14,Real Betis,38,12,11,15,45:51,-6,47
+Primera División,2007/2008,15,Real Valladolid,38,11,12,15,42:57,-15,45
+Primera División,2007/2008,16,Recreativo Huelva,38,11,11,16,40:60,-20,44
+Primera División,2007/2008,17,CA Osasuna,38,12,7,19,37:44,-7,43
+Primera División,2007/2008,18,Real Zaragoza,38,10,12,16,50:61,-11,42
+Primera División,2007/2008,19,Real Murcia,38,7,9,22,36:65,-29,30
+Primera División,2007/2008,20,Levante UD,38,7,5,26,33:75,-42,26
+Premier League,2009/2010,1,Chelsea FC,38,27,5,6,103:32,71,86
+Premier League,2009/2010,2,Manchester United,38,27,4,7,86:28,58,85
+Premier League,2009/2010,3,Arsenal FC,38,23,6,9,83:41,42,75
+Premier League,2009/2010,4,Tottenham Hotspur,38,21,7,10,67:41,26,70
+Premier League,2009/2010,5,Manchester City,38,18,13,7,73:45,28,67
+Premier League,2009/2010,6,Aston Villa,38,17,13,8,52:39,13,64
+Premier League,2009/2010,7,Liverpool FC,38,18,9,11,61:35,26,63
+Premier League,2009/2010,8,Everton FC,38,16,13,9,60:49,11,61
+Premier League,2009/2010,9,Birmingham City,38,13,11,14,38:47,-9,50
+Premier League,2009/2010,10,Blackburn Rovers,38,13,11,14,41:55,-14,50
+Premier League,2009/2010,11,Stoke City,38,11,14,13,34:48,-14,47
+Premier League,2009/2010,12,Fulham FC,38,12,10,16,39:46,-7,46
+Premier League,2009/2010,13,Sunderland AFC,38,11,11,16,48:56,-8,44
+Premier League,2009/2010,14,Bolton Wanderers,38,10,9,19,42:67,-25,39
+Premier League,2009/2010,15,Wolverhampton Wanderers,38,9,11,18,32:56,-24,38
+Premier League,2009/2010,16,Wigan Athletic,38,9,9,20,37:79,-42,36
+Premier League,2009/2010,17,West Ham United,38,8,11,19,47:66,-19,35
+Premier League,2009/2010,18,Burnley FC,38,8,6,24,42:82,-40,30
+Premier League,2009/2010,19,Hull City,38,6,12,20,34:75,-41,30
+Premier League,2009/2010,20,Portsmouth FC,38,7,7,24,34:66,-32,19
+Primera División,2005/2006,1,FC Barcelona,38,25,7,6,80:35,45,82
+Primera División,2005/2006,2,Real Madrid,38,20,10,8,70:40,30,70
+Primera División,2005/2006,3,Valencia CF,38,19,12,7,58:33,25,69
+Primera División,2005/2006,4,CA Osasuna,38,21,5,12,49:43,6,68
+Primera División,2005/2006,5,Sevilla FC,38,20,8,10,54:39,15,68
+Primera División,2005/2006,6,Celta Vigo,38,20,4,14,45:33,12,64
+Primera División,2005/2006,7,Villarreal CF,38,14,15,9,50:39,11,57
+Primera División,2005/2006,8,Deportivo La Coruña,38,15,10,13,47:45,2,55
+Primera División,2005/2006,9,Getafe CF,38,15,9,14,54:49,5,54
+Primera División,2005/2006,10,Atlético Madrid,38,13,13,12,45:37,8,52
+Primera División,2005/2006,11,Real Zaragoza,38,10,16,12,46:51,-5,46
+Primera División,2005/2006,12,Athletic Bilbao,38,11,12,15,40:46,-6,45
+Primera División,2005/2006,13,RCD Mallorca,38,10,13,15,37:51,-14,43
+Primera División,2005/2006,14,Real Betis,38,10,12,16,34:51,-17,42
+Primera División,2005/2006,15,Espanyol Barcelona,38,10,11,17,36:56,-20,41
+Primera División,2005/2006,16,Real Sociedad,38,11,7,20,48:65,-17,40
+Primera División,2005/2006,17,Racing Santander,38,9,13,16,36:49,-13,40
+Primera División,2005/2006,18,CD Alavés,38,9,12,17,35:54,-19,39
+Primera División,2005/2006,19,Cádiz CF,38,8,12,18,36:52,-16,36
+Primera División,2005/2006,20,Málaga CF,38,5,9,24,36:68,-32,24
+Ligue 1,2008/2009,1,Girondins Bordeaux,38,24,8,6,64:34,30,80
+Ligue 1,2008/2009,2,Olympique Marseille,38,22,11,5,67:35,32,77
+Ligue 1,2008/2009,3,Olympique Lyon,38,20,11,7,52:29,23,71
+Ligue 1,2008/2009,4,Toulouse FC,38,16,16,6,45:27,18,64
+Ligue 1,2008/2009,5,Lille OSC,38,17,13,8,51:39,12,64
+Ligue 1,2008/2009,6,Paris Saint-Germain,38,19,7,12,49:38,11,64
+Ligue 1,2008/2009,7,Stade Rennes,38,15,16,7,42:34,8,61
+Ligue 1,2008/2009,8,AJ Auxerre,38,16,7,15,35:35,0,55
+Ligue 1,2008/2009,9,OGC Nice,38,13,11,14,40:41,-1,50
+Ligue 1,2008/2009,10,FC Lorient,38,10,15,13,47:47,0,45
+Ligue 1,2008/2009,11,AS Monaco,38,11,12,15,41:45,-4,45
+Ligue 1,2008/2009,12,Valenciennes FC,38,10,14,14,35:42,-7,44
+Ligue 1,2008/2009,13,Grenoble Foot 38,38,10,14,14,24:37,-13,44
+Ligue 1,2008/2009,14,FC Sochaux,38,10,12,16,40:48,-8,42
+Ligue 1,2008/2009,15,AS Nancy,38,10,12,16,38:47,-9,42
+Ligue 1,2008/2009,16,Le Mans UC 72,38,10,10,18,43:54,-11,40
+Ligue 1,2008/2009,17,AS Saint-Étienne,38,11,7,20,40:56,-16,40
+Ligue 1,2008/2009,18,SM Caen,38,8,13,17,42:49,-7,37
+Ligue 1,2008/2009,19,FC Nantes,38,9,10,19,33:54,-21,37
+Ligue 1,2008/2009,20,Le Havre AC,38,7,5,26,30:67,-37,26
+Primera División,2008/2009,1,FC Barcelona,38,27,6,5,105:35,70,87
+Primera División,2008/2009,2,Real Madrid,38,25,3,10,83:52,31,78
+Primera División,2008/2009,3,Sevilla FC,38,21,7,10,54:39,15,70
+Primera División,2008/2009,4,Atlético Madrid,38,20,7,11,80:57,23,67
+Primera División,2008/2009,5,Villarreal CF,38,18,11,9,61:54,7,65
+Primera División,2008/2009,6,Valencia CF,38,18,8,12,68:54,14,62
+Primera División,2008/2009,7,Deportivo La Coruña,38,16,10,12,48:47,1,58
+Primera División,2008/2009,8,Málaga CF,38,15,10,13,55:59,-4,55
+Primera División,2008/2009,9,RCD Mallorca,38,14,9,15,53:60,-7,51
+Primera División,2008/2009,10,Espanyol Barcelona,38,12,11,15,46:49,-3,47
+Primera División,2008/2009,11,Racing Santander,38,12,10,16,49:48,1,46
+Primera División,2008/2009,12,UD Almería,38,13,7,18,45:61,-16,46
+Primera División,2008/2009,13,Athletic Bilbao,38,12,8,18,47:62,-15,44
+Primera División,2008/2009,14,CA Osasuna,38,10,13,15,41:47,-6,43
+Primera División,2008/2009,15,Real Valladolid,38,12,7,19,46:58,-12,43
+Primera División,2008/2009,16,Sporting Gijón,38,14,1,23,47:79,-32,43
+Primera División,2008/2009,17,Getafe CF,38,10,12,16,50:56,-6,42
+Primera División,2008/2009,18,Real Betis,38,10,12,16,51:58,-7,42
+Primera División,2008/2009,19,CD Numancia,38,10,5,23,38:69,-31,35
+Primera División,2008/2009,20,Recreativo Huelva,38,8,9,21,34:57,-23,33
+Bundesliga,1997/1998,1,1. FC Kaiserslautern,34,19,11,4,63:39,24,68
+Bundesliga,1997/1998,2,Bayern München,34,19,9,6,69:37,32,66
+Bundesliga,1997/1998,3,Bayer Leverkusen,34,14,13,7,66:39,27,55
+Bundesliga,1997/1998,4,VfB Stuttgart,34,14,10,10,55:49,6,52
+Bundesliga,1997/1998,5,FC Schalke 04,34,13,13,8,38:32,6,52
+Bundesliga,1997/1998,6,Hansa Rostock,34,14,9,11,54:46,8,51
+Bundesliga,1997/1998,7,Werder Bremen,34,14,8,12,43:47,-4,50
+Bundesliga,1997/1998,8,MSV Duisburg,34,11,11,12,43:44,-1,44
+Bundesliga,1997/1998,9,Hamburger SV,34,11,11,12,38:46,-8,44
+Bundesliga,1997/1998,10,Borussia Dortmund,34,11,10,13,57:55,2,43
+Bundesliga,1997/1998,11,Hertha BSC,34,12,7,15,41:53,-12,43
+Bundesliga,1997/1998,12,VfL Bochum,34,11,8,15,41:49,-8,41
+Bundesliga,1997/1998,13,TSV 1860 München,34,11,8,15,43:54,-11,41
+Bundesliga,1997/1998,14,VfL Wolfsburg,34,11,6,17,38:54,-16,39
+Bundesliga,1997/1998,15,Bor. Mönchengladbach,34,9,11,14,54:59,-5,38
+Bundesliga,1997/1998,16,Karlsruher SC,34,9,11,14,48:60,-12,38
+Bundesliga,1997/1998,17,1. FC Köln,34,10,6,18,49:64,-15,36
+Bundesliga,1997/1998,18,Arminia Bielefeld,34,8,8,18,43:56,-13,32
+Bundesliga,2005/2006,1,Bayern München,34,22,9,3,67:32,35,75
+Bundesliga,2005/2006,2,Werder Bremen,34,21,7,6,79:37,42,70
+Bundesliga,2005/2006,3,Hamburger SV,34,21,5,8,53:30,23,68
+Bundesliga,2005/2006,4,FC Schalke 04,34,16,13,5,47:31,16,61
+Bundesliga,2005/2006,5,Bayer Leverkusen,34,14,10,10,64:49,15,52
+Bundesliga,2005/2006,6,Hertha BSC,34,12,12,10,52:48,4,48
+Bundesliga,2005/2006,7,Borussia Dortmund,34,11,13,10,45:42,3,46
+Bundesliga,2005/2006,8,1. FC Nürnberg,34,12,8,14,49:51,-2,44
+Bundesliga,2005/2006,9,VfB Stuttgart,34,9,16,9,37:39,-2,43
+Bundesliga,2005/2006,10,Bor. Mönchengladbach,34,10,12,12,42:50,-8,42
+Bundesliga,2005/2006,11,1. FSV Mainz 05,34,9,11,14,46:47,-1,38
+Bundesliga,2005/2006,12,Hannover 96,34,7,17,10,43:47,-4,38
+Bundesliga,2005/2006,13,Arminia Bielefeld,34,10,7,17,32:47,-15,37
+Bundesliga,2005/2006,14,Eintracht Frankfurt,34,9,9,16,42:51,-9,36
+Bundesliga,2005/2006,15,VfL Wolfsburg,34,7,13,14,33:55,-22,34
+Bundesliga,2005/2006,16,1. FC Kaiserslautern,34,8,9,17,47:71,-24,33
+Bundesliga,2005/2006,17,1. FC Köln,34,7,9,18,49:71,-22,30
+Bundesliga,2005/2006,18,MSV Duisburg,34,5,12,17,34:63,-29,27
+Bundesliga,2011/2012,1,Borussia Dortmund,34,25,6,3,80:25,55,81
+Bundesliga,2011/2012,2,Bayern München,34,23,4,7,77:22,55,73
+Bundesliga,2011/2012,3,FC Schalke 04,34,20,4,10,74:44,30,64
+Bundesliga,2011/2012,4,Bor. Mönchengladbach,34,17,9,8,49:24,25,60
+Bundesliga,2011/2012,5,Bayer Leverkusen,34,15,9,10,52:44,8,54
+Bundesliga,2011/2012,6,VfB Stuttgart,34,15,8,11,63:46,17,53
+Bundesliga,2011/2012,7,Hannover 96,34,12,12,10,41:45,-4,48
+Bundesliga,2011/2012,8,VfL Wolfsburg,34,13,5,16,47:60,-13,44
+Bundesliga,2011/2012,9,Werder Bremen,34,11,9,14,49:58,-9,42
+Bundesliga,2011/2012,10,1. FC Nürnberg,34,12,6,16,38:49,-11,42
+Bundesliga,2011/2012,11,1899 Hoffenheim,34,10,11,13,41:47,-6,41
+Bundesliga,2011/2012,12,SC Freiburg,34,10,10,14,45:61,-16,40
+Bundesliga,2011/2012,13,1. FSV Mainz 05,34,9,12,13,47:51,-4,39
+Bundesliga,2011/2012,14,FC Augsburg,34,8,14,12,36:49,-13,38
+Bundesliga,2011/2012,15,Hamburger SV,34,8,12,14,35:57,-22,36
+Bundesliga,2011/2012,16,Hertha BSC,34,7,10,17,38:64,-26,31
+Bundesliga,2011/2012,17,1. FC Köln,34,8,6,20,39:75,-36,30
+Bundesliga,2011/2012,18,1. FC Kaiserslautern,34,4,11,19,24:54,-30,23
+Bundesliga,2001/2002,1,Borussia Dortmund,34,21,7,6,62:33,29,70
+Bundesliga,2001/2002,2,Bayer Leverkusen,34,21,6,7,77:38,39,69
+Bundesliga,2001/2002,3,Bayern München,34,20,8,6,65:25,40,68
+Bundesliga,2001/2002,4,Hertha BSC,34,18,7,9,61:38,23,61
+Bundesliga,2001/2002,5,FC Schalke 04,34,18,7,9,52:36,16,61
+Bundesliga,2001/2002,6,Werder Bremen,34,17,5,12,54:43,11,56
+Bundesliga,2001/2002,7,1. FC Kaiserslautern,34,17,5,12,62:53,9,56
+Bundesliga,2001/2002,8,VfB Stuttgart,34,13,11,10,47:43,4,50
+Bundesliga,2001/2002,9,TSV 1860 München,34,15,5,14,59:59,0,50
+Bundesliga,2001/2002,10,VfL Wolfsburg,34,13,7,14,57:49,8,46
+Bundesliga,2001/2002,11,Hamburger SV,34,10,10,14,51:57,-6,40
+Bundesliga,2001/2002,12,Bor. Mönchengladbach,34,9,12,13,41:53,-12,39
+Bundesliga,2001/2002,13,Energie Cottbus,34,9,8,17,36:60,-24,35
+Bundesliga,2001/2002,14,Hansa Rostock,34,9,7,18,35:54,-19,34
+Bundesliga,2001/2002,15,1. FC Nürnberg,34,10,4,20,34:57,-23,34
+Bundesliga,2001/2002,16,SC Freiburg,34,7,9,18,37:64,-27,30
+Bundesliga,2001/2002,17,1. FC Köln,34,7,8,19,26:61,-35,29
+Bundesliga,2001/2002,18,FC St. Pauli,34,4,10,20,37:70,-33,22
+Bundesliga,2003/2004,1,Werder Bremen,34,22,8,4,79:38,41,74
+Bundesliga,2003/2004,2,Bayern München,34,20,8,6,70:39,31,68
+Bundesliga,2003/2004,3,Bayer Leverkusen,34,19,8,7,73:39,34,65
+Bundesliga,2003/2004,4,VfB Stuttgart,34,18,10,6,52:24,28,64
+Bundesliga,2003/2004,5,VfL Bochum,34,15,11,8,57:39,18,56
+Bundesliga,2003/2004,6,Borussia Dortmund,34,16,7,11,59:48,11,55
+Bundesliga,2003/2004,7,FC Schalke 04,34,13,11,10,49:42,7,50
+Bundesliga,2003/2004,8,Hamburger SV,34,14,7,13,47:60,-13,49
+Bundesliga,2003/2004,9,Hansa Rostock,34,12,8,14,55:54,1,44
+Bundesliga,2003/2004,10,VfL Wolfsburg,34,13,3,18,56:61,-5,42
+Bundesliga,2003/2004,11,Bor. Mönchengladbach,34,10,9,15,40:49,-9,39
+Bundesliga,2003/2004,12,Hertha BSC,34,9,12,13,42:59,-17,39
+Bundesliga,2003/2004,13,SC Freiburg,34,10,8,16,42:67,-25,38
+Bundesliga,2003/2004,14,Hannover 96,34,9,10,15,49:63,-14,37
+Bundesliga,2003/2004,15,1. FC Kaiserslautern,34,11,6,17,39:62,-23,36
+Bundesliga,2003/2004,16,Eintracht Frankfurt,34,9,5,20,36:53,-17,32
+Bundesliga,2003/2004,17,TSV 1860 München,34,8,8,18,32:55,-23,32
+Bundesliga,2003/2004,18,1. FC Köln,34,6,5,23,32:57,-25,23
+Bundesliga,1993/1994,1,Bayern München,34,17,10,7,68:37,31,44:24
+Bundesliga,1993/1994,2,1. FC Kaiserslautern,34,18,7,9,64:36,28,43:25
+Bundesliga,1993/1994,3,Bayer Leverkusen,34,14,11,9,60:47,13,39:29
+Bundesliga,1993/1994,4,Borussia Dortmund,34,15,9,10,49:45,4,39:29
+Bundesliga,1993/1994,5,Eintracht Frankfurt,34,15,8,11,57:41,16,38:30
+Bundesliga,1993/1994,6,Karlsruher SC,34,14,10,10,46:43,3,38:30
+Bundesliga,1993/1994,7,VfB Stuttgart,34,13,11,10,51:43,8,37:31
+Bundesliga,1993/1994,8,Werder Bremen,34,13,10,11,51:44,7,36:32
+Bundesliga,1993/1994,9,MSV Duisburg,34,14,8,12,41:52,-11,36:32
+Bundesliga,1993/1994,10,Bor. Mönchengladbach,34,14,7,13,65:59,6,35:33
+Bundesliga,1993/1994,11,1. FC Köln,34,14,6,14,49:51,-2,34:34
+Bundesliga,1993/1994,12,Hamburger SV,34,13,8,13,48:52,-4,34:34
+Bundesliga,1993/1994,13,Dynamo Dresden,34,10,14,10,33:44,-11,30:38
+Bundesliga,1993/1994,14,FC Schalke 04,34,10,9,15,38:50,-12,29:39
+Bundesliga,1993/1994,15,SC Freiburg,34,10,8,16,54:57,-3,28:40
+Bundesliga,1993/1994,16,1. FC Nürnberg,34,10,8,16,41:55,-14,28:40
+Bundesliga,1993/1994,17,SG Wattenscheid 09,34,6,11,17,48:70,-22,23:45
+Bundesliga,1993/1994,18,VfB Leipzig,34,3,11,20,32:69,-37,17:51
+Serie A,2010/2011,1,AC Milan,38,24,10,4,65:24,41,82
+Serie A,2010/2011,2,Inter,38,23,7,8,69:42,27,76
+Serie A,2010/2011,3,SSC Napoli,38,21,7,10,59:39,20,70
+Serie A,2010/2011,4,Udinese Calcio,38,20,6,12,65:43,22,66
+Serie A,2010/2011,5,Lazio Roma,38,20,6,12,55:39,16,66
+Serie A,2010/2011,6,AS Roma,38,18,9,11,59:52,7,63
+Serie A,2010/2011,7,Juventus,38,15,13,10,57:47,10,58
+Serie A,2010/2011,8,US Palermo,38,17,5,16,58:63,-5,56
+Serie A,2010/2011,9,ACF Fiorentina,38,12,15,11,49:44,5,51
+Serie A,2010/2011,10,Genoa CFC,38,14,9,15,45:47,-2,51
+Serie A,2010/2011,11,Chievo Verona,38,11,13,14,38:40,-2,46
+Serie A,2010/2011,12,Parma FC,38,11,13,14,39:47,-8,46
+Serie A,2010/2011,13,Calcio Catania,38,12,10,16,40:52,-12,46
+Serie A,2010/2011,14,Cagliari Calcio,38,12,9,17,44:51,-7,45
+Serie A,2010/2011,15,AC Cesena,38,11,10,17,38:50,-12,43
+Serie A,2010/2011,16,Bologna FC,38,11,12,15,35:52,-17,42
+Serie A,2010/2011,17,US Lecce,38,11,8,19,46:66,-20,41
+Serie A,2010/2011,18,Sampdoria,38,8,12,18,33:49,-16,36
+Serie A,2010/2011,19,Brescia Calcio,38,7,11,20,34:52,-18,32
+Serie A,2010/2011,20,AS Bari,38,5,9,24,27:56,-29,24
+Premier League,1997/1998,1,Arsenal FC,38,23,9,6,68:33,35,78
+Premier League,1997/1998,2,Manchester United,38,23,8,7,73:26,47,77
+Premier League,1997/1998,3,Liverpool FC,38,18,11,9,68:42,26,65
+Premier League,1997/1998,4,Chelsea FC,38,20,3,15,71:43,28,63
+Premier League,1997/1998,5,Leeds United,38,17,8,13,57:46,11,59
+Premier League,1997/1998,6,Blackburn Rovers,38,16,10,12,57:52,5,58
+Premier League,1997/1998,7,Aston Villa,38,17,6,15,49:48,1,57
+Premier League,1997/1998,8,West Ham United,38,16,8,14,56:57,-1,56
+Premier League,1997/1998,9,Derby County,38,16,7,15,52:49,3,55
+Premier League,1997/1998,10,Leicester City,38,13,14,11,51:41,10,53
+Premier League,1997/1998,11,Coventry City,38,12,16,10,46:44,2,52
+Premier League,1997/1998,12,Southampton FC,38,14,6,18,50:55,-5,48
+Premier League,1997/1998,13,Newcastle United,38,11,11,16,35:44,-9,44
+Premier League,1997/1998,14,Tottenham Hotspur,38,11,11,16,44:56,-12,44
+Premier League,1997/1998,15,Wimbledon FC,38,10,14,14,34:46,-12,44
+Premier League,1997/1998,16,Sheffield Wednesday,38,12,8,18,52:67,-15,44
+Premier League,1997/1998,17,Everton FC,38,9,13,16,41:56,-15,40
+Premier League,1997/1998,18,Bolton Wanderers,38,9,13,16,41:61,-20,40
+Premier League,1997/1998,19,Barnsley FC,38,10,5,23,37:82,-45,35
+Premier League,1997/1998,20,Crystal Palace,38,8,9,21,37:71,-34,33
+Bundesliga,2014/2015,1,Bayern München,34,25,4,5,80:18,62,79
+Bundesliga,2014/2015,2,VfL Wolfsburg,34,20,9,5,72:38,34,69
+Bundesliga,2014/2015,3,Bor. Mönchengladbach,34,19,9,6,53:26,27,66
+Bundesliga,2014/2015,4,Bayer Leverkusen,34,17,10,7,62:37,25,61
+Bundesliga,2014/2015,5,FC Augsburg,34,15,4,15,43:43,0,49
+Bundesliga,2014/2015,6,FC Schalke 04,34,13,9,12,42:40,2,48
+Bundesliga,2014/2015,7,Borussia Dortmund,34,13,7,14,47:42,5,46
+Bundesliga,2014/2015,8,1899 Hoffenheim,34,12,8,14,49:55,-6,44
+Bundesliga,2014/2015,9,Eintracht Frankfurt,34,11,10,13,56:62,-6,43
+Bundesliga,2014/2015,10,Werder Bremen,34,11,10,13,50:65,-15,43
+Bundesliga,2014/2015,11,1. FSV Mainz 05,34,9,13,12,45:47,-2,40
+Bundesliga,2014/2015,12,1. FC Köln,34,9,13,12,34:40,-6,40
+Bundesliga,2014/2015,13,Hannover 96,34,9,10,15,40:56,-16,37
+Bundesliga,2014/2015,14,VfB Stuttgart,34,9,9,16,42:60,-18,36
+Bundesliga,2014/2015,15,Hertha BSC,34,9,8,17,36:52,-16,35
+Bundesliga,2014/2015,16,Hamburger SV,34,9,8,17,25:50,-25,35
+Bundesliga,2014/2015,17,SC Freiburg,34,7,13,14,36:47,-11,34
+Bundesliga,2014/2015,18,SC Paderborn 07,34,7,10,17,31:65,-34,31
+Bundesliga,1998/1999,1,Bayern München,34,24,6,4,76:28,48,78
+Bundesliga,1998/1999,2,Bayer Leverkusen,34,17,12,5,61:30,31,63
+Bundesliga,1998/1999,3,Hertha BSC,34,18,8,8,59:32,27,62
+Bundesliga,1998/1999,4,Borussia Dortmund,34,16,9,9,48:34,14,57
+Bundesliga,1998/1999,5,1. FC Kaiserslautern,34,17,6,11,51:47,4,57
+Bundesliga,1998/1999,6,VfL Wolfsburg,34,15,10,9,54:49,5,55
+Bundesliga,1998/1999,7,Hamburger SV,34,13,11,10,47:46,1,50
+Bundesliga,1998/1999,8,MSV Duisburg,34,13,10,11,48:45,3,49
+Bundesliga,1998/1999,9,TSV 1860 München,34,11,8,15,49:56,-7,41
+Bundesliga,1998/1999,10,FC Schalke 04,34,10,11,13,41:54,-13,41
+Bundesliga,1998/1999,11,VfB Stuttgart,34,9,12,13,41:48,-7,39
+Bundesliga,1998/1999,12,SC Freiburg,34,10,9,15,36:44,-8,39
+Bundesliga,1998/1999,13,Werder Bremen,34,10,8,16,41:47,-6,38
+Bundesliga,1998/1999,14,Hansa Rostock,34,9,11,14,49:58,-9,38
+Bundesliga,1998/1999,15,Eintracht Frankfurt,34,9,10,15,44:54,-10,37
+Bundesliga,1998/1999,16,1. FC Nürnberg,34,7,16,11,40:50,-10,37
+Bundesliga,1998/1999,17,VfL Bochum,34,7,8,19,40:65,-25,29
+Bundesliga,1998/1999,18,Bor. Mönchengladbach,34,4,9,21,41:79,-38,21
+Ligue 1,2016/2017,1,AS Monaco,38,30,5,3,107:31,76,95
+Ligue 1,2016/2017,2,Paris Saint-Germain,38,27,6,5,83:27,56,87
+Ligue 1,2016/2017,3,OGC Nice,38,22,12,4,63:36,27,78
+Ligue 1,2016/2017,4,Olympique Lyon,38,20,5,13,77:48,29,67
+Ligue 1,2016/2017,5,Olympique Marseille,38,17,11,10,57:41,16,62
+Ligue 1,2016/2017,6,Girondins Bordeaux,38,15,14,9,53:43,10,59
+Ligue 1,2016/2017,7,FC Nantes,38,14,9,15,40:54,-14,51
+Ligue 1,2016/2017,8,AS Saint-Étienne,38,12,14,12,41:42,-1,50
+Ligue 1,2016/2017,9,Stade Rennes,38,12,14,12,36:42,-6,50
+Ligue 1,2016/2017,10,EA Guingamp,38,14,8,16,46:53,-7,50
+Ligue 1,2016/2017,11,Lille OSC,38,13,7,18,40:47,-7,46
+Ligue 1,2016/2017,12,Angers SCO,38,13,7,18,40:49,-9,46
+Ligue 1,2016/2017,13,Toulouse FC,38,10,14,14,37:41,-4,44
+Ligue 1,2016/2017,14,FC Metz,38,11,10,17,39:72,-33,43
+Ligue 1,2016/2017,15,Montpellier HSC,38,10,9,19,48:66,-18,39
+Ligue 1,2016/2017,16,Dijon FCO,38,8,13,17,46:58,-12,37
+Ligue 1,2016/2017,17,SM Caen,38,10,7,21,36:65,-29,37
+Ligue 1,2016/2017,18,FC Lorient,38,10,6,22,44:70,-26,36
+Ligue 1,2016/2017,19,AS Nancy,38,9,8,21,29:52,-23,35
+Ligue 1,2016/2017,20,SC Bastia,38,8,11,19,29:54,-25,34
+Bundesliga,2010/2011,1,Borussia Dortmund,34,23,6,5,67:22,45,75
+Bundesliga,2010/2011,2,Bayer Leverkusen,34,20,8,6,64:44,20,68
+Bundesliga,2010/2011,3,Bayern München,34,19,8,7,81:40,41,65
+Bundesliga,2010/2011,4,Hannover 96,34,19,3,12,49:45,4,60
+Bundesliga,2010/2011,5,1. FSV Mainz 05,34,18,4,12,52:39,13,58
+Bundesliga,2010/2011,6,1. FC Nürnberg,34,13,8,13,47:45,2,47
+Bundesliga,2010/2011,7,1. FC Kaiserslautern,34,13,7,14,48:51,-3,46
+Bundesliga,2010/2011,8,Hamburger SV,34,12,9,13,46:52,-6,45
+Bundesliga,2010/2011,9,SC Freiburg,34,13,5,16,41:50,-9,44
+Bundesliga,2010/2011,10,1. FC Köln,34,13,5,16,47:62,-15,44
+Bundesliga,2010/2011,11,1899 Hoffenheim,34,11,10,13,50:50,0,43
+Bundesliga,2010/2011,12,VfB Stuttgart,34,12,6,16,60:59,1,42
+Bundesliga,2010/2011,13,Werder Bremen,34,10,11,13,47:61,-14,41
+Bundesliga,2010/2011,14,FC Schalke 04,34,11,7,16,38:44,-6,40
+Bundesliga,2010/2011,15,VfL Wolfsburg,34,9,11,14,43:48,-5,38
+Bundesliga,2010/2011,16,Bor. Mönchengladbach,34,10,6,18,48:65,-17,36
+Bundesliga,2010/2011,17,Eintracht Frankfurt,34,9,7,18,31:49,-18,34
+Bundesliga,2010/2011,18,FC St. Pauli,34,8,5,21,35:68,-33,29
+Bundesliga,2019/2020,1,Bayern München,34,26,4,4,100:32,68,82
+Bundesliga,2019/2020,2,Borussia Dortmund,34,21,6,7,84:41,43,69
+Bundesliga,2019/2020,3,RB Leipzig,34,18,12,4,81:37,44,66
+Bundesliga,2019/2020,4,Bor. Mönchengladbach,34,20,5,9,66:40,26,65
+Bundesliga,2019/2020,5,Bayer Leverkusen,34,19,6,9,61:44,17,63
+Bundesliga,2019/2020,6,1899 Hoffenheim,34,15,7,12,53:53,0,52
+Bundesliga,2019/2020,7,VfL Wolfsburg,34,13,10,11,48:46,2,49
+Bundesliga,2019/2020,8,SC Freiburg,34,13,9,12,48:47,1,48
+Bundesliga,2019/2020,9,Eintracht Frankfurt,34,13,6,15,59:60,-1,45
+Bundesliga,2019/2020,10,Hertha BSC,34,11,8,15,48:59,-11,41
+Bundesliga,2019/2020,11,1. FC Union Berlin,34,12,5,17,41:58,-17,41
+Bundesliga,2019/2020,12,FC Schalke 04,34,9,12,13,38:58,-20,39
+Bundesliga,2019/2020,13,1. FSV Mainz 05,34,11,4,19,44:65,-21,37
+Bundesliga,2019/2020,14,1. FC Köln,34,10,6,18,51:69,-18,36
+Bundesliga,2019/2020,15,FC Augsburg,34,9,9,16,45:63,-18,36
+Bundesliga,2019/2020,16,Werder Bremen,34,8,7,19,42:69,-27,31
+Bundesliga,2019/2020,17,Fortuna Düsseldorf,34,6,12,16,36:67,-31,30
+Bundesliga,2019/2020,18,SC Paderborn 07,34,4,8,22,37:74,-37,20
+Bundesliga,2006/2007,1,VfB Stuttgart,34,21,7,6,61:37,24,70
+Bundesliga,2006/2007,2,FC Schalke 04,34,21,5,8,53:32,21,68
+Bundesliga,2006/2007,3,Werder Bremen,34,20,6,8,76:40,36,66
+Bundesliga,2006/2007,4,Bayern München,34,18,6,10,55:40,15,60
+Bundesliga,2006/2007,5,Bayer Leverkusen,34,15,6,13,54:49,5,51
+Bundesliga,2006/2007,6,1. FC Nürnberg,34,11,15,8,43:32,11,48
+Bundesliga,2006/2007,7,Hamburger SV,34,10,15,9,43:37,6,45
+Bundesliga,2006/2007,8,VfL Bochum,34,13,6,15,49:50,-1,45
+Bundesliga,2006/2007,9,Borussia Dortmund,34,12,8,14,41:43,-2,44
+Bundesliga,2006/2007,10,Hertha BSC,34,12,8,14,50:55,-5,44
+Bundesliga,2006/2007,11,Hannover 96,34,12,8,14,41:50,-9,44
+Bundesliga,2006/2007,12,Arminia Bielefeld,34,11,9,14,47:49,-2,42
+Bundesliga,2006/2007,13,Energie Cottbus,34,11,8,15,38:49,-11,41
+Bundesliga,2006/2007,14,Eintracht Frankfurt,34,9,13,12,46:58,-12,40
+Bundesliga,2006/2007,15,VfL Wolfsburg,34,8,13,13,37:45,-8,37
+Bundesliga,2006/2007,16,1. FSV Mainz 05,34,8,10,16,34:57,-23,34
+Bundesliga,2006/2007,17,Alemannia Aachen,34,9,7,18,46:70,-24,34
+Bundesliga,2006/2007,18,Bor. Mönchengladbach,34,6,8,20,23:44,-21,26
+Bundesliga,2017/2018,1,Bayern München,34,27,3,4,92:28,64,84
+Bundesliga,2017/2018,2,FC Schalke 04,34,18,9,7,53:37,16,63
+Bundesliga,2017/2018,3,1899 Hoffenheim,34,15,10,9,66:48,18,55
+Bundesliga,2017/2018,4,Borussia Dortmund,34,15,10,9,64:47,17,55
+Bundesliga,2017/2018,5,Bayer Leverkusen,34,15,10,9,58:44,14,55
+Bundesliga,2017/2018,6,RB Leipzig,34,15,8,11,57:53,4,53
+Bundesliga,2017/2018,7,VfB Stuttgart,34,15,6,13,36:36,0,51
+Bundesliga,2017/2018,8,Eintracht Frankfurt,34,14,7,13,45:45,0,49
+Bundesliga,2017/2018,9,Bor. Mönchengladbach,34,13,8,13,47:52,-5,47
+Bundesliga,2017/2018,10,Hertha BSC,34,10,13,11,43:46,-3,43
+Bundesliga,2017/2018,11,Werder Bremen,34,10,12,12,37:40,-3,42
+Bundesliga,2017/2018,12,FC Augsburg,34,10,11,13,43:46,-3,41
+Bundesliga,2017/2018,13,Hannover 96,34,10,9,15,44:54,-10,39
+Bundesliga,2017/2018,14,1. FSV Mainz 05,34,9,9,16,38:52,-14,36
+Bundesliga,2017/2018,15,SC Freiburg,34,8,12,14,32:56,-24,36
+Bundesliga,2017/2018,16,VfL Wolfsburg,34,6,15,13,36:48,-12,33
+Bundesliga,2017/2018,17,Hamburger SV,34,8,7,19,29:53,-24,31
+Bundesliga,2017/2018,18,1. FC Köln,34,5,7,22,35:70,-35,22
+Serie A,2013/2014,1,Juventus,38,33,3,2,80:23,57,102
+Serie A,2013/2014,2,AS Roma,38,26,7,5,72:25,47,85
+Serie A,2013/2014,3,SSC Napoli,38,23,9,6,77:39,38,78
+Serie A,2013/2014,4,ACF Fiorentina,38,19,8,11,65:44,21,65
+Serie A,2013/2014,5,Inter,38,15,15,8,62:39,23,60
+Serie A,2013/2014,6,Parma FC,38,15,13,10,58:46,12,58
+Serie A,2013/2014,7,Torino FC,38,15,12,11,58:48,10,57
+Serie A,2013/2014,8,AC Milan,38,16,9,13,57:49,8,57
+Serie A,2013/2014,9,Lazio Roma,38,15,11,12,54:54,0,56
+Serie A,2013/2014,10,Hellas Verona,38,16,6,16,62:68,-6,54
+Serie A,2013/2014,11,Atalanta,38,15,5,18,43:51,-8,50
+Serie A,2013/2014,12,Sampdoria,38,12,9,17,48:62,-14,45
+Serie A,2013/2014,13,Udinese Calcio,38,12,8,18,46:57,-11,44
+Serie A,2013/2014,14,Genoa CFC,38,11,11,16,41:50,-9,44
+Serie A,2013/2014,15,Cagliari Calcio,38,9,12,17,34:53,-19,39
+Serie A,2013/2014,16,Chievo Verona,38,10,6,22,34:54,-20,36
+Serie A,2013/2014,17,Sassuolo Calcio,38,9,7,22,43:72,-29,34
+Serie A,2013/2014,18,Calcio Catania,38,8,8,22,34:66,-32,32
+Serie A,2013/2014,19,Bologna FC,38,5,14,19,28:58,-30,29
+Serie A,2013/2014,20,AS Livorno,38,6,7,25,39:77,-38,25
+Serie A,2011/2012,1,Juventus,38,23,15,0,68:20,48,84
+Serie A,2011/2012,2,AC Milan,38,24,8,6,74:33,41,80
+Serie A,2011/2012,3,Udinese Calcio,38,18,10,10,52:35,17,64
+Serie A,2011/2012,4,Lazio Roma,38,18,8,12,56:47,9,62
+Serie A,2011/2012,5,SSC Napoli,38,16,13,9,66:46,20,61
+Serie A,2011/2012,6,Inter,38,17,7,14,58:55,3,58
+Serie A,2011/2012,7,AS Roma,38,16,8,14,60:54,6,56
+Serie A,2011/2012,8,Parma FC,38,15,11,12,54:53,1,56
+Serie A,2011/2012,9,Bologna FC,38,13,12,13,41:43,-2,51
+Serie A,2011/2012,10,Chievo Verona,38,12,13,13,35:45,-10,49
+Serie A,2011/2012,11,Calcio Catania,38,11,15,12,47:52,-5,48
+Serie A,2011/2012,12,Atalanta,38,13,13,12,41:43,-2,46
+Serie A,2011/2012,13,ACF Fiorentina,38,11,13,14,37:43,-6,46
+Serie A,2011/2012,14,AC Siena,38,11,11,16,45:45,0,44
+Serie A,2011/2012,15,Cagliari Calcio,38,10,13,15,37:46,-9,43
+Serie A,2011/2012,16,US Palermo,38,11,10,17,52:62,-10,43
+Serie A,2011/2012,17,Genoa CFC,38,11,9,18,50:69,-19,42
+Serie A,2011/2012,18,US Lecce,38,8,12,18,40:56,-16,36
+Serie A,2011/2012,19,Novara Calcio,38,7,11,20,35:65,-30,32
+Serie A,2011/2012,20,AC Cesena,38,4,10,24,24:60,-36,22
+Serie A,2017/2018,1,Juventus,38,30,5,3,86:24,62,95
+Serie A,2017/2018,2,SSC Napoli,38,28,7,3,77:29,48,91
+Serie A,2017/2018,3,AS Roma,38,23,8,7,61:28,33,77
+Serie A,2017/2018,4,Inter,38,20,12,6,66:30,36,72
+Serie A,2017/2018,5,Lazio Roma,38,21,9,8,89:49,40,72
+Serie A,2017/2018,6,AC Milan,38,18,10,10,56:42,14,64
+Serie A,2017/2018,7,Atalanta,38,16,12,10,57:39,18,60
+Serie A,2017/2018,8,ACF Fiorentina,38,16,9,13,54:46,8,57
+Serie A,2017/2018,9,Torino FC,38,13,15,10,54:46,8,54
+Serie A,2017/2018,10,Sampdoria,38,16,6,16,56:60,-4,54
+Serie A,2017/2018,11,Sassuolo Calcio,38,11,10,17,29:59,-30,43
+Serie A,2017/2018,12,Genoa CFC,38,11,8,19,33:43,-10,41
+Serie A,2017/2018,13,Chievo Verona,38,10,10,18,36:59,-23,40
+Serie A,2017/2018,14,Udinese Calcio,38,12,4,22,48:63,-15,40
+Serie A,2017/2018,15,Bologna FC,38,11,6,21,40:52,-12,39
+Serie A,2017/2018,16,Cagliari Calcio,38,11,6,21,33:61,-28,39
+Serie A,2017/2018,17,SPAL 2013 Ferrara,38,8,14,16,39:59,-20,38
+Serie A,2017/2018,18,FC Crotone,38,9,8,21,40:66,-26,35
+Serie A,2017/2018,19,Hellas Verona,38,7,4,27,30:78,-48,25
+Serie A,2017/2018,20,Benevento Calcio,38,6,3,29,33:84,-51,21
+Serie A,2019/2020,1,Juventus,38,26,5,7,76:43,33,83
+Serie A,2019/2020,2,Inter,38,24,10,4,81:36,45,82
+Serie A,2019/2020,3,Atalanta,38,23,9,6,98:48,50,78
+Serie A,2019/2020,4,Lazio Roma,38,24,6,8,79:42,37,78
+Serie A,2019/2020,5,AS Roma,38,21,7,10,77:51,26,70
+Serie A,2019/2020,6,AC Milan,38,19,9,10,63:46,17,66
+Serie A,2019/2020,7,SSC Napoli,38,18,8,12,61:50,11,62
+Serie A,2019/2020,8,Sassuolo Calcio,38,14,9,15,69:63,6,51
+Serie A,2019/2020,9,Hellas Verona,38,12,13,13,47:51,-4,49
+Serie A,2019/2020,10,ACF Fiorentina,38,12,13,13,51:48,3,49
+Serie A,2019/2020,11,Parma Calcio 1913,38,14,7,17,56:57,-1,49
+Serie A,2019/2020,12,Bologna FC,38,12,11,15,52:65,-13,47
+Serie A,2019/2020,13,Udinese Calcio,38,12,9,17,37:51,-14,45
+Serie A,2019/2020,14,Cagliari Calcio,38,11,12,15,52:56,-4,45
+Serie A,2019/2020,15,Sampdoria,38,12,6,20,48:65,-17,42
+Serie A,2019/2020,16,Torino FC,38,11,7,20,46:68,-22,40
+Serie A,2019/2020,17,Genoa CFC,38,10,9,19,47:73,-26,39
+Serie A,2019/2020,18,US Lecce,38,9,8,21,52:85,-33,35
+Serie A,2019/2020,19,Brescia Calcio,38,6,7,25,35:79,-44,25
+Serie A,2019/2020,20,SPAL 2013 Ferrara,38,5,5,28,27:77,-50,20
+Bundesliga,2015/2016,1,Bayern München,34,28,4,2,80:17,63,88
+Bundesliga,2015/2016,2,Borussia Dortmund,34,24,6,4,82:34,48,78
+Bundesliga,2015/2016,3,Bayer Leverkusen,34,18,6,10,56:40,16,60
+Bundesliga,2015/2016,4,Bor. Mönchengladbach,34,17,4,13,67:50,17,55
+Bundesliga,2015/2016,5,FC Schalke 04,34,15,7,12,51:49,2,52
+Bundesliga,2015/2016,6,1. FSV Mainz 05,34,14,8,12,46:42,4,50
+Bundesliga,2015/2016,7,Hertha BSC,34,14,8,12,42:42,0,50
+Bundesliga,2015/2016,8,VfL Wolfsburg,34,12,9,13,47:49,-2,45
+Bundesliga,2015/2016,9,1. FC Köln,34,10,13,11,38:42,-4,43
+Bundesliga,2015/2016,10,Hamburger SV,34,11,8,15,40:46,-6,41
+Bundesliga,2015/2016,11,FC Ingolstadt 04,34,10,10,14,33:42,-9,40
+Bundesliga,2015/2016,12,FC Augsburg,34,9,11,14,42:52,-10,38
+Bundesliga,2015/2016,13,Werder Bremen,34,10,8,16,50:65,-15,38
+Bundesliga,2015/2016,14,SV Darmstadt 98,34,9,11,14,38:53,-15,38
+Bundesliga,2015/2016,15,1899 Hoffenheim,34,9,10,15,39:54,-15,37
+Bundesliga,2015/2016,16,Eintracht Frankfurt,34,9,9,16,34:52,-18,36
+Bundesliga,2015/2016,17,VfB Stuttgart,34,9,6,19,50:75,-25,33
+Bundesliga,2015/2016,18,Hannover 96,34,7,4,23,31:62,-31,25
+Serie A,2014/2015,1,Juventus,38,26,9,3,72:24,48,87
+Serie A,2014/2015,2,AS Roma,38,19,13,6,54:31,23,70
+Serie A,2014/2015,3,Lazio Roma,38,21,6,11,71:38,33,69
+Serie A,2014/2015,4,ACF Fiorentina,38,18,10,10,61:46,15,64
+Serie A,2014/2015,5,SSC Napoli,38,18,9,11,70:54,16,63
+Serie A,2014/2015,6,Genoa CFC,38,16,11,11,62:47,15,59
+Serie A,2014/2015,7,Sampdoria,38,13,17,8,48:42,6,56
+Serie A,2014/2015,8,Inter,38,14,13,11,59:48,11,55
+Serie A,2014/2015,9,Torino FC,38,14,12,12,48:45,3,54
+Serie A,2014/2015,10,AC Milan,38,13,13,12,56:50,6,52
+Serie A,2014/2015,11,US Palermo,38,12,13,13,53:55,-2,49
+Serie A,2014/2015,12,Sassuolo Calcio,38,12,13,13,49:57,-8,49
+Serie A,2014/2015,13,Hellas Verona,38,11,13,14,49:65,-16,46
+Serie A,2014/2015,14,Chievo Verona,38,10,13,15,28:41,-13,43
+Serie A,2014/2015,15,Empoli FC,38,8,18,12,46:52,-6,42
+Serie A,2014/2015,16,Udinese Calcio,38,10,11,17,43:56,-13,41
+Serie A,2014/2015,17,Atalanta,38,7,16,15,38:57,-19,37
+Serie A,2014/2015,18,Cagliari Calcio,38,8,10,20,48:68,-20,34
+Serie A,2014/2015,19,AC Cesena,38,4,12,22,36:73,-37,24
+Serie A,2014/2015,20,Parma FC,38,6,8,24,33:75,-42,19
+Serie A,2015/2016,1,Juventus,38,29,4,5,75:20,55,91
+Serie A,2015/2016,2,SSC Napoli,38,25,7,6,80:32,48,82
+Serie A,2015/2016,3,AS Roma,38,23,11,4,83:41,42,80
+Serie A,2015/2016,4,Inter,38,20,7,11,50:38,12,67
+Serie A,2015/2016,5,ACF Fiorentina,38,18,10,10,60:42,18,64
+Serie A,2015/2016,6,Sassuolo Calcio,38,16,13,9,49:40,9,61
+Serie A,2015/2016,7,AC Milan,38,15,12,11,49:43,6,57
+Serie A,2015/2016,8,Lazio Roma,38,15,9,14,52:52,0,54
+Serie A,2015/2016,9,Chievo Verona,38,13,11,14,43:45,-2,50
+Serie A,2015/2016,10,Empoli FC,38,12,10,16,40:49,-9,46
+Serie A,2015/2016,11,Genoa CFC,38,13,7,18,45:48,-3,46
+Serie A,2015/2016,12,Torino FC,38,12,9,17,52:55,-3,45
+Serie A,2015/2016,13,Atalanta,38,11,12,15,41:47,-6,45
+Serie A,2015/2016,14,Bologna FC,38,11,9,18,33:45,-12,42
+Serie A,2015/2016,15,Sampdoria,38,10,10,18,48:61,-13,40
+Serie A,2015/2016,16,US Palermo,38,10,9,19,38:65,-27,39
+Serie A,2015/2016,17,Udinese Calcio,38,10,9,19,35:60,-25,39
+Serie A,2015/2016,18,Carpi FC,38,9,11,18,37:57,-20,38
+Serie A,2015/2016,19,Frosinone Calcio,38,8,7,23,35:76,-41,31
+Serie A,2015/2016,20,Hellas Verona,38,5,13,20,34:63,-29,28
+Ligue 1,2018/2019,1,Paris Saint-Germain,38,29,4,5,105:35,70,91
+Ligue 1,2018/2019,2,Lille OSC,38,22,9,7,68:33,35,75
+Ligue 1,2018/2019,3,Olympique Lyon,38,21,9,8,70:47,23,72
+Ligue 1,2018/2019,4,AS Saint-Étienne,38,19,9,10,59:41,18,66
+Ligue 1,2018/2019,5,Olympique Marseille,38,18,7,13,60:52,8,61
+Ligue 1,2018/2019,6,Montpellier HSC,38,15,14,9,53:42,11,59
+Ligue 1,2018/2019,7,OGC Nice,38,15,11,12,30:35,-5,56
+Ligue 1,2018/2019,8,Stade Reims,38,13,16,9,39:42,-3,55
+Ligue 1,2018/2019,9,Nîmes Olympique,38,15,8,15,57:58,-1,53
+Ligue 1,2018/2019,10,Stade Rennes,38,13,13,12,55:52,3,52
+Ligue 1,2018/2019,11,RC Strasbourg,38,11,16,11,58:48,10,49
+Ligue 1,2018/2019,12,FC Nantes,38,13,9,16,48:48,0,48
+Ligue 1,2018/2019,13,Angers SCO,38,10,16,12,44:49,-5,46
+Ligue 1,2018/2019,14,Girondins Bordeaux,38,10,11,17,34:42,-8,41
+Ligue 1,2018/2019,15,Amiens SC,38,9,11,18,31:52,-21,38
+Ligue 1,2018/2019,16,Toulouse FC,38,8,14,16,35:57,-22,38
+Ligue 1,2018/2019,17,AS Monaco,38,8,12,18,38:57,-19,36
+Ligue 1,2018/2019,18,Dijon FCO,38,9,7,22,31:60,-29,34
+Ligue 1,2018/2019,19,SM Caen,38,7,12,19,29:54,-25,33
+Ligue 1,2018/2019,20,EA Guingamp,38,5,12,21,28:68,-40,27
+Ligue 1,2017/2018,1,Paris Saint-Germain,38,29,6,3,108:29,79,93
+Ligue 1,2017/2018,2,AS Monaco,38,24,8,6,85:45,40,80
+Ligue 1,2017/2018,3,Olympique Lyon,38,23,9,6,87:43,44,78
+Ligue 1,2017/2018,4,Olympique Marseille,38,22,11,5,80:47,33,77
+Ligue 1,2017/2018,5,Stade Rennes,38,16,10,12,50:44,6,58
+Ligue 1,2017/2018,6,Girondins Bordeaux,38,16,7,15,53:48,5,55
+Ligue 1,2017/2018,7,AS Saint-Étienne,38,15,10,13,47:50,-3,55
+Ligue 1,2017/2018,8,OGC Nice,38,15,9,14,53:52,1,54
+Ligue 1,2017/2018,9,FC Nantes,38,14,10,14,36:41,-5,52
+Ligue 1,2017/2018,10,Montpellier HSC,38,11,18,9,36:33,3,51
+Ligue 1,2017/2018,11,Dijon FCO,38,13,9,16,55:73,-18,48
+Ligue 1,2017/2018,12,EA Guingamp,38,12,11,15,48:59,-11,47
+Ligue 1,2017/2018,13,Amiens SC,38,12,9,17,37:42,-5,45
+Ligue 1,2017/2018,14,Angers SCO,38,9,14,15,42:52,-10,41
+Ligue 1,2017/2018,15,RC Strasbourg,38,9,11,18,44:67,-23,38
+Ligue 1,2017/2018,16,SM Caen,38,10,8,20,27:52,-25,38
+Ligue 1,2017/2018,17,Lille OSC,38,10,8,20,41:67,-26,38
+Ligue 1,2017/2018,18,Toulouse FC,38,9,10,19,38:54,-16,37
+Ligue 1,2017/2018,19,ESTAC Troyes,38,9,6,23,32:59,-27,33
+Ligue 1,2017/2018,20,FC Metz,38,6,8,24,34:76,-42,26
+Serie A,2009/2010,1,Inter,38,24,10,4,75:34,41,82
+Serie A,2009/2010,2,AS Roma,38,24,8,6,68:41,27,80
+Serie A,2009/2010,3,AC Milan,38,20,10,8,60:39,21,70
+Serie A,2009/2010,4,Sampdoria,38,19,10,9,49:41,8,67
+Serie A,2009/2010,5,US Palermo,38,18,11,9,59:47,12,65
+Serie A,2009/2010,6,SSC Napoli,38,15,14,9,50:43,7,59
+Serie A,2009/2010,7,Juventus,38,16,7,15,55:56,-1,55
+Serie A,2009/2010,8,Parma FC,38,14,10,14,46:51,-5,52
+Serie A,2009/2010,9,Genoa CFC,38,14,9,15,57:61,-4,51
+Serie A,2009/2010,10,AS Bari,38,13,11,14,49:49,0,50
+Serie A,2009/2010,11,ACF Fiorentina,38,13,8,17,48:47,1,47
+Serie A,2009/2010,12,Lazio Roma,38,11,13,14,39:43,-4,46
+Serie A,2009/2010,13,Calcio Catania,38,10,15,13,44:45,-1,45
+Serie A,2009/2010,14,Chievo Verona,38,12,8,18,37:42,-5,44
+Serie A,2009/2010,15,Udinese Calcio,38,11,11,16,54:59,-5,44
+Serie A,2009/2010,16,Cagliari Calcio,38,11,11,16,56:58,-2,44
+Serie A,2009/2010,17,Bologna FC,38,10,12,16,42:55,-13,42
+Serie A,2009/2010,18,Atalanta,38,9,8,21,37:53,-16,35
+Serie A,2009/2010,19,AC Siena,38,7,10,21,40:67,-27,31
+Serie A,2009/2010,20,AS Livorno,38,7,8,23,27:61,-34,29
+Serie A,2012/2013,1,Juventus,38,27,6,5,71:24,47,87
+Serie A,2012/2013,2,SSC Napoli,38,23,9,6,73:36,37,78
+Serie A,2012/2013,3,AC Milan,38,21,9,8,67:39,28,72
+Serie A,2012/2013,4,ACF Fiorentina,38,21,7,10,72:44,28,70
+Serie A,2012/2013,5,Udinese Calcio,38,18,12,8,59:45,14,66
+Serie A,2012/2013,6,AS Roma,38,18,8,12,71:56,15,62
+Serie A,2012/2013,7,Lazio Roma,38,18,7,13,51:42,9,61
+Serie A,2012/2013,8,Calcio Catania,38,15,11,12,50:46,4,56
+Serie A,2012/2013,9,Inter,38,16,6,16,55:57,-2,54
+Serie A,2012/2013,10,Parma FC,38,13,10,15,45:46,-1,49
+Serie A,2012/2013,11,Cagliari Calcio,38,12,11,15,43:55,-12,47
+Serie A,2012/2013,12,Chievo Verona,38,12,9,17,37:52,-15,45
+Serie A,2012/2013,13,Bologna FC,38,11,11,16,46:52,-6,44
+Serie A,2012/2013,14,Sampdoria,38,11,10,17,43:51,-8,42
+Serie A,2012/2013,15,Atalanta,38,11,9,18,39:56,-17,40
+Serie A,2012/2013,16,Torino FC,38,8,16,14,46:55,-9,39
+Serie A,2012/2013,17,Genoa CFC,38,8,14,16,38:52,-14,38
+Serie A,2012/2013,18,US Palermo,38,6,14,18,34:54,-20,32
+Serie A,2012/2013,19,AC Siena,38,9,9,20,36:57,-21,30
+Serie A,2012/2013,20,Pescara Calcio,38,6,4,28,27:84,-57,22
+Serie A,1994/1995,1,Juventus,34,23,4,7,59:32,27,73
+Serie A,1994/1995,2,Lazio Roma,34,19,6,9,69:34,35,63
+Serie A,1994/1995,3,Parma AC,34,18,9,7,51:31,20,63
+Serie A,1994/1995,4,AC Milan,34,17,9,8,53:32,21,60
+Serie A,1994/1995,5,AS Roma,34,16,11,7,46:25,21,59
+Serie A,1994/1995,6,Inter,34,14,10,10,39:34,5,52
+Serie A,1994/1995,7,SSC Napoli,34,13,12,9,40:45,-5,51
+Serie A,1994/1995,8,Sampdoria,34,13,11,10,51:37,14,50
+Serie A,1994/1995,9,Cagliari Calcio,34,13,10,11,40:39,1,49
+Serie A,1994/1995,10,ACF Fiorentina,34,12,11,11,61:57,4,47
+Serie A,1994/1995,11,Torino FC,34,12,9,13,44:48,-4,45
+Serie A,1994/1995,12,AS Bari,34,12,8,14,40:43,-3,44
+Serie A,1994/1995,13,US Cremonese,34,11,8,15,35:38,-3,41
+Serie A,1994/1995,14,Genoa CFC,34,10,10,14,34:49,-15,40
+Serie A,1994/1995,15,Calcio Padova,34,12,4,18,37:58,-21,40
+Serie A,1994/1995,16,US Foggia,34,8,10,16,32:50,-18,34
+Serie A,1994/1995,17,AC Reggiana,34,4,6,24,24:56,-32,18
+Serie A,1994/1995,18,Brescia Calcio,34,2,6,26,18:65,-47,12
+Bundesliga,2012/2013,1,Bayern München,34,29,4,1,98:18,80,91
+Bundesliga,2012/2013,2,Borussia Dortmund,34,19,9,6,81:42,39,66
+Bundesliga,2012/2013,3,Bayer Leverkusen,34,19,8,7,65:39,26,65
+Bundesliga,2012/2013,4,FC Schalke 04,34,16,7,11,58:50,8,55
+Bundesliga,2012/2013,5,SC Freiburg,34,14,9,11,45:40,5,51
+Bundesliga,2012/2013,6,Eintracht Frankfurt,34,14,9,11,49:46,3,51
+Bundesliga,2012/2013,7,Hamburger SV,34,14,6,14,42:53,-11,48
+Bundesliga,2012/2013,8,Bor. Mönchengladbach,34,12,11,11,45:49,-4,47
+Bundesliga,2012/2013,9,Hannover 96,34,13,6,15,60:62,-2,45
+Bundesliga,2012/2013,10,1. FC Nürnberg,34,11,11,12,39:47,-8,44
+Bundesliga,2012/2013,11,VfL Wolfsburg,34,10,13,11,47:52,-5,43
+Bundesliga,2012/2013,12,VfB Stuttgart,34,12,7,15,37:55,-18,43
+Bundesliga,2012/2013,13,1. FSV Mainz 05,34,10,12,12,42:44,-2,42
+Bundesliga,2012/2013,14,Werder Bremen,34,8,10,16,50:66,-16,34
+Bundesliga,2012/2013,15,FC Augsburg,34,8,9,17,33:51,-18,33
+Bundesliga,2012/2013,16,1899 Hoffenheim,34,8,7,19,42:67,-25,31
+Bundesliga,2012/2013,17,Fortuna Düsseldorf,34,7,9,18,39:57,-18,30
+Bundesliga,2012/2013,18,SpVgg Greuther Fürth,34,4,9,21,26:60,-34,21
+Ligue 1,1995/1996,1,AJ Auxerre,38,22,6,10,66:30,36,72
+Ligue 1,1995/1996,2,Paris Saint-Germain,38,19,11,8,65:36,29,68
+Ligue 1,1995/1996,3,AS Monaco,38,19,11,8,64:39,25,68
+Ligue 1,1995/1996,4,FC Metz,38,18,11,9,42:30,12,65
+Ligue 1,1995/1996,5,RC Lens,38,16,15,7,45:31,14,63
+Ligue 1,1995/1996,6,Montpellier HSC,38,17,9,12,51:40,11,60
+Ligue 1,1995/1996,7,FC Nantes,38,14,13,11,44:42,2,55
+Ligue 1,1995/1996,8,Stade Rennes,38,13,15,10,44:41,3,54
+Ligue 1,1995/1996,9,RC Strasbourg,38,14,12,12,46:44,2,54
+Ligue 1,1995/1996,10,EA Guingamp,38,13,14,11,34:33,1,53
+Ligue 1,1995/1996,11,Olympique Lyon,38,10,18,10,41:41,0,48
+Ligue 1,1995/1996,12,OGC Nice,38,12,9,17,37:44,-7,45
+Ligue 1,1995/1996,13,Le Havre AC,38,11,12,15,33:45,-12,45
+Ligue 1,1995/1996,14,AS Cannes,38,12,8,18,45:51,-6,44
+Ligue 1,1995/1996,15,SC Bastia,38,12,8,18,45:55,-10,44
+Ligue 1,1995/1996,16,Girondins Bordeaux,38,11,9,18,44:52,-8,42
+Ligue 1,1995/1996,17,Lille OSC,38,9,12,17,27:50,-23,39
+Ligue 1,1995/1996,18,FC Gueugnon,38,8,14,16,27:46,-19,38
+Ligue 1,1995/1996,19,AS Saint-Étienne,38,6,16,16,36:59,-23,34
+Ligue 1,1995/1996,20,FC Martigues,38,9,7,22,31:58,-27,34
+Bundesliga,2020/2021,1,Bayern München,34,24,6,4,99:44,55,78
+Bundesliga,2020/2021,2,RB Leipzig,34,19,8,7,60:32,28,65
+Bundesliga,2020/2021,3,Borussia Dortmund,34,20,4,10,75:46,29,64
+Bundesliga,2020/2021,4,VfL Wolfsburg,34,17,10,7,61:37,24,61
+Bundesliga,2020/2021,5,Eintracht Frankfurt,34,16,12,6,69:53,16,60
+Bundesliga,2020/2021,6,Bayer Leverkusen,34,14,10,10,53:39,14,52
+Bundesliga,2020/2021,7,1. FC Union Berlin,34,12,14,8,50:43,7,50
+Bundesliga,2020/2021,8,Bor. Mönchengladbach,34,13,10,11,64:56,8,49
+Bundesliga,2020/2021,9,VfB Stuttgart,34,12,9,13,56:55,1,45
+Bundesliga,2020/2021,10,SC Freiburg,34,12,9,13,52:52,0,45
+Bundesliga,2020/2021,11,1899 Hoffenheim,34,11,10,13,52:54,-2,43
+Bundesliga,2020/2021,12,1. FSV Mainz 05,34,10,9,15,39:56,-17,39
+Bundesliga,2020/2021,13,FC Augsburg,34,10,6,18,36:54,-18,36
+Bundesliga,2020/2021,14,Hertha BSC,34,8,11,15,41:52,-11,35
+Bundesliga,2020/2021,15,Arminia Bielefeld,34,9,8,17,26:52,-26,35
+Bundesliga,2020/2021,16,1. FC Köln,34,8,9,17,34:60,-26,33
+Bundesliga,2020/2021,17,Werder Bremen,34,7,10,17,36:57,-21,31
+Bundesliga,2020/2021,18,FC Schalke 04,34,3,7,24,25:86,-61,16
+Ligue 1,2013/2014,1,Paris Saint-Germain,38,27,8,3,84:23,61,89
+Ligue 1,2013/2014,2,AS Monaco,38,23,11,4,63:31,32,80
+Ligue 1,2013/2014,3,Lille OSC,38,20,11,7,46:26,20,71
+Ligue 1,2013/2014,4,AS Saint-Étienne,38,20,9,9,56:34,22,69
+Ligue 1,2013/2014,5,Olympique Lyon,38,17,10,11,56:44,12,61
+Ligue 1,2013/2014,6,Olympique Marseille,38,16,12,10,53:40,13,60
+Ligue 1,2013/2014,7,Girondins Bordeaux,38,13,14,11,49:43,6,53
+Ligue 1,2013/2014,8,FC Lorient,38,13,10,15,48:53,-5,49
+Ligue 1,2013/2014,9,Toulouse FC,38,12,13,13,46:53,-7,49
+Ligue 1,2013/2014,10,SC Bastia,38,12,11,15,42:56,-14,49
+Ligue 1,2013/2014,11,Stade Reims,38,12,12,14,44:52,-8,48
+Ligue 1,2013/2014,12,Stade Rennes,38,11,13,14,47:45,2,46
+Ligue 1,2013/2014,13,FC Nantes,38,12,11,15,36:43,-7,46
+Ligue 1,2013/2014,14,Évian Thonon Gaillard,38,11,11,16,39:51,-12,44
+Ligue 1,2013/2014,15,Montpellier HSC,38,8,18,12,45:53,-8,42
+Ligue 1,2013/2014,16,EA Guingamp,38,11,9,18,34:42,-8,42
+Ligue 1,2013/2014,17,OGC Nice,38,12,6,20,30:44,-14,42
+Ligue 1,2013/2014,18,FC Sochaux,38,10,10,18,37:61,-24,40
+Ligue 1,2013/2014,19,Valenciennes FC,38,7,8,23,37:65,-28,29
+Ligue 1,2013/2014,20,AC Ajaccio,38,4,11,23,37:72,-35,23
+Primera División,1993/1994,1,FC Barcelona,38,25,6,7,91:42,49,56:20
+Primera División,1993/1994,2,Deportivo La Coruña,38,22,12,4,54:18,36,56:20
+Primera División,1993/1994,3,Real Zaragoza,38,19,8,11,71:47,24,46:30
+Primera División,1993/1994,4,Real Madrid,38,19,7,12,61:50,11,45:31
+Primera División,1993/1994,5,Athletic Bilbao,38,16,11,11,61:47,14,43:33
+Primera División,1993/1994,6,Sevilla FC,38,15,12,11,56:42,14,42:34
+Primera División,1993/1994,7,Valencia CF,38,14,12,12,55:50,5,40:36
+Primera División,1993/1994,8,Racing Santander,38,15,8,15,44:42,2,38:38
+Primera División,1993/1994,9,Real Oviedo,38,12,13,13,43:49,-6,37:39
+Primera División,1993/1994,10,CD Tenerife,38,15,6,17,50:57,-7,36:40
+Primera División,1993/1994,11,Real Sociedad,38,12,12,14,39:47,-8,36:40
+Primera División,1993/1994,12,Atlético Madrid,38,13,9,16,54:54,0,35:41
+Primera División,1993/1994,13,Albacete,38,10,15,13,49:58,-9,35:41
+Primera División,1993/1994,14,Sporting Gijón,38,15,5,18,42:57,-15,35:41
+Primera División,1993/1994,15,Celta Vigo,38,11,11,16,41:51,-10,33:43
+Primera División,1993/1994,16,CD Logroñés,38,9,15,14,47:58,-11,33:43
+Primera División,1993/1994,17,Rayo Vallecano,38,9,13,16,40:58,-18,31:45
+Primera División,1993/1994,18,Real Valladolid,38,8,14,16,28:51,-23,30:46
+Primera División,1993/1994,19,UE Lleida,38,7,13,18,29:48,-19,27:49
+Primera División,1993/1994,20,CA Osasuna,38,8,10,20,34:63,-29,26:50
+Ligue 1,2015/2016,1,Paris Saint-Germain,38,30,6,2,102:19,83,96
+Ligue 1,2015/2016,2,Olympique Lyon,38,19,8,11,67:43,24,65
+Ligue 1,2015/2016,3,AS Monaco,38,17,14,7,57:50,7,65
+Ligue 1,2015/2016,4,OGC Nice,38,18,9,11,58:41,17,63
+Ligue 1,2015/2016,5,Lille OSC,38,15,15,8,39:27,12,60
+Ligue 1,2015/2016,6,AS Saint-Étienne,38,17,7,14,42:37,5,58
+Ligue 1,2015/2016,7,SM Caen,38,16,6,16,39:52,-13,54
+Ligue 1,2015/2016,8,Stade Rennes,38,13,13,12,52:54,-2,52
+Ligue 1,2015/2016,9,Angers SCO,38,13,11,14,40:38,2,50
+Ligue 1,2015/2016,10,SC Bastia,38,14,8,16,36:42,-6,50
+Ligue 1,2015/2016,11,Girondins Bordeaux,38,12,14,12,50:57,-7,50
+Ligue 1,2015/2016,12,Montpellier HSC,38,14,7,17,49:47,2,49
+Ligue 1,2015/2016,13,Olympique Marseille,38,10,18,10,48:42,6,48
+Ligue 1,2015/2016,14,FC Nantes,38,12,12,14,33:44,-11,48
+Ligue 1,2015/2016,15,FC Lorient,38,11,13,14,47:58,-11,46
+Ligue 1,2015/2016,16,EA Guingamp,38,11,11,16,47:56,-9,44
+Ligue 1,2015/2016,17,Toulouse FC,38,9,13,16,45:55,-10,40
+Ligue 1,2015/2016,18,Stade Reims,38,10,9,19,44:57,-13,39
+Ligue 1,2015/2016,19,GFC Ajaccio,38,8,13,17,37:58,-21,37
+Ligue 1,2015/2016,20,ESTAC Troyes,38,3,9,26,28:83,-55,18
+Ligue 1,2014/2015,1,Paris Saint-Germain,38,24,11,3,83:36,47,83
+Ligue 1,2014/2015,2,Olympique Lyon,38,22,9,7,72:33,39,75
+Ligue 1,2014/2015,3,AS Monaco,38,20,11,7,51:26,25,71
+Ligue 1,2014/2015,4,Olympique Marseille,38,21,6,11,76:42,34,69
+Ligue 1,2014/2015,5,AS Saint-Étienne,38,19,12,7,51:30,21,69
+Ligue 1,2014/2015,6,Girondins Bordeaux,38,17,12,9,47:44,3,63
+Ligue 1,2014/2015,7,Montpellier HSC,38,16,8,14,46:39,7,56
+Ligue 1,2014/2015,8,Lille OSC,38,16,8,14,43:42,1,56
+Ligue 1,2014/2015,9,Stade Rennes,38,13,11,14,35:42,-7,50
+Ligue 1,2014/2015,10,EA Guingamp,38,15,4,19,41:55,-14,49
+Ligue 1,2014/2015,11,OGC Nice,38,13,9,16,44:53,-9,48
+Ligue 1,2014/2015,12,SC Bastia,38,12,11,15,37:46,-9,47
+Ligue 1,2014/2015,13,SM Caen,38,12,10,16,54:55,-1,46
+Ligue 1,2014/2015,14,FC Nantes,38,11,12,15,29:40,-11,45
+Ligue 1,2014/2015,15,Stade Reims,38,12,8,18,47:66,-19,44
+Ligue 1,2014/2015,16,FC Lorient,38,12,7,19,44:50,-6,43
+Ligue 1,2014/2015,17,Toulouse FC,38,12,6,20,43:64,-21,42
+Ligue 1,2014/2015,18,Évian Thonon Gaillard,38,11,4,23,41:62,-21,37
+Ligue 1,2014/2015,19,FC Metz,38,7,9,22,31:61,-30,30
+Ligue 1,2014/2015,20,RC Lens,38,7,8,23,32:61,-29,29
+Serie A,2008/2009,1,Inter,38,25,9,4,70:32,38,84
+Serie A,2008/2009,2,Juventus,38,21,11,6,69:37,32,74
+Serie A,2008/2009,3,AC Milan,38,22,8,8,70:35,35,74
+Serie A,2008/2009,4,ACF Fiorentina,38,21,5,12,53:38,15,68
+Serie A,2008/2009,5,Genoa CFC,38,19,11,8,56:39,17,68
+Serie A,2008/2009,6,AS Roma,38,18,9,11,64:61,3,63
+Serie A,2008/2009,7,Udinese Calcio,38,16,10,12,61:50,11,58
+Serie A,2008/2009,8,US Palermo,38,17,6,15,57:50,7,57
+Serie A,2008/2009,9,Cagliari Calcio,38,15,8,15,49:50,-1,53
+Serie A,2008/2009,10,Lazio Roma,38,15,5,18,46:55,-9,50
+Serie A,2008/2009,11,Atalanta,38,13,8,17,45:48,-3,47
+Serie A,2008/2009,12,SSC Napoli,38,12,10,16,43:45,-2,46
+Serie A,2008/2009,13,Sampdoria,38,11,13,14,49:52,-3,46
+Serie A,2008/2009,14,AC Siena,38,12,8,18,33:44,-11,44
+Serie A,2008/2009,15,Calcio Catania,38,12,7,19,41:51,-10,43
+Serie A,2008/2009,16,Chievo Verona,38,8,14,16,35:49,-14,38
+Serie A,2008/2009,17,Bologna FC,38,9,10,19,43:62,-19,37
+Serie A,2008/2009,18,Torino FC,38,8,10,20,37:61,-24,34
+Serie A,2008/2009,19,Reggina Calcio,38,6,13,19,30:62,-32,31
+Serie A,2008/2009,20,US Lecce,38,5,15,18,37:67,-30,30
+Ligue 1,1992/1993,1,Olympique Marseille,38,22,10,6,71:36,35,53:23
+Ligue 1,1992/1993,2,Paris Saint-Germain,38,20,11,7,61:29,32,51:25
+Ligue 1,1992/1993,3,AS Monaco,38,21,9,8,56:29,27,51:25
+Ligue 1,1992/1993,4,Girondins Bordeaux,38,18,12,8,42:25,17,48:28
+Ligue 1,1992/1993,5,FC Nantes,38,17,11,10,54:39,15,45:31
+Ligue 1,1992/1993,6,AJ Auxerre,38,18,7,13,57:44,13,43:33
+Ligue 1,1992/1993,7,AS Saint-Étienne,38,13,17,8,34:26,8,43:33
+Ligue 1,1992/1993,8,RC Strasbourg,38,12,16,10,58:57,1,40:36
+Ligue 1,1992/1993,9,RC Lens,38,12,16,10,36:41,-5,40:36
+Ligue 1,1992/1993,10,Montpellier HSC,38,12,12,14,36:41,-5,36:40
+Ligue 1,1992/1993,11,SM Caen,38,13,9,16,55:54,1,35:41
+Ligue 1,1992/1993,12,FC Metz,38,11,13,14,44:45,-1,35:41
+Ligue 1,1992/1993,13,Toulouse FC,38,9,16,13,36:45,-9,34:42
+Ligue 1,1992/1993,14,Olympique Lyon,38,9,15,14,40:45,-5,33:43
+Ligue 1,1992/1993,15,Le Havre AC,38,11,11,16,42:53,-11,33:43
+Ligue 1,1992/1993,16,FC Sochaux,38,11,10,17,33:50,-17,32:44
+Ligue 1,1992/1993,17,Lille OSC,38,7,16,15,26:48,-22,30:46
+Ligue 1,1992/1993,18,US Valenciennes-Anzin,38,9,12,17,42:56,-14,29:47
+Ligue 1,1992/1993,19,SC Toulon,38,6,13,19,31:57,-26,25:51
+Ligue 1,1992/1993,20,Nîmes Olympique,38,3,16,19,32:66,-34,22:54
+Serie A,2020/2021,1,Inter,38,28,7,3,89:35,54,91
+Serie A,2020/2021,2,AC Milan,38,24,7,7,74:41,33,79
+Serie A,2020/2021,3,Atalanta,38,23,9,6,90:47,43,78
+Serie A,2020/2021,4,Juventus,38,23,9,6,77:38,39,78
+Serie A,2020/2021,5,SSC Napoli,38,24,5,9,86:41,45,77
+Serie A,2020/2021,6,Lazio Roma,38,21,5,12,61:55,6,68
+Serie A,2020/2021,7,AS Roma,38,18,8,12,68:58,10,62
+Serie A,2020/2021,8,Sassuolo Calcio,38,17,11,10,64:56,8,62
+Serie A,2020/2021,9,Sampdoria,38,15,7,16,52:54,-2,52
+Serie A,2020/2021,10,Hellas Verona,38,11,12,15,46:48,-2,45
+Serie A,2020/2021,11,Genoa CFC,38,10,12,16,47:58,-11,42
+Serie A,2020/2021,12,Bologna FC,38,10,11,17,51:65,-14,41
+Serie A,2020/2021,13,ACF Fiorentina,38,9,13,16,47:59,-12,40
+Serie A,2020/2021,14,Udinese Calcio,38,10,10,18,42:58,-16,40
+Serie A,2020/2021,15,Spezia Calcio,38,9,12,17,52:72,-20,39
+Serie A,2020/2021,16,Cagliari Calcio,38,9,10,19,43:59,-16,37
+Serie A,2020/2021,17,Torino FC,38,7,16,15,50:69,-19,37
+Serie A,2020/2021,18,Benevento Calcio,38,7,12,19,40:75,-35,33
+Serie A,2020/2021,19,FC Crotone,38,6,5,27,45:92,-47,23
+Serie A,2020/2021,20,Parma Calcio 1913,38,3,11,24,39:83,-44,20
+Primera División,1998/1999,1,FC Barcelona,38,24,7,7,87:43,44,79
+Primera División,1998/1999,2,Real Madrid,38,21,5,12,77:62,15,68
+Primera División,1998/1999,3,RCD Mallorca,38,20,6,12,48:31,17,66
+Primera División,1998/1999,4,Valencia CF,38,19,8,11,63:39,24,65
+Primera División,1998/1999,5,Celta Vigo,38,17,13,8,69:41,28,64
+Primera División,1998/1999,6,Deportivo La Coruña,38,17,12,9,55:43,12,63
+Primera División,1998/1999,7,Espanyol Barcelona,38,16,13,9,49:38,11,61
+Primera División,1998/1999,8,Athletic Bilbao,38,17,9,12,53:47,6,60
+Primera División,1998/1999,9,Real Zaragoza,38,16,9,13,57:46,11,57
+Primera División,1998/1999,10,Real Sociedad,38,14,12,12,47:43,4,54
+Primera División,1998/1999,11,Real Betis,38,14,7,17,47:58,-11,49
+Primera División,1998/1999,12,Real Valladolid,38,13,9,16,35:44,-9,48
+Primera División,1998/1999,13,Atlético Madrid,38,12,10,16,54:50,4,46
+Primera División,1998/1999,14,Real Oviedo,38,11,12,15,41:57,-16,45
+Primera División,1998/1999,15,Racing Santander,38,10,12,16,41:53,-12,42
+Primera División,1998/1999,16,CD Alavés,38,11,7,20,36:63,-27,40
+Primera División,1998/1999,17,CF Extremadura,38,9,12,17,27:53,-26,39
+Primera División,1998/1999,18,Villarreal CF,38,8,12,18,47:63,-16,36
+Primera División,1998/1999,19,CD Tenerife,38,7,13,18,41:63,-22,34
+Primera División,1998/1999,20,UD Salamanca,38,7,6,25,29:66,-37,27
+Bundesliga,2008/2009,1,VfL Wolfsburg,34,21,6,7,80:41,39,69
+Bundesliga,2008/2009,2,Bayern München,34,20,7,7,71:42,29,67
+Bundesliga,2008/2009,3,VfB Stuttgart,34,19,7,8,63:43,20,64
+Bundesliga,2008/2009,4,Hertha BSC,34,19,6,9,48:41,7,63
+Bundesliga,2008/2009,5,Hamburger SV,34,19,4,11,49:47,2,61
+Bundesliga,2008/2009,6,Borussia Dortmund,34,15,14,5,60:37,23,59
+Bundesliga,2008/2009,7,1899 Hoffenheim,34,15,10,9,63:49,14,55
+Bundesliga,2008/2009,8,FC Schalke 04,34,14,8,12,47:35,12,50
+Bundesliga,2008/2009,9,Bayer Leverkusen,34,14,7,13,59:46,13,49
+Bundesliga,2008/2009,10,Werder Bremen,34,12,9,13,64:50,14,45
+Bundesliga,2008/2009,11,Hannover 96,34,10,10,14,49:69,-20,40
+Bundesliga,2008/2009,12,1. FC Köln,34,11,6,17,35:50,-15,39
+Bundesliga,2008/2009,13,Eintracht Frankfurt,34,8,9,17,39:60,-21,33
+Bundesliga,2008/2009,14,VfL Bochum,34,7,11,16,39:55,-16,32
+Bundesliga,2008/2009,15,Bor. Mönchengladbach,34,8,7,19,39:62,-23,31
+Bundesliga,2008/2009,16,Energie Cottbus,34,8,6,20,30:57,-27,30
+Bundesliga,2008/2009,17,Karlsruher SC,34,8,5,21,30:54,-24,29
+Bundesliga,2008/2009,18,Arminia Bielefeld,34,4,16,14,29:56,-27,28
+Bundesliga,2013/2014,1,Bayern München,34,29,3,2,94:23,71,90
+Bundesliga,2013/2014,2,Borussia Dortmund,34,22,5,7,80:38,42,71
+Bundesliga,2013/2014,3,FC Schalke 04,34,19,7,8,63:43,20,64
+Bundesliga,2013/2014,4,Bayer Leverkusen,34,19,4,11,60:41,19,61
+Bundesliga,2013/2014,5,VfL Wolfsburg,34,18,6,10,63:50,13,60
+Bundesliga,2013/2014,6,Bor. Mönchengladbach,34,16,7,11,59:43,16,55
+Bundesliga,2013/2014,7,1. FSV Mainz 05,34,16,5,13,52:54,-2,53
+Bundesliga,2013/2014,8,FC Augsburg,34,15,7,12,47:47,0,52
+Bundesliga,2013/2014,9,1899 Hoffenheim,34,11,11,12,72:70,2,44
+Bundesliga,2013/2014,10,Hannover 96,34,12,6,16,46:59,-13,42
+Bundesliga,2013/2014,11,Hertha BSC,34,11,8,15,40:48,-8,41
+Bundesliga,2013/2014,12,Werder Bremen,34,10,9,15,42:66,-24,39
+Bundesliga,2013/2014,13,Eintracht Frankfurt,34,9,9,16,40:57,-17,36
+Bundesliga,2013/2014,14,SC Freiburg,34,9,9,16,43:61,-18,36
+Bundesliga,2013/2014,15,VfB Stuttgart,34,8,8,18,49:62,-13,32
+Bundesliga,2013/2014,16,Hamburger SV,34,7,6,21,51:75,-24,27
+Bundesliga,2013/2014,17,1. FC Nürnberg,34,5,11,18,37:70,-33,26
+Bundesliga,2013/2014,18,Eintracht Braunschweig,34,6,7,21,29:60,-31,25
+Bundesliga,2018/2019,1,Bayern München,34,24,6,4,88:32,56,78
+Bundesliga,2018/2019,2,Borussia Dortmund,34,23,7,4,81:44,37,76
+Bundesliga,2018/2019,3,RB Leipzig,34,19,9,6,63:29,34,66
+Bundesliga,2018/2019,4,Bayer Leverkusen,34,18,4,12,69:52,17,58
+Bundesliga,2018/2019,5,Bor. Mönchengladbach,34,16,7,11,55:42,13,55
+Bundesliga,2018/2019,6,VfL Wolfsburg,34,16,7,11,62:50,12,55
+Bundesliga,2018/2019,7,Eintracht Frankfurt,34,15,9,10,60:48,12,54
+Bundesliga,2018/2019,8,Werder Bremen,34,14,11,9,58:49,9,53
+Bundesliga,2018/2019,9,1899 Hoffenheim,34,13,12,9,70:52,18,51
+Bundesliga,2018/2019,10,Fortuna Düsseldorf,34,13,5,16,49:65,-16,44
+Bundesliga,2018/2019,11,Hertha BSC,34,11,10,13,49:57,-8,43
+Bundesliga,2018/2019,12,1. FSV Mainz 05,34,12,7,15,46:57,-11,43
+Bundesliga,2018/2019,13,SC Freiburg,34,8,12,14,46:61,-15,36
+Bundesliga,2018/2019,14,FC Schalke 04,34,8,9,17,37:55,-18,33
+Bundesliga,2018/2019,15,FC Augsburg,34,8,8,18,51:71,-20,32
+Bundesliga,2018/2019,16,VfB Stuttgart,34,7,7,20,32:70,-38,28
+Bundesliga,2018/2019,17,Hannover 96,34,5,6,23,31:71,-40,21
+Bundesliga,2018/2019,18,1. FC Nürnberg,34,3,10,21,26:68,-42,19
+Serie A,1993/1994,1,AC Milan,34,19,12,3,36:15,21,50:18
+Serie A,1993/1994,2,Juventus,34,17,13,4,58:25,33,47:21
+Serie A,1993/1994,3,Sampdoria,34,18,8,8,64:39,25,44:24
+Serie A,1993/1994,4,Lazio Roma,34,17,10,7,55:40,15,44:24
+Serie A,1993/1994,5,Parma AC,34,17,7,10,50:35,15,41:27
+Serie A,1993/1994,6,SSC Napoli,34,12,12,10,41:35,6,36:32
+Serie A,1993/1994,7,AS Roma,34,10,15,9,35:30,5,35:33
+Serie A,1993/1994,8,Torino FC,34,11,12,11,39:37,2,34:34
+Serie A,1993/1994,9,US Foggia,34,10,13,11,46:46,0,33:35
+Serie A,1993/1994,10,US Cremonese,34,9,14,11,41:41,0,32:36
+Serie A,1993/1994,11,Genoa CFC,34,8,16,10,32:40,-8,32:36
+Serie A,1993/1994,12,Cagliari Calcio,34,10,12,12,39:48,-9,32:36
+Serie A,1993/1994,13,Inter,34,11,9,14,46:45,1,31:37
+Serie A,1993/1994,14,AC Reggiana,34,10,11,13,29:37,-8,31:37
+Serie A,1993/1994,15,Piacenza Calcio,34,8,14,12,32:43,-11,30:38
+Serie A,1993/1994,16,Udinese Calcio,34,7,14,13,35:48,-13,28:40
+Serie A,1993/1994,17,Atalanta,34,5,11,18,35:65,-30,21:47
+Serie A,1993/1994,18,US Lecce,34,3,5,26,28:72,-44,11:57
+Premier League,1992/1993,1,Manchester United,42,24,12,6,67:31,36,84
+Premier League,1992/1993,2,Aston Villa,42,21,11,10,57:40,17,74
+Premier League,1992/1993,3,Norwich City,42,21,9,12,61:65,-4,72
+Premier League,1992/1993,4,Blackburn Rovers,42,20,11,11,68:46,22,71
+Premier League,1992/1993,5,Queens Park Rangers,42,17,12,13,63:55,8,63
+Premier League,1992/1993,6,Liverpool FC,42,16,11,15,62:55,7,59
+Premier League,1992/1993,7,Sheffield Wednesday,42,15,14,13,55:51,4,59
+Premier League,1992/1993,8,Tottenham Hotspur,42,16,11,15,60:66,-6,59
+Premier League,1992/1993,9,Manchester City,42,15,12,15,56:51,5,57
+Premier League,1992/1993,10,Arsenal FC,42,15,11,16,40:38,2,56
+Premier League,1992/1993,11,Chelsea FC,42,14,14,14,51:54,-3,56
+Premier League,1992/1993,12,Wimbledon FC,42,14,12,16,56:55,1,54
+Premier League,1992/1993,13,Everton FC,42,15,8,19,53:55,-2,53
+Premier League,1992/1993,14,Sheffield United,42,14,10,18,54:53,1,52
+Premier League,1992/1993,15,Coventry City,42,13,13,16,52:57,-5,52
+Premier League,1992/1993,16,Ipswich Town,42,12,16,14,50:55,-5,52
+Premier League,1992/1993,17,Leeds United,42,12,15,15,57:62,-5,51
+Premier League,1992/1993,18,Southampton FC,42,13,11,18,54:61,-7,50
+Premier League,1992/1993,19,Oldham Athletic,42,13,10,19,63:74,-11,49
+Premier League,1992/1993,20,Crystal Palace,42,11,16,15,48:61,-13,49
+Premier League,1992/1993,21,Middlesbrough FC,42,11,11,20,54:75,-21,44
+Premier League,1992/1993,22,Nottingham Forest,42,10,10,22,41:62,-21,40
+Premier League,1994/1995,1,Blackburn Rovers,42,27,8,7,80:39,41,89
+Premier League,1994/1995,2,Manchester United,42,26,10,6,77:28,49,88
+Premier League,1994/1995,3,Nottingham Forest,42,22,11,9,72:43,29,77
+Premier League,1994/1995,4,Liverpool FC,42,21,11,10,65:37,28,74
+Premier League,1994/1995,5,Leeds United,42,20,13,9,59:38,21,73
+Premier League,1994/1995,6,Newcastle United,42,20,12,10,67:47,20,72
+Premier League,1994/1995,7,Tottenham Hotspur,42,16,14,12,66:58,8,62
+Premier League,1994/1995,8,Queens Park Rangers,42,17,9,16,61:59,2,60
+Premier League,1994/1995,9,Wimbledon FC,42,15,11,16,48:65,-17,56
+Premier League,1994/1995,10,Southampton FC,42,12,18,12,61:63,-2,54
+Premier League,1994/1995,11,Chelsea FC,42,13,15,14,50:55,-5,54
+Premier League,1994/1995,12,Arsenal FC,42,13,12,17,52:49,3,51
+Premier League,1994/1995,13,Sheffield Wednesday,42,13,12,17,49:57,-8,51
+Premier League,1994/1995,14,West Ham United,42,13,11,18,44:48,-4,50
+Premier League,1994/1995,15,Everton FC,42,11,17,14,44:51,-7,50
+Premier League,1994/1995,16,Coventry City,42,12,14,16,44:62,-18,50
+Premier League,1994/1995,17,Manchester City,42,12,13,17,53:64,-11,49
+Premier League,1994/1995,18,Aston Villa,42,11,15,16,51:56,-5,48
+Premier League,1994/1995,19,Crystal Palace,42,11,12,19,34:49,-15,45
+Premier League,1994/1995,20,Norwich City,42,10,13,19,37:54,-17,43
+Premier League,1994/1995,21,Leicester City,42,6,11,25,45:80,-35,29
+Premier League,1994/1995,22,Ipswich Town,42,7,6,29,36:93,-57,27
+Premier League,2004/2005,1,Chelsea FC,38,29,8,1,72:15,57,95
+Premier League,2004/2005,2,Arsenal FC,38,25,8,5,87:36,51,83
+Premier League,2004/2005,3,Manchester United,38,22,11,5,58:26,32,77
+Premier League,2004/2005,4,Everton FC,38,18,7,13,45:46,-1,61
+Premier League,2004/2005,5,Liverpool FC,38,17,7,14,52:41,11,58
+Premier League,2004/2005,6,Bolton Wanderers,38,16,10,12,49:44,5,58
+Premier League,2004/2005,7,Middlesbrough FC,38,14,13,11,53:46,7,55
+Premier League,2004/2005,8,Manchester City,38,13,13,12,47:39,8,52
+Premier League,2004/2005,9,Tottenham Hotspur,38,14,10,14,47:41,6,52
+Premier League,2004/2005,10,Aston Villa,38,12,11,15,45:52,-7,47
+Premier League,2004/2005,11,Charlton Athletic,38,12,10,16,42:58,-16,46
+Premier League,2004/2005,12,Birmingham City,38,11,12,15,40:46,-6,45
+Premier League,2004/2005,13,Fulham FC,38,12,8,18,52:60,-8,44
+Premier League,2004/2005,14,Newcastle United,38,10,14,14,47:57,-10,44
+Premier League,2004/2005,15,Blackburn Rovers,38,9,15,14,32:43,-11,42
+Premier League,2004/2005,16,Portsmouth FC,38,10,9,19,43:59,-16,39
+Premier League,2004/2005,17,West Bromwich Albion,38,6,16,16,36:61,-25,34
+Premier League,2004/2005,18,Crystal Palace,38,7,12,19,41:62,-21,33
+Premier League,2004/2005,19,Norwich City,38,7,12,19,42:77,-35,33
+Premier League,2004/2005,20,Southampton FC,38,6,14,18,45:66,-21,32
+Premier League,2001/2002,1,Arsenal FC,38,26,9,3,79:36,43,87
+Premier League,2001/2002,2,Liverpool FC,38,24,8,6,67:30,37,80
+Premier League,2001/2002,3,Manchester United,38,24,5,9,87:45,42,77
+Premier League,2001/2002,4,Newcastle United,38,21,8,9,74:52,22,71
+Premier League,2001/2002,5,Leeds United,38,18,12,8,53:37,16,66
+Premier League,2001/2002,6,Chelsea FC,38,17,13,8,66:38,28,64
+Premier League,2001/2002,7,West Ham United,38,15,8,15,48:57,-9,53
+Premier League,2001/2002,8,Aston Villa,38,12,14,12,46:47,-1,50
+Premier League,2001/2002,9,Tottenham Hotspur,38,14,8,16,49:53,-4,50
+Premier League,2001/2002,10,Blackburn Rovers,38,12,10,16,55:51,4,46
+Premier League,2001/2002,11,Southampton FC,38,12,9,17,46:54,-8,45
+Premier League,2001/2002,12,Middlesbrough FC,38,12,9,17,35:47,-12,45
+Premier League,2001/2002,13,Fulham FC,38,10,14,14,36:44,-8,44
+Premier League,2001/2002,14,Charlton Athletic,38,10,14,14,38:49,-11,44
+Premier League,2001/2002,15,Everton FC,38,11,10,17,45:57,-12,43
+Premier League,2001/2002,16,Bolton Wanderers,38,9,13,16,44:62,-18,40
+Premier League,2001/2002,17,Sunderland AFC,38,10,10,18,29:51,-22,40
+Premier League,2001/2002,18,Ipswich Town,38,9,9,20,41:64,-23,36
+Premier League,2001/2002,19,Derby County,38,8,6,24,33:63,-30,30
+Premier League,2001/2002,20,Leicester City,38,5,13,20,30:64,-34,28
+Premier League,2013/2014,1,Manchester City,38,27,5,6,102:37,65,86
+Premier League,2013/2014,2,Liverpool FC,38,26,6,6,101:50,51,84
+Premier League,2013/2014,3,Chelsea FC,38,25,7,6,71:27,44,82
+Premier League,2013/2014,4,Arsenal FC,38,24,7,7,68:41,27,79
+Premier League,2013/2014,5,Everton FC,38,21,9,8,61:39,22,72
+Premier League,2013/2014,6,Tottenham Hotspur,38,21,6,11,55:51,4,69
+Premier League,2013/2014,7,Manchester United,38,19,7,12,64:43,21,64
+Premier League,2013/2014,8,Southampton FC,38,15,11,12,54:46,8,56
+Premier League,2013/2014,9,Stoke City,38,13,11,14,45:52,-7,50
+Premier League,2013/2014,10,Newcastle United,38,15,4,19,43:59,-16,49
+Premier League,2013/2014,11,Crystal Palace,38,13,6,19,33:48,-15,45
+Premier League,2013/2014,12,Swansea City,38,11,9,18,54:54,0,42
+Premier League,2013/2014,13,West Ham United,38,11,7,20,40:51,-11,40
+Premier League,2013/2014,14,Sunderland AFC,38,10,8,20,41:60,-19,38
+Premier League,2013/2014,15,Aston Villa,38,10,8,20,39:61,-22,38
+Premier League,2013/2014,16,Hull City,38,10,7,21,38:53,-15,37
+Premier League,2013/2014,17,West Bromwich Albion,38,7,15,16,43:59,-16,36
+Premier League,2013/2014,18,Norwich City,38,8,9,21,28:62,-34,33
+Premier League,2013/2014,19,Fulham FC,38,9,5,24,40:85,-45,32
+Premier League,2013/2014,20,Cardiff City,38,7,9,22,32:74,-42,30
+Ligue 1,2019/2020,1,Paris Saint-Germain,27,22,2,3,75:24,51,68
+Ligue 1,2019/2020,2,Olympique Marseille,28,16,8,4,41:29,12,56
+Ligue 1,2019/2020,3,Stade Rennes,28,15,5,8,38:24,14,50
+Ligue 1,2019/2020,4,Lille OSC,28,15,4,9,35:27,8,49
+Ligue 1,2019/2020,5,OGC Nice,28,11,8,9,41:38,3,41
+Ligue 1,2019/2020,6,Stade Reims,28,10,11,7,26:21,5,41
+Ligue 1,2019/2020,7,Olympique Lyon,28,11,7,10,42:27,15,40
+Ligue 1,2019/2020,8,Montpellier HSC,28,11,7,10,35:34,1,40
+Ligue 1,2019/2020,9,AS Monaco,28,11,7,10,44:44,0,40
+Ligue 1,2019/2020,10,RC Strasbourg,27,11,5,11,32:32,0,38
+Ligue 1,2019/2020,11,Angers SCO,28,11,6,11,28:33,-5,39
+Ligue 1,2019/2020,12,Girondins Bordeaux,28,9,10,9,40:34,6,37
+Ligue 1,2019/2020,13,FC Nantes,28,11,4,13,28:31,-3,37
+Ligue 1,2019/2020,14,Stade Brest,28,8,10,10,34:37,-3,34
+Ligue 1,2019/2020,15,FC Metz,28,8,10,10,27:35,-8,34
+Ligue 1,2019/2020,16,Dijon FCO,28,7,9,12,27:37,-10,30
+Ligue 1,2019/2020,17,AS Saint-Étienne,28,8,6,14,29:45,-16,30
+Ligue 1,2019/2020,18,Nîmes Olympique,28,7,6,15,29:44,-15,27
+Ligue 1,2019/2020,19,Amiens SC,28,4,11,13,31:50,-19,23
+Ligue 1,2019/2020,20,Toulouse FC,28,3,4,21,22:58,-36,13
+Premier League,2016/2017,1,Chelsea FC,38,30,3,5,85:33,52,93
+Premier League,2016/2017,2,Tottenham Hotspur,38,26,8,4,86:26,60,86
+Premier League,2016/2017,3,Manchester City,38,23,9,6,80:39,41,78
+Premier League,2016/2017,4,Liverpool FC,38,22,10,6,78:42,36,76
+Premier League,2016/2017,5,Arsenal FC,38,23,6,9,77:44,33,75
+Premier League,2016/2017,6,Manchester United,38,18,15,5,54:29,25,69
+Premier League,2016/2017,7,Everton FC,38,17,10,11,62:44,18,61
+Premier League,2016/2017,8,Southampton FC,38,12,10,16,41:48,-7,46
+Premier League,2016/2017,9,AFC Bournemouth,38,12,10,16,55:67,-12,46
+Premier League,2016/2017,10,West Bromwich Albion,38,12,9,17,43:51,-8,45
+Premier League,2016/2017,11,West Ham United,38,12,9,17,47:64,-17,45
+Premier League,2016/2017,12,Leicester City,38,12,8,18,48:63,-15,44
+Premier League,2016/2017,13,Stoke City,38,11,11,16,41:56,-15,44
+Premier League,2016/2017,14,Crystal Palace,38,12,5,21,50:63,-13,41
+Premier League,2016/2017,15,Swansea City,38,12,5,21,45:70,-25,41
+Premier League,2016/2017,16,Burnley FC,38,11,7,20,39:55,-16,40
+Premier League,2016/2017,17,Watford FC,38,11,7,20,40:68,-28,40
+Premier League,2016/2017,18,Hull City,38,9,7,22,37:80,-43,34
+Premier League,2016/2017,19,Middlesbrough FC,38,5,13,20,27:53,-26,28
+Premier League,2016/2017,20,Sunderland AFC,38,6,6,26,29:69,-40,24
+Premier League,2012/2013,1,Manchester United,38,28,5,5,86:43,43,89
+Premier League,2012/2013,2,Manchester City,38,23,9,6,66:34,32,78
+Premier League,2012/2013,3,Chelsea FC,38,22,9,7,75:39,36,75
+Premier League,2012/2013,4,Arsenal FC,38,21,10,7,72:37,35,73
+Premier League,2012/2013,5,Tottenham Hotspur,38,21,9,8,66:46,20,72
+Premier League,2012/2013,6,Everton FC,38,16,15,7,55:40,15,63
+Premier League,2012/2013,7,Liverpool FC,38,16,13,9,71:43,28,61
+Premier League,2012/2013,8,West Bromwich Albion,38,14,7,17,53:57,-4,49
+Premier League,2012/2013,9,Swansea City,38,11,13,14,47:51,-4,46
+Premier League,2012/2013,10,West Ham United,38,12,10,16,45:53,-8,46
+Premier League,2012/2013,11,Norwich City,38,10,14,14,41:58,-17,44
+Premier League,2012/2013,12,Fulham FC,38,11,10,17,50:60,-10,43
+Premier League,2012/2013,13,Stoke City,38,9,15,14,34:45,-11,42
+Premier League,2012/2013,14,Southampton FC,38,9,14,15,49:60,-11,41
+Premier League,2012/2013,15,Aston Villa,38,10,11,17,47:69,-22,41
+Premier League,2012/2013,16,Newcastle United,38,11,8,19,45:68,-23,41
+Premier League,2012/2013,17,Sunderland AFC,38,9,12,17,41:54,-13,39
+Premier League,2012/2013,18,Wigan Athletic,38,9,9,20,47:73,-26,36
+Premier League,2012/2013,19,Reading FC,38,6,10,22,43:73,-30,28
+Premier League,2012/2013,20,Queens Park Rangers,38,4,13,21,30:60,-30,25
+Premier League,2003/2004,1,Arsenal FC,38,26,12,0,73:26,47,90
+Premier League,2003/2004,2,Chelsea FC,38,24,7,7,67:30,37,79
+Premier League,2003/2004,3,Manchester United,38,23,6,9,64:35,29,75
+Premier League,2003/2004,4,Liverpool FC,38,16,12,10,55:37,18,60
+Premier League,2003/2004,5,Newcastle United,38,13,17,8,52:40,12,56
+Premier League,2003/2004,6,Aston Villa,38,15,11,12,48:44,4,56
+Premier League,2003/2004,7,Charlton Athletic,38,14,11,13,51:51,0,53
+Premier League,2003/2004,8,Bolton Wanderers,38,14,11,13,48:56,-8,53
+Premier League,2003/2004,9,Fulham FC,38,14,10,14,52:46,6,52
+Premier League,2003/2004,10,Birmingham City,38,12,14,12,43:48,-5,50
+Premier League,2003/2004,11,Middlesbrough FC,38,13,9,16,44:52,-8,48
+Premier League,2003/2004,12,Southampton FC,38,12,11,15,44:45,-1,47
+Premier League,2003/2004,13,Portsmouth FC,38,12,9,17,47:54,-7,45
+Premier League,2003/2004,14,Tottenham Hotspur,38,13,6,19,47:57,-10,45
+Premier League,2003/2004,15,Blackburn Rovers,38,12,8,18,51:59,-8,44
+Premier League,2003/2004,16,Manchester City,38,9,14,15,55:54,1,41
+Premier League,2003/2004,17,Everton FC,38,9,12,17,45:57,-12,39
+Premier League,2003/2004,18,Leicester City,38,6,15,17,48:65,-17,33
+Premier League,2003/2004,19,Leeds United,38,8,9,21,40:79,-39,33
+Premier League,2003/2004,20,Wolverhampton Wanderers,38,7,12,19,38:77,-39,33
+Premier League,2015/2016,1,Leicester City,38,23,12,3,68:36,32,81
+Premier League,2015/2016,2,Arsenal FC,38,20,11,7,65:36,29,71
+Premier League,2015/2016,3,Tottenham Hotspur,38,19,13,6,69:35,34,70
+Premier League,2015/2016,4,Manchester City,38,19,9,10,71:41,30,66
+Premier League,2015/2016,5,Manchester United,38,19,9,10,49:35,14,66
+Premier League,2015/2016,6,Southampton FC,38,18,9,11,59:41,18,63
+Premier League,2015/2016,7,West Ham United,38,16,14,8,65:51,14,62
+Premier League,2015/2016,8,Liverpool FC,38,16,12,10,63:50,13,60
+Premier League,2015/2016,9,Stoke City,38,14,9,15,41:55,-14,51
+Premier League,2015/2016,10,Chelsea FC,38,12,14,12,59:53,6,50
+Premier League,2015/2016,11,Everton FC,38,11,14,13,59:55,4,47
+Premier League,2015/2016,12,Swansea City,38,12,11,15,42:52,-10,47
+Premier League,2015/2016,13,Watford FC,38,12,9,17,40:50,-10,45
+Premier League,2015/2016,14,West Bromwich Albion,38,10,13,15,34:48,-14,43
+Premier League,2015/2016,15,Crystal Palace,38,11,9,18,39:51,-12,42
+Premier League,2015/2016,16,AFC Bournemouth,38,11,9,18,45:67,-22,42
+Premier League,2015/2016,17,Sunderland AFC,38,9,12,17,48:62,-14,39
+Premier League,2015/2016,18,Newcastle United,38,9,10,19,44:65,-21,37
+Premier League,2015/2016,19,Norwich City,38,9,7,22,39:67,-28,34
+Premier League,2015/2016,20,Aston Villa,38,3,8,27,27:76,-49,17
+Premier League,2018/2019,1,Manchester City,38,32,2,4,95:23,72,98
+Premier League,2018/2019,2,Liverpool FC,38,30,7,1,89:22,67,97
+Premier League,2018/2019,3,Chelsea FC,38,21,9,8,63:39,24,72
+Premier League,2018/2019,4,Tottenham Hotspur,38,23,2,13,67:39,28,71
+Premier League,2018/2019,5,Arsenal FC,38,21,7,10,73:51,22,70
+Premier League,2018/2019,6,Manchester United,38,19,9,10,65:54,11,66
+Premier League,2018/2019,7,Wolverhampton Wanderers,38,16,9,13,47:46,1,57
+Premier League,2018/2019,8,Everton FC,38,15,9,14,54:46,8,54
+Premier League,2018/2019,9,Leicester City,38,15,7,16,51:48,3,52
+Premier League,2018/2019,10,West Ham United,38,15,7,16,52:55,-3,52
+Premier League,2018/2019,11,Watford FC,38,14,8,16,52:59,-7,50
+Premier League,2018/2019,12,Crystal Palace,38,14,7,17,51:53,-2,49
+Premier League,2018/2019,13,Newcastle United,38,12,9,17,42:48,-6,45
+Premier League,2018/2019,14,AFC Bournemouth,38,13,6,19,56:70,-14,45
+Premier League,2018/2019,15,Burnley FC,38,11,7,20,45:68,-23,40
+Premier League,2018/2019,16,Southampton FC,38,9,12,17,45:65,-20,39
+Premier League,2018/2019,17,Brighton & Hove Albion,38,9,9,20,35:60,-25,36
+Premier League,2018/2019,18,Cardiff City,38,10,4,24,34:69,-35,34
+Premier League,2018/2019,19,Fulham FC,38,7,5,26,34:81,-47,26
+Premier League,2018/2019,20,Huddersfield Town,38,3,7,28,22:76,-54,16
+Premier League,2017/2018,1,Manchester City,38,32,4,2,106:27,79,100
+Premier League,2017/2018,2,Manchester United,38,25,6,7,68:28,40,81
+Premier League,2017/2018,3,Tottenham Hotspur,38,23,8,7,74:36,38,77
+Premier League,2017/2018,4,Liverpool FC,38,21,12,5,84:38,46,75
+Premier League,2017/2018,5,Chelsea FC,38,21,7,10,62:38,24,70
+Premier League,2017/2018,6,Arsenal FC,38,19,6,13,74:51,23,63
+Premier League,2017/2018,7,Burnley FC,38,14,12,12,36:39,-3,54
+Premier League,2017/2018,8,Everton FC,38,13,10,15,44:58,-14,49
+Premier League,2017/2018,9,Leicester City,38,12,11,15,56:60,-4,47
+Premier League,2017/2018,10,Newcastle United,38,12,8,18,39:47,-8,44
+Premier League,2017/2018,11,Crystal Palace,38,11,11,16,45:55,-10,44
+Premier League,2017/2018,12,AFC Bournemouth,38,11,11,16,45:61,-16,44
+Premier League,2017/2018,13,West Ham United,38,10,12,16,48:68,-20,42
+Premier League,2017/2018,14,Watford FC,38,11,8,19,44:64,-20,41
+Premier League,2017/2018,15,Brighton & Hove Albion,38,9,13,16,34:54,-20,40
+Premier League,2017/2018,16,Huddersfield Town,38,9,10,19,28:58,-30,37
+Premier League,2017/2018,17,Southampton FC,38,7,15,16,37:56,-19,36
+Premier League,2017/2018,18,Swansea City,38,8,9,21,28:56,-28,33
+Premier League,2017/2018,19,Stoke City,38,7,12,19,35:68,-33,33
+Premier League,2017/2018,20,West Bromwich Albion,38,6,13,19,31:56,-25,31
+Premier League,2014/2015,1,Chelsea FC,38,26,9,3,73:32,41,87
+Premier League,2014/2015,2,Manchester City,38,24,7,7,83:38,45,79
+Premier League,2014/2015,3,Arsenal FC,38,22,9,7,71:36,35,75
+Premier League,2014/2015,4,Manchester United,38,20,10,8,62:37,25,70
+Premier League,2014/2015,5,Tottenham Hotspur,38,19,7,12,58:53,5,64
+Premier League,2014/2015,6,Liverpool FC,38,18,8,12,52:48,4,62
+Premier League,2014/2015,7,Southampton FC,38,18,6,14,54:33,21,60
+Premier League,2014/2015,8,Swansea City,38,16,8,14,46:49,-3,56
+Premier League,2014/2015,9,Stoke City,38,15,9,14,48:45,3,54
+Premier League,2014/2015,10,Crystal Palace,38,13,9,16,47:51,-4,48
+Premier League,2014/2015,11,Everton FC,38,12,11,15,48:50,-2,47
+Premier League,2014/2015,12,West Ham United,38,12,11,15,44:47,-3,47
+Premier League,2014/2015,13,West Bromwich Albion,38,11,11,16,38:51,-13,44
+Premier League,2014/2015,14,Leicester City,38,11,8,19,46:55,-9,41
+Premier League,2014/2015,15,Newcastle United,38,10,9,19,40:63,-23,39
+Premier League,2014/2015,16,Sunderland AFC,38,7,17,14,31:53,-22,38
+Premier League,2014/2015,17,Aston Villa,38,10,8,20,31:57,-26,38
+Premier League,2014/2015,18,Hull City,38,8,11,19,33:51,-18,35
+Premier League,2014/2015,19,Burnley FC,38,7,12,19,28:53,-25,33
+Premier League,2014/2015,20,Queens Park Rangers,38,8,6,24,42:73,-31,30
+Serie A,1992/1993,1,AC Milan,34,18,14,2,65:32,33,50:18
+Serie A,1992/1993,2,Inter,34,17,12,5,59:36,23,46:22
+Serie A,1992/1993,3,Parma AC,34,16,9,9,47:34,13,41:27
+Serie A,1992/1993,4,Juventus,34,15,9,10,59:47,12,39:29
+Serie A,1992/1993,5,Lazio Roma,34,13,12,9,65:51,14,38:30
+Serie A,1992/1993,6,Cagliari Calcio,34,14,9,11,45:33,12,37:31
+Serie A,1992/1993,7,Sampdoria,34,12,12,10,50:48,2,36:32
+Serie A,1992/1993,8,Atalanta,34,14,8,12,42:44,-2,36:32
+Serie A,1992/1993,9,Torino FC,34,9,17,8,38:38,0,35:33
+Serie A,1992/1993,10,AS Roma,34,8,17,9,42:39,3,33:35
+Serie A,1992/1993,11,SSC Napoli,34,10,12,12,49:50,-1,32:36
+Serie A,1992/1993,12,US Foggia,34,10,12,12,39:55,-16,32:36
+Serie A,1992/1993,13,Genoa CFC,34,7,17,10,41:55,-14,31:37
+Serie A,1992/1993,14,ACF Fiorentina,34,8,14,12,53:56,-3,30:38
+Serie A,1992/1993,15,Udinese Calcio,34,10,10,14,42:48,-6,30:38
+Serie A,1992/1993,16,Brescia Calcio,34,9,12,13,36:44,-8,30:38
+Serie A,1992/1993,17,Ancona Calcio,34,6,7,21,39:73,-34,19:49
+Serie A,1992/1993,18,Pescara Calcio,34,6,5,23,47:75,-28,17:51
+Ligue 1,1996/1997,1,AS Monaco,38,23,10,5,69:30,39,79
+Ligue 1,1996/1997,2,Paris Saint-Germain,38,18,13,7,57:31,26,67
+Ligue 1,1996/1997,3,FC Nantes,38,16,16,6,61:32,29,64
+Ligue 1,1996/1997,4,Girondins Bordeaux,38,16,15,7,59:42,17,63
+Ligue 1,1996/1997,5,FC Metz,38,17,11,10,40:30,10,62
+Ligue 1,1996/1997,6,AJ Auxerre,38,17,10,11,49:32,17,61
+Ligue 1,1996/1997,7,SC Bastia,38,17,10,11,54:47,7,61
+Ligue 1,1996/1997,8,Olympique Lyon,38,16,12,10,59:50,9,60
+Ligue 1,1996/1997,9,RC Strasbourg,38,19,3,16,52:49,3,60
+Ligue 1,1996/1997,10,Montpellier HSC,38,12,15,11,40:40,0,51
+Ligue 1,1996/1997,11,Olympique Marseille,38,12,13,13,43:48,-5,49
+Ligue 1,1996/1997,12,EA Guingamp,38,11,13,14,32:36,-4,46
+Ligue 1,1996/1997,13,RC Lens,38,12,9,17,40:52,-12,45
+Ligue 1,1996/1997,14,Le Havre AC,38,10,13,15,34:43,-9,43
+Ligue 1,1996/1997,15,AS Cannes,38,9,14,15,25:41,-16,41
+Ligue 1,1996/1997,16,Stade Rennes,38,10,10,18,40:58,-18,40
+Ligue 1,1996/1997,17,SM Caen,38,7,16,15,35:46,-11,37
+Ligue 1,1996/1997,18,AS Nancy,38,9,10,19,33:51,-18,37
+Ligue 1,1996/1997,19,Lille OSC,38,8,11,19,32:58,-26,35
+Ligue 1,1996/1997,20,OGC Nice,38,5,8,25,30:68,-38,23
+Primera División,1994/1995,1,Real Madrid,38,23,9,6,76:29,47,55:21
+Primera División,1994/1995,2,Deportivo La Coruña,38,20,11,7,68:32,36,51:25
+Primera División,1994/1995,3,Real Betis,38,15,16,7,46:25,21,46:30
+Primera División,1994/1995,4,FC Barcelona,38,18,10,10,60:45,15,46:30
+Primera División,1994/1995,5,Espanyol Barcelona,38,14,15,9,51:35,16,43:33
+Primera División,1994/1995,6,Sevilla FC,38,16,11,11,55:41,14,43:33
+Primera División,1994/1995,7,Real Zaragoza,38,18,7,13,56:51,5,43:33
+Primera División,1994/1995,8,Athletic Bilbao,38,16,10,12,39:42,-3,42:34
+Primera División,1994/1995,9,Real Oviedo,38,13,13,12,45:42,3,39:37
+Primera División,1994/1995,10,Real Sociedad,38,12,14,12,56:44,12,38:38
+Primera División,1994/1995,11,Valencia CF,38,13,12,13,53:48,5,38:38
+Primera División,1994/1995,12,Racing Santander,38,13,10,15,42:47,-5,36:40
+Primera División,1994/1995,13,Celta Vigo,38,11,14,13,36:48,-12,36:40
+Primera División,1994/1995,14,Atlético Madrid,38,13,9,16,56:54,2,35:41
+Primera División,1994/1995,15,CD Tenerife,38,13,9,16,57:57,0,35:41
+Primera División,1994/1995,16,SD Compostela,38,11,12,15,44:56,-12,34:42
+Primera División,1994/1995,17,Albacete,38,10,14,14,44:61,-17,34:42
+Primera División,1994/1995,18,Sporting Gijón,38,8,12,18,42:67,-25,28:48
+Primera División,1994/1995,19,Real Valladolid,38,8,9,21,25:63,-38,25:51
+Primera División,1994/1995,20,CD Logroñés,38,2,9,27,15:79,-64,13:63
+Primera División,1997/1998,1,FC Barcelona,38,23,5,10,78:56,22,74
+Primera División,1997/1998,2,Athletic Bilbao,38,17,14,7,52:42,10,65
+Primera División,1997/1998,3,Real Sociedad,38,16,15,7,60:37,23,63
+Primera División,1997/1998,4,Real Madrid,38,17,12,9,63:45,18,63
+Primera División,1997/1998,5,Atlético Madrid,38,16,12,10,79:56,23,60
+Primera División,1997/1998,6,RCD Mallorca,38,16,12,10,55:39,16,60
+Primera División,1997/1998,7,Celta Vigo,38,17,9,12,54:47,7,60
+Primera División,1997/1998,8,Real Betis,38,17,8,13,49:50,-1,59
+Primera División,1997/1998,9,Valencia CF,38,16,7,15,58:52,6,55
+Primera División,1997/1998,10,Espanyol Barcelona,38,12,17,9,44:31,13,53
+Primera División,1997/1998,11,Real Valladolid,38,13,11,14,36:47,-11,50
+Primera División,1997/1998,12,Deportivo La Coruña,38,12,13,13,44:46,-2,49
+Primera División,1997/1998,13,Real Zaragoza,38,12,12,14,45:53,-8,48
+Primera División,1997/1998,14,UD Salamanca,38,12,9,17,46:46,0,45
+Primera División,1997/1998,15,Racing Santander,38,12,9,17,46:55,-9,45
+Primera División,1997/1998,16,CD Tenerife,38,11,12,15,44:57,-13,45
+Primera División,1997/1998,17,SD Compostela,38,11,11,16,56:66,-10,44
+Primera División,1997/1998,18,Real Oviedo,38,9,13,16,36:51,-15,40
+Primera División,1997/1998,19,CP Mérida,38,9,12,17,33:53,-20,39
+Primera División,1997/1998,20,Sporting Gijón,38,2,7,29,31:80,-49,13
+Premier League,1996/1997,1,Manchester United,38,21,12,5,76:44,32,75
+Premier League,1996/1997,2,Newcastle United,38,19,11,8,73:40,33,68
+Premier League,1996/1997,3,Arsenal FC,38,19,11,8,62:32,30,68
+Premier League,1996/1997,4,Liverpool FC,38,19,11,8,62:37,25,68
+Premier League,1996/1997,5,Aston Villa,38,17,10,11,47:34,13,61
+Premier League,1996/1997,6,Chelsea FC,38,16,11,11,58:55,3,59
+Premier League,1996/1997,7,Sheffield Wednesday,38,14,15,9,50:51,-1,57
+Premier League,1996/1997,8,Wimbledon FC,38,15,11,12,49:46,3,56
+Premier League,1996/1997,9,Leicester City,38,12,11,15,46:54,-8,47
+Premier League,1996/1997,10,Tottenham Hotspur,38,13,7,18,44:51,-7,46
+Premier League,1996/1997,11,Leeds United,38,11,13,14,28:38,-10,46
+Premier League,1996/1997,12,Derby County,38,11,13,14,45:58,-13,46
+Premier League,1996/1997,13,Blackburn Rovers,38,9,15,14,42:43,-1,42
+Premier League,1996/1997,14,West Ham United,38,10,12,16,39:48,-9,42
+Premier League,1996/1997,15,Everton FC,38,10,12,16,44:57,-13,42
+Premier League,1996/1997,16,Southampton FC,38,10,11,17,50:56,-6,41
+Premier League,1996/1997,17,Coventry City,38,9,14,15,38:54,-16,41
+Premier League,1996/1997,18,Sunderland AFC,38,10,10,18,35:53,-18,40
+Premier League,1996/1997,19,Middlesbrough FC,38,10,12,16,51:60,-9,39
+Premier League,1996/1997,20,Nottingham Forest,38,6,16,16,31:59,-28,34
+Ligue 1,1993/1994,1,Paris Saint-Germain,38,24,11,3,54:22,32,59:17
+Ligue 1,1993/1994,2,Olympique Marseille,38,19,13,6,56:33,23,51:25
+Ligue 1,1993/1994,3,AJ Auxerre,38,18,10,10,54:29,25,46:30
+Ligue 1,1993/1994,4,Girondins Bordeaux,38,19,8,11,54:37,17,46:30
+Ligue 1,1993/1994,5,FC Nantes,38,17,11,10,47:32,15,45:31
+Ligue 1,1993/1994,6,AS Cannes,38,16,12,10,50:43,7,44:32
+Ligue 1,1993/1994,7,Montpellier HSC,38,15,13,10,41:37,4,43:33
+Ligue 1,1993/1994,8,Olympique Lyon,38,17,8,13,38:40,-2,42:34
+Ligue 1,1993/1994,9,AS Monaco,38,14,13,11,52:36,16,41:35
+Ligue 1,1993/1994,10,RC Lens,38,13,13,12,49:40,9,39:37
+Ligue 1,1993/1994,11,AS Saint-Étienne,38,12,13,13,38:36,2,37:39
+Ligue 1,1993/1994,12,FC Metz,38,12,13,13,36:35,1,37:39
+Ligue 1,1993/1994,13,RC Strasbourg,38,10,14,14,43:47,-4,34:42
+Ligue 1,1993/1994,14,FC Sochaux,38,10,13,15,39:48,-9,33:43
+Ligue 1,1993/1994,15,Lille OSC,38,8,16,14,41:52,-11,32:44
+Ligue 1,1993/1994,16,SM Caen,38,12,7,19,29:54,-25,31:45
+Ligue 1,1993/1994,17,Le Havre AC,38,7,15,16,29:48,-19,29:47
+Ligue 1,1993/1994,18,FC Martigues,38,5,17,16,37:58,-21,27:49
+Ligue 1,1993/1994,19,Toulouse FC,38,4,15,19,26:60,-34,23:53
+Ligue 1,1993/1994,20,Angers SCO,38,4,13,21,37:63,-26,21:55
+Primera División,2003/2004,1,Valencia CF,38,23,8,7,71:27,44,77
+Primera División,2003/2004,2,FC Barcelona,38,21,9,8,63:39,24,72
+Primera División,2003/2004,3,Deportivo La Coruña,38,21,8,9,60:34,26,71
+Primera División,2003/2004,4,Real Madrid,38,21,7,10,72:54,18,70
+Primera División,2003/2004,5,Athletic Bilbao,38,15,11,12,53:49,4,56
+Primera División,2003/2004,6,Sevilla FC,38,15,10,13,56:45,11,55
+Primera División,2003/2004,7,Atlético Madrid,38,15,10,13,51:53,-2,55
+Primera División,2003/2004,8,Villarreal CF,38,15,9,14,47:49,-2,54
+Primera División,2003/2004,9,Real Betis,38,13,13,12,46:43,3,52
+Primera División,2003/2004,10,Málaga CF,38,15,6,17,50:55,-5,51
+Primera División,2003/2004,11,RCD Mallorca,38,15,6,17,54:66,-12,51
+Primera División,2003/2004,12,CA Osasuna,38,11,15,12,38:37,1,48
+Primera División,2003/2004,13,Real Zaragoza,38,13,9,16,46:55,-9,48
+Primera División,2003/2004,14,Albacete,38,13,8,17,40:48,-8,47
+Primera División,2003/2004,15,Real Sociedad,38,11,13,14,49:53,-4,46
+Primera División,2003/2004,16,Espanyol Barcelona,38,13,4,21,48:64,-16,43
+Primera División,2003/2004,17,Racing Santander,38,11,10,17,48:63,-15,42
+Primera División,2003/2004,18,Real Valladolid,38,10,11,17,46:56,-10,41
+Primera División,2003/2004,19,Celta Vigo,38,9,12,17,48:68,-20,39
+Primera División,2003/2004,20,Real Murcia,38,5,11,22,29:57,-28,26
+Primera División,2000/2001,1,Real Madrid,38,24,8,6,81:40,41,80
+Primera División,2000/2001,2,Deportivo La Coruña,38,22,7,9,73:44,29,73
+Primera División,2000/2001,3,RCD Mallorca,38,20,11,7,61:43,18,71
+Primera División,2000/2001,4,FC Barcelona,38,17,12,9,80:57,23,63
+Primera División,2000/2001,5,Valencia CF,38,18,9,11,55:34,21,63
+Primera División,2000/2001,6,Celta Vigo,38,16,11,11,51:49,2,59
+Primera División,2000/2001,7,Villarreal CF,38,16,9,13,58:52,6,57
+Primera División,2000/2001,8,Málaga CF,38,16,8,14,60:61,-1,56
+Primera División,2000/2001,9,Espanyol Barcelona,38,14,8,16,46:44,2,50
+Primera División,2000/2001,10,CD Alavés,38,14,7,17,58:59,-1,49
+Primera División,2000/2001,11,UD Las Palmas,38,13,7,18,42:62,-20,46
+Primera División,2000/2001,12,Rayo Vallecano,38,10,13,15,56:68,-12,43
+Primera División,2000/2001,13,Real Sociedad,38,11,10,17,52:68,-16,43
+Primera División,2000/2001,14,Athletic Bilbao,38,11,10,17,44:60,-16,43
+Primera División,2000/2001,15,Real Zaragoza,38,9,15,14,54:57,-3,42
+Primera División,2000/2001,16,Real Valladolid,38,9,15,14,42:50,-8,42
+Primera División,2000/2001,17,CA Osasuna,38,10,12,16,43:54,-11,42
+Primera División,2000/2001,18,Real Oviedo,38,11,8,19,51:67,-16,41
+Primera División,2000/2001,19,Racing Santander,38,10,9,19,48:62,-14,39
+Primera División,2000/2001,20,CD Numancia,38,10,9,19,40:64,-24,39
+Primera División,1992/1993,1,FC Barcelona,38,25,8,5,87:34,53,58:18
+Primera División,1992/1993,2,Real Madrid,38,24,9,5,75:28,47,57:19
+Primera División,1992/1993,3,Deportivo La Coruña,38,22,10,6,67:33,34,54:22
+Primera División,1992/1993,4,Valencia CF,38,19,10,9,60:33,27,48:28
+Primera División,1992/1993,5,CD Tenerife,38,15,14,9,59:47,12,44:32
+Primera División,1992/1993,6,Atlético Madrid,38,16,11,11,52:42,10,43:33
+Primera División,1992/1993,7,Sevilla FC,38,17,9,12,46:44,2,43:33
+Primera División,1992/1993,8,Athletic Bilbao,38,17,6,15,53:49,4,40:36
+Primera División,1992/1993,9,Real Zaragoza,38,11,13,14,37:52,-15,35:41
+Primera División,1992/1993,10,CA Osasuna,38,12,10,16,42:41,1,34:42
+Primera División,1992/1993,11,Celta Vigo,38,9,16,13,25:32,-7,34:42
+Primera División,1992/1993,12,Real Sociedad,38,13,8,17,46:59,-13,34:42
+Primera División,1992/1993,13,Sporting Gijón,38,11,12,15,38:57,-19,34:42
+Primera División,1992/1993,14,Rayo Vallecano,38,8,17,13,40:49,-9,33:43
+Primera División,1992/1993,15,CD Logroñés,38,11,11,16,32:48,-16,33:43
+Primera División,1992/1993,16,Real Oviedo,38,11,10,17,42:52,-10,32:44
+Primera División,1992/1993,17,Albacete,38,11,9,18,54:59,-5,31:45
+Primera División,1992/1993,18,Espanyol Barcelona,38,9,11,18,40:56,-16,29:47
+Primera División,1992/1993,19,Cádiz CF,38,5,12,21,30:70,-40,22:54
+Primera División,1992/1993,20,Real Burgos,38,4,14,20,29:69,-40,22:54
+Premier League,1993/1994,1,Manchester United,42,27,11,4,80:38,42,92
+Premier League,1993/1994,2,Blackburn Rovers,42,25,9,8,63:36,27,84
+Premier League,1993/1994,3,Newcastle United,42,23,8,11,82:41,41,77
+Premier League,1993/1994,4,Arsenal FC,42,18,17,7,53:28,25,71
+Premier League,1993/1994,5,Leeds United,42,18,16,8,65:39,26,70
+Premier League,1993/1994,6,Wimbledon FC,42,18,11,13,56:53,3,65
+Premier League,1993/1994,7,Sheffield Wednesday,42,16,16,10,76:54,22,64
+Premier League,1993/1994,8,Liverpool FC,42,17,9,16,59:55,4,60
+Premier League,1993/1994,9,Queens Park Rangers,42,16,12,14,62:61,1,60
+Premier League,1993/1994,10,Aston Villa,42,15,12,15,46:50,-4,57
+Premier League,1993/1994,11,Coventry City,42,14,14,14,43:45,-2,56
+Premier League,1993/1994,12,Norwich City,42,12,17,13,65:61,4,53
+Premier League,1993/1994,13,West Ham United,42,13,13,16,47:58,-11,52
+Premier League,1993/1994,14,Chelsea FC,42,13,12,17,49:53,-4,51
+Premier League,1993/1994,15,Tottenham Hotspur,42,11,12,19,54:59,-5,45
+Premier League,1993/1994,16,Manchester City,42,9,18,15,38:49,-11,45
+Premier League,1993/1994,17,Everton FC,42,12,8,22,42:63,-21,44
+Premier League,1993/1994,18,Southampton FC,42,12,7,23,49:66,-17,43
+Premier League,1993/1994,19,Ipswich Town,42,9,16,17,35:58,-23,43
+Premier League,1993/1994,20,Sheffield United,42,8,18,16,42:60,-18,42
+Premier League,1993/1994,21,Oldham Athletic,42,9,13,20,42:68,-26,40
+Premier League,1993/1994,22,Swindon Town,42,5,15,22,47:100,-53,30
+Primera División,1995/1996,1,Atlético Madrid,38,23,8,7,67:29,38,77
+Primera División,1995/1996,2,FC Barcelona,38,21,11,6,65:33,32,74
+Primera División,1995/1996,3,Valencia CF,38,23,4,11,72:49,23,73
+Primera División,1995/1996,4,Espanyol Barcelona,38,19,12,7,59:32,27,69
+Primera División,1995/1996,5,CD Tenerife,38,17,11,10,63:52,11,62
+Primera División,1995/1996,6,Deportivo La Coruña,38,16,12,10,61:36,25,60
+Primera División,1995/1996,7,Real Betis,38,15,14,9,57:46,11,59
+Primera División,1995/1996,8,Real Madrid,38,16,10,12,66:51,15,58
+Primera División,1995/1996,9,SD Compostela,38,17,6,15,45:49,-4,57
+Primera División,1995/1996,10,Real Sociedad,38,15,11,12,49:47,2,56
+Primera División,1995/1996,11,Celta Vigo,38,11,14,13,43:46,-3,47
+Primera División,1995/1996,12,Racing Santander,38,11,13,14,42:57,-15,46
+Primera División,1995/1996,13,Real Oviedo,38,11,11,16,39:55,-16,44
+Primera División,1995/1996,14,Sporting Gijón,38,12,7,19,49:53,-4,43
+Primera División,1995/1996,15,Athletic Bilbao,38,10,13,15,37:49,-12,43
+Primera División,1995/1996,16,Sevilla FC,38,10,13,15,38:51,-13,43
+Primera División,1995/1996,17,Real Zaragoza,38,9,15,14,44:53,-9,42
+Primera División,1995/1996,18,Albacete,38,10,10,18,50:67,-17,40
+Primera División,1995/1996,19,CP Mérida,38,9,12,17,33:53,-20,39
+Primera División,1995/1996,20,Real Valladolid,38,8,14,16,44:55,-11,38
+Primera División,1995/1996,21,Rayo Vallecano,38,10,8,20,41:67,-26,38
+Primera División,1995/1996,22,UD Salamanca,38,6,9,23,43:77,-34,27
+Ligue 1,2010/2011,1,Lille OSC,38,21,13,4,68:36,32,76
+Ligue 1,2010/2011,2,Olympique Marseille,38,18,14,6,62:39,23,68
+Ligue 1,2010/2011,3,Olympique Lyon,38,17,13,8,61:40,21,64
+Ligue 1,2010/2011,4,Paris Saint-Germain,38,15,15,8,56:41,15,60
+Ligue 1,2010/2011,5,FC Sochaux,38,17,7,14,60:43,17,58
+Ligue 1,2010/2011,6,Stade Rennes,38,15,11,12,38:35,3,56
+Ligue 1,2010/2011,7,Girondins Bordeaux,38,12,15,11,43:42,1,51
+Ligue 1,2010/2011,8,Toulouse FC,38,14,8,16,38:36,2,50
+Ligue 1,2010/2011,9,AJ Auxerre,38,10,19,9,45:41,4,49
+Ligue 1,2010/2011,10,AS Saint-Étienne,38,12,13,13,46:47,-1,49
+Ligue 1,2010/2011,11,FC Lorient,38,12,13,13,46:48,-2,49
+Ligue 1,2010/2011,12,Valenciennes FC,38,10,18,10,45:41,4,48
+Ligue 1,2010/2011,13,AS Nancy,38,13,9,16,43:48,-5,48
+Ligue 1,2010/2011,14,Montpellier HSC,38,12,11,15,32:43,-11,47
+Ligue 1,2010/2011,15,SM Caen,38,11,13,14,46:51,-5,46
+Ligue 1,2010/2011,16,Stade Brest,38,11,13,14,36:43,-7,46
+Ligue 1,2010/2011,17,OGC Nice,38,11,13,14,33:48,-15,46
+Ligue 1,2010/2011,18,AS Monaco,38,9,17,12,36:40,-4,44
+Ligue 1,2010/2011,19,RC Lens,38,7,14,17,35:58,-23,35
+Ligue 1,2010/2011,20,AC Arles-Avignon,38,3,11,24,21:70,-49,20
+Primera División,1996/1997,1,Real Madrid,38,25,11,2,77:30,47,86
+Primera División,1996/1997,2,FC Barcelona,38,25,6,7,95:45,50,81
+Primera División,1996/1997,3,Deportivo La Coruña,38,20,14,4,56:26,30,74
+Primera División,1996/1997,4,Real Betis,38,20,13,5,78:41,37,73
+Primera División,1996/1997,5,Atlético Madrid,38,19,10,9,71:55,16,67
+Primera División,1996/1997,6,Real Valladolid,38,16,10,12,54:43,11,58
+Primera División,1996/1997,7,Athletic Bilbao,38,13,16,9,66:54,12,55
+Primera División,1996/1997,8,Real Sociedad,38,15,9,14,43:42,1,54
+Primera División,1996/1997,9,Valencia CF,38,14,10,14,57:51,6,52
+Primera División,1996/1997,10,CD Tenerife,38,14,9,15,61:49,12,51
+Primera División,1996/1997,11,Racing Santander,38,11,14,13,46:45,1,47
+Primera División,1996/1997,12,Real Zaragoza,38,11,13,14,49:57,-8,46
+Primera División,1996/1997,13,SD Compostela,38,11,13,14,43:59,-16,46
+Primera División,1996/1997,14,Espanyol Barcelona,38,12,9,17,41:48,-7,45
+Primera División,1996/1997,15,Celta Vigo,38,10,13,15,46:50,-4,43
+Primera División,1996/1997,16,Real Oviedo,38,11,10,17,46:62,-16,43
+Primera División,1996/1997,17,Rayo Vallecano,38,12,6,20,39:54,-15,42
+Primera División,1996/1997,18,Sporting Gijón,38,10,10,18,39:63,-24,40
+Primera División,1996/1997,19,CF Extremadura,38,10,10,18,32:57,-25,40
+Primera División,1996/1997,20,Hércules CF,38,10,5,23,35:71,-36,35
+Primera División,1996/1997,21,Sevilla FC,38,9,7,22,41:66,-25,34
+Primera División,1996/1997,22,CD Logroñés,38,9,4,25,29:76,-47,31
+Primera División,2001/2002,1,Valencia CF,38,21,12,5,51:27,24,75
+Primera División,2001/2002,2,Deportivo La Coruña,38,20,8,10,65:41,24,68
+Primera División,2001/2002,3,Real Madrid,38,19,9,10,69:44,25,66
+Primera División,2001/2002,4,FC Barcelona,38,18,10,10,65:37,28,64
+Primera División,2001/2002,5,Celta Vigo,38,16,12,10,64:46,18,60
+Primera División,2001/2002,6,Real Betis,38,15,14,9,42:34,8,59
+Primera División,2001/2002,7,CD Alavés,38,17,3,18,41:44,-3,54
+Primera División,2001/2002,8,Sevilla FC,38,14,11,13,51:40,11,53
+Primera División,2001/2002,9,Málaga CF,38,13,14,11,44:44,0,53
+Primera División,2001/2002,10,Athletic Bilbao,38,14,11,13,54:66,-12,53
+Primera División,2001/2002,11,Rayo Vallecano,38,13,10,15,46:52,-6,49
+Primera División,2001/2002,12,Real Valladolid,38,13,9,16,45:58,-13,48
+Primera División,2001/2002,13,Real Sociedad,38,13,8,17,48:54,-6,47
+Primera División,2001/2002,14,Espanyol Barcelona,38,13,8,17,47:56,-9,47
+Primera División,2001/2002,15,Villarreal CF,38,11,10,17,46:55,-9,43
+Primera División,2001/2002,16,RCD Mallorca,38,11,10,17,40:52,-12,43
+Primera División,2001/2002,17,CA Osasuna,38,10,12,16,36:49,-13,42
+Primera División,2001/2002,18,UD Las Palmas,38,9,13,16,40:50,-10,40
+Primera División,2001/2002,19,CD Tenerife,38,10,8,20,32:58,-26,38
+Primera División,2001/2002,20,Real Zaragoza,38,9,10,19,35:54,-19,37
+Primera División,2011/2012,1,Real Madrid,38,32,4,2,121:32,89,100
+Primera División,2011/2012,2,FC Barcelona,38,28,7,3,114:29,85,91
+Primera División,2011/2012,3,Valencia CF,38,17,10,11,59:44,15,61
+Primera División,2011/2012,4,Málaga CF,38,17,7,14,54:53,1,58
+Primera División,2011/2012,5,Atlético Madrid,38,15,11,12,53:46,7,56
+Primera División,2011/2012,6,Levante UD,38,16,7,15,54:50,4,55
+Primera División,2011/2012,7,CA Osasuna,38,13,15,10,44:61,-17,54
+Primera División,2011/2012,8,RCD Mallorca,38,14,10,14,42:46,-4,52
+Primera División,2011/2012,9,Sevilla FC,38,13,11,14,48:47,1,50
+Primera División,2011/2012,10,Athletic Bilbao,38,12,13,13,49:52,-3,49
+Primera División,2011/2012,11,Getafe CF,38,12,11,15,40:51,-11,47
+Primera División,2011/2012,12,Real Sociedad,38,12,11,15,46:52,-6,47
+Primera División,2011/2012,13,Real Betis,38,13,8,17,47:56,-9,47
+Primera División,2011/2012,14,Espanyol Barcelona,38,12,10,16,46:56,-10,46
+Primera División,2011/2012,15,Rayo Vallecano,38,13,4,21,53:73,-20,43
+Primera División,2011/2012,16,Real Zaragoza,38,12,7,19,36:61,-25,43
+Primera División,2011/2012,17,Granada CF,38,12,6,20,35:56,-21,42
+Primera División,2011/2012,18,Villarreal CF,38,9,14,15,39:53,-14,41
+Primera División,2011/2012,19,Sporting Gijón,38,10,7,21,42:69,-27,37
+Primera División,2011/2012,20,Racing Santander,38,4,15,19,28:63,-35,27
+Premier League,2002/2003,1,Manchester United,38,25,8,5,74:34,40,83
+Premier League,2002/2003,2,Arsenal FC,38,23,9,6,85:42,43,78
+Premier League,2002/2003,3,Newcastle United,38,21,6,11,63:48,15,69
+Premier League,2002/2003,4,Chelsea FC,38,19,10,9,68:38,30,67
+Premier League,2002/2003,5,Liverpool FC,38,18,10,10,61:41,20,64
+Premier League,2002/2003,6,Blackburn Rovers,38,16,12,10,52:43,9,60
+Premier League,2002/2003,7,Everton FC,38,17,8,13,48:49,-1,59
+Premier League,2002/2003,8,Southampton FC,38,13,13,12,43:46,-3,52
+Premier League,2002/2003,9,Manchester City,38,15,6,17,47:54,-7,51
+Premier League,2002/2003,10,Tottenham Hotspur,38,14,8,16,51:62,-11,50
+Premier League,2002/2003,11,Middlesbrough FC,38,13,10,15,48:44,4,49
+Premier League,2002/2003,12,Charlton Athletic,38,14,7,17,45:56,-11,49
+Premier League,2002/2003,13,Birmingham City,38,13,9,16,41:49,-8,48
+Premier League,2002/2003,14,Fulham FC,38,13,9,16,41:50,-9,48
+Premier League,2002/2003,15,Leeds United,38,14,5,19,58:57,1,47
+Premier League,2002/2003,16,Aston Villa,38,12,9,17,42:47,-5,45
+Premier League,2002/2003,17,Bolton Wanderers,38,10,14,14,41:51,-10,44
+Premier League,2002/2003,18,West Ham United,38,10,12,16,42:59,-17,42
+Premier League,2002/2003,19,West Bromwich Albion,38,6,8,24,29:65,-36,26
+Premier League,2002/2003,20,Sunderland AFC,38,4,7,27,21:65,-44,19
+Primera División,2012/2013,1,FC Barcelona,38,32,4,2,115:40,75,100
+Primera División,2012/2013,2,Real Madrid,38,26,7,5,103:42,61,85
+Primera División,2012/2013,3,Atlético Madrid,38,23,7,8,65:31,34,76
+Primera División,2012/2013,4,Real Sociedad,38,18,12,8,70:49,21,66
+Primera División,2012/2013,5,Valencia CF,38,19,8,11,67:54,13,65
+Primera División,2012/2013,6,Málaga CF,38,16,9,13,53:50,3,57
+Primera División,2012/2013,7,Real Betis,38,16,8,14,57:56,1,56
+Primera División,2012/2013,8,Rayo Vallecano,38,16,5,17,50:66,-16,53
+Primera División,2012/2013,9,Sevilla FC,38,14,8,16,58:54,4,50
+Primera División,2012/2013,10,Getafe CF,38,13,8,17,43:57,-14,47
+Primera División,2012/2013,11,Levante UD,38,12,10,16,40:57,-17,46
+Primera División,2012/2013,12,Athletic Bilbao,38,12,9,17,44:65,-21,45
+Primera División,2012/2013,13,Espanyol Barcelona,38,11,11,16,43:52,-9,44
+Primera División,2012/2013,14,Real Valladolid,38,11,10,17,49:58,-9,43
+Primera División,2012/2013,15,Granada CF,38,11,9,18,37:54,-17,42
+Primera División,2012/2013,16,CA Osasuna,38,10,9,19,33:50,-17,39
+Primera División,2012/2013,17,Celta Vigo,38,10,7,21,37:52,-15,37
+Primera División,2012/2013,18,RCD Mallorca,38,9,9,20,43:72,-29,36
+Primera División,2012/2013,19,Deportivo La Coruña,38,8,11,19,47:70,-23,35
+Primera División,2012/2013,20,Real Zaragoza,38,9,7,22,37:62,-25,34
+Primera División,2013/2014,1,Atlético Madrid,38,28,6,4,77:26,51,90
+Primera División,2013/2014,2,FC Barcelona,38,27,6,5,100:33,67,87
+Primera División,2013/2014,3,Real Madrid,38,27,6,5,104:38,66,87
+Primera División,2013/2014,4,Athletic Bilbao,38,20,10,8,66:39,27,70
+Primera División,2013/2014,5,Sevilla FC,38,18,9,11,69:52,17,63
+Primera División,2013/2014,6,Villarreal CF,38,17,8,13,60:44,16,59
+Primera División,2013/2014,7,Real Sociedad,38,16,11,11,62:55,7,59
+Primera División,2013/2014,8,Valencia CF,38,13,10,15,51:53,-2,49
+Primera División,2013/2014,9,Celta Vigo,38,14,7,17,49:54,-5,49
+Primera División,2013/2014,10,Levante UD,38,12,12,14,35:43,-8,48
+Primera División,2013/2014,11,Málaga CF,38,12,9,17,39:46,-7,45
+Primera División,2013/2014,12,Rayo Vallecano,38,13,4,21,46:80,-34,43
+Primera División,2013/2014,13,Getafe CF,38,11,9,18,35:54,-19,42
+Primera División,2013/2014,14,Espanyol Barcelona,38,11,9,18,41:51,-10,42
+Primera División,2013/2014,15,Granada CF,38,12,5,21,32:56,-24,41
+Primera División,2013/2014,16,Elche CF,38,9,13,16,30:50,-20,40
+Primera División,2013/2014,17,UD Almería,38,11,7,20,43:71,-28,40
+Primera División,2013/2014,18,CA Osasuna,38,10,9,19,32:62,-30,39
+Primera División,2013/2014,19,Real Valladolid,38,7,15,16,38:60,-22,36
+Primera División,2013/2014,20,Real Betis,38,6,7,25,36:78,-42,25
+Primera División,2015/2016,1,FC Barcelona,38,29,4,5,112:29,83,91
+Primera División,2015/2016,2,Real Madrid,38,28,6,4,110:34,76,90
+Primera División,2015/2016,3,Atlético Madrid,38,28,4,6,63:18,45,88
+Primera División,2015/2016,4,Villarreal CF,38,18,10,10,44:35,9,64
+Primera División,2015/2016,5,Athletic Bilbao,38,18,8,12,58:45,13,62
+Primera División,2015/2016,6,Celta Vigo,38,17,9,12,51:59,-8,60
+Primera División,2015/2016,7,Sevilla FC,38,14,10,14,51:50,1,52
+Primera División,2015/2016,8,Málaga CF,38,12,12,14,38:35,3,48
+Primera División,2015/2016,9,Real Sociedad,38,13,9,16,45:48,-3,48
+Primera División,2015/2016,10,Real Betis,38,11,12,15,34:52,-18,45
+Primera División,2015/2016,11,UD Las Palmas,38,12,8,18,45:53,-8,44
+Primera División,2015/2016,12,Valencia CF,38,11,11,16,46:48,-2,44
+Primera División,2015/2016,13,Espanyol Barcelona,38,12,7,19,40:74,-34,43
+Primera División,2015/2016,14,SD Eibar,38,11,10,17,49:61,-12,43
+Primera División,2015/2016,15,Deportivo La Coruña,38,8,18,12,45:61,-16,42
+Primera División,2015/2016,16,Granada CF,38,10,9,19,46:69,-23,39
+Primera División,2015/2016,17,Sporting Gijón,38,10,9,19,40:62,-22,39
+Primera División,2015/2016,18,Rayo Vallecano,38,9,11,18,52:73,-21,38
+Primera División,2015/2016,19,Getafe CF,38,9,9,20,37:67,-30,36
+Primera División,2015/2016,20,Levante UD,38,8,8,22,37:70,-33,32
+Premier League,2019/2020,1,Liverpool FC,38,32,3,3,85:33,52,99
+Premier League,2019/2020,2,Manchester City,38,26,3,9,102:35,67,81
+Premier League,2019/2020,3,Manchester United,38,18,12,8,66:36,30,66
+Premier League,2019/2020,4,Chelsea FC,38,20,6,12,69:54,15,66
+Premier League,2019/2020,5,Leicester City,38,18,8,12,67:41,26,62
+Premier League,2019/2020,6,Tottenham Hotspur,38,16,11,11,61:47,14,59
+Premier League,2019/2020,7,Wolverhampton Wanderers,38,15,14,9,51:40,11,59
+Premier League,2019/2020,8,Arsenal FC,38,14,14,10,56:48,8,56
+Premier League,2019/2020,9,Sheffield United,38,14,12,12,39:39,0,54
+Premier League,2019/2020,10,Burnley FC,38,15,9,14,43:50,-7,54
+Premier League,2019/2020,11,Southampton FC,38,15,7,16,51:60,-9,52
+Premier League,2019/2020,12,Everton FC,38,13,10,15,44:56,-12,49
+Premier League,2019/2020,13,Newcastle United,38,11,11,16,38:58,-20,44
+Premier League,2019/2020,14,Crystal Palace,38,11,10,17,31:50,-19,43
+Premier League,2019/2020,15,Brighton & Hove Albion,38,9,14,15,39:54,-15,41
+Premier League,2019/2020,16,West Ham United,38,10,9,19,49:62,-13,39
+Premier League,2019/2020,17,Aston Villa,38,9,8,21,41:67,-26,35
+Premier League,2019/2020,18,AFC Bournemouth,38,9,7,22,40:65,-25,34
+Premier League,2019/2020,19,Watford FC,38,8,10,20,36:64,-28,34
+Premier League,2019/2020,20,Norwich City,38,5,6,27,26:75,-49,21
+Primera División,2019/2020,1,Real Madrid,38,26,9,3,70:25,45,87
+Primera División,2019/2020,2,FC Barcelona,38,25,7,6,86:38,48,82
+Primera División,2019/2020,3,Atlético Madrid,38,18,16,4,51:27,24,70
+Primera División,2019/2020,4,Sevilla FC,38,19,13,6,54:34,20,70
+Primera División,2019/2020,5,Villarreal CF,38,18,6,14,63:49,14,60
+Primera División,2019/2020,6,Real Sociedad,38,16,8,14,56:48,8,56
+Primera División,2019/2020,7,Granada CF,38,16,8,14,52:45,7,56
+Primera División,2019/2020,8,Getafe CF,38,14,12,12,43:37,6,54
+Primera División,2019/2020,9,Valencia CF,38,14,11,13,46:53,-7,53
+Primera División,2019/2020,10,CA Osasuna,38,13,13,12,46:54,-8,52
+Primera División,2019/2020,11,Athletic Bilbao,38,13,12,13,41:38,3,51
+Primera División,2019/2020,12,Levante UD,38,14,7,17,47:53,-6,49
+Primera División,2019/2020,13,Real Valladolid,38,9,15,14,32:43,-11,42
+Primera División,2019/2020,14,SD Eibar,38,11,9,18,39:56,-17,42
+Primera División,2019/2020,15,Real Betis,38,10,11,17,48:60,-12,41
+Primera División,2019/2020,16,CD Alavés,38,10,9,19,34:59,-25,39
+Primera División,2019/2020,17,Celta Vigo,38,7,16,15,37:49,-12,37
+Primera División,2019/2020,18,CD Leganés,38,8,12,18,30:51,-21,36
+Primera División,2019/2020,19,RCD Mallorca,38,9,6,23,40:65,-25,33
+Primera División,2019/2020,20,Espanyol Barcelona,38,5,10,23,27:58,-31,25
+Premier League,2007/2008,1,Manchester United,38,27,6,5,80:22,58,87
+Premier League,2007/2008,2,Chelsea FC,38,25,10,3,65:26,39,85
+Premier League,2007/2008,3,Arsenal FC,38,24,11,3,74:31,43,83
+Premier League,2007/2008,4,Liverpool FC,38,21,13,4,67:28,39,76
+Premier League,2007/2008,5,Everton FC,38,19,8,11,55:33,22,65
+Premier League,2007/2008,6,Aston Villa,38,16,12,10,71:51,20,60
+Premier League,2007/2008,7,Blackburn Rovers,38,15,13,10,50:48,2,58
+Premier League,2007/2008,8,Portsmouth FC,38,16,9,13,48:40,8,57
+Premier League,2007/2008,9,Manchester City,38,15,10,13,45:53,-8,55
+Premier League,2007/2008,10,West Ham United,38,13,10,15,42:50,-8,49
+Premier League,2007/2008,11,Tottenham Hotspur,38,11,13,14,66:61,5,46
+Premier League,2007/2008,12,Newcastle United,38,11,10,17,45:65,-20,43
+Premier League,2007/2008,13,Middlesbrough FC,38,10,12,16,43:53,-10,42
+Premier League,2007/2008,14,Wigan Athletic,38,10,10,18,34:51,-17,40
+Premier League,2007/2008,15,Sunderland AFC,38,11,6,21,36:59,-23,39
+Premier League,2007/2008,16,Bolton Wanderers,38,9,10,19,36:54,-18,37
+Premier League,2007/2008,17,Fulham FC,38,8,12,18,38:60,-22,36
+Premier League,2007/2008,18,Reading FC,38,10,6,22,41:66,-25,36
+Premier League,2007/2008,19,Birmingham City,38,8,11,19,46:62,-16,35
+Premier League,2007/2008,20,Derby County,38,1,8,29,20:89,-69,11
+Primera División,2020/2021,1,Atlético Madrid,38,26,8,4,67:25,42,86
+Primera División,2020/2021,2,Real Madrid,38,25,9,4,67:28,39,84
+Primera División,2020/2021,3,FC Barcelona,38,24,7,7,85:38,47,79
+Primera División,2020/2021,4,Sevilla FC,38,24,5,9,53:33,20,77
+Primera División,2020/2021,5,Real Sociedad,38,17,11,10,59:38,21,62
+Primera División,2020/2021,6,Real Betis,38,17,10,11,50:50,0,61
+Primera División,2020/2021,7,Villarreal CF,38,15,13,10,60:44,16,58
+Primera División,2020/2021,8,Celta Vigo,38,14,11,13,55:57,-2,53
+Primera División,2020/2021,9,Granada CF,38,13,7,18,47:65,-18,46
+Primera División,2020/2021,10,Athletic Bilbao,38,11,13,14,46:42,4,46
+Primera División,2020/2021,11,CA Osasuna,38,11,11,16,37:48,-11,44
+Primera División,2020/2021,12,Cádiz CF,38,11,11,16,36:58,-22,44
+Primera División,2020/2021,13,Valencia CF,38,10,13,15,50:53,-3,43
+Primera División,2020/2021,14,Levante UD,38,9,14,15,46:57,-11,41
+Primera División,2020/2021,15,Getafe CF,38,9,11,18,28:43,-15,38
+Primera División,2020/2021,16,CD Alavés,38,9,11,18,36:57,-21,38
+Primera División,2020/2021,17,Elche CF,38,8,12,18,34:55,-21,36
+Primera División,2020/2021,18,SD Huesca,38,7,13,18,34:53,-19,34
+Primera División,2020/2021,19,Real Valladolid,38,5,16,17,34:57,-23,31
+Primera División,2020/2021,20,SD Eibar,38,6,12,20,29:52,-23,30
+Primera División,2014/2015,1,FC Barcelona,38,30,4,4,110:21,89,94
+Primera División,2014/2015,2,Real Madrid,38,30,2,6,118:38,80,92
+Primera División,2014/2015,3,Atlético Madrid,38,23,9,6,67:29,38,78
+Primera División,2014/2015,4,Valencia CF,38,22,11,5,70:32,38,77
+Primera División,2014/2015,5,Sevilla FC,38,23,7,8,71:45,26,76
+Primera División,2014/2015,6,Villarreal CF,38,16,12,10,48:37,11,60
+Primera División,2014/2015,7,Athletic Bilbao,38,15,10,13,42:41,1,55
+Primera División,2014/2015,8,Celta Vigo,38,13,12,13,47:44,3,51
+Primera División,2014/2015,9,Málaga CF,38,14,8,16,42:48,-6,50
+Primera División,2014/2015,10,Espanyol Barcelona,38,13,10,15,47:51,-4,49
+Primera División,2014/2015,11,Rayo Vallecano,38,15,4,19,46:68,-22,49
+Primera División,2014/2015,12,Real Sociedad,38,11,13,14,44:51,-7,46
+Primera División,2014/2015,13,Elche CF,38,11,8,19,35:62,-27,41
+Primera División,2014/2015,14,Levante UD,38,9,10,19,34:67,-33,37
+Primera División,2014/2015,15,Getafe CF,38,10,7,21,33:64,-31,37
+Primera División,2014/2015,16,Deportivo La Coruña,38,7,14,17,35:60,-25,35
+Primera División,2014/2015,17,Granada CF,38,7,14,17,29:64,-35,35
+Primera División,2014/2015,18,SD Eibar,38,9,8,21,34:55,-21,35
+Primera División,2014/2015,19,UD Almería,38,8,8,22,35:64,-29,32
+Primera División,2014/2015,20,Córdoba CF,38,3,11,24,22:68,-46,20
+Primera División,2017/2018,1,FC Barcelona,38,28,9,1,99:29,70,93
+Primera División,2017/2018,2,Atlético Madrid,38,23,10,5,58:22,36,79
+Primera División,2017/2018,3,Real Madrid,38,22,10,6,94:44,50,76
+Primera División,2017/2018,4,Valencia CF,38,22,7,9,65:38,27,73
+Primera División,2017/2018,5,Villarreal CF,38,18,7,13,57:50,7,61
+Primera División,2017/2018,6,Real Betis,38,18,6,14,60:61,-1,60
+Primera División,2017/2018,7,Sevilla FC,38,17,7,14,49:58,-9,58
+Primera División,2017/2018,8,Getafe CF,38,15,10,13,42:33,9,55
+Primera División,2017/2018,9,SD Eibar,38,14,9,15,44:50,-6,51
+Primera División,2017/2018,10,Girona FC,38,14,9,15,50:59,-9,51
+Primera División,2017/2018,11,Espanyol Barcelona,38,12,13,13,36:42,-6,49
+Primera División,2017/2018,12,Real Sociedad,38,14,7,17,66:59,7,49
+Primera División,2017/2018,13,Celta Vigo,38,13,10,15,59:60,-1,49
+Primera División,2017/2018,14,CD Alavés,38,15,2,21,40:50,-10,47
+Primera División,2017/2018,15,Levante UD,38,11,13,14,44:58,-14,46
+Primera División,2017/2018,16,Athletic Bilbao,38,10,13,15,41:49,-8,43
+Primera División,2017/2018,17,CD Leganés,38,12,7,19,34:51,-17,43
+Primera División,2017/2018,18,Deportivo La Coruña,38,6,11,21,38:76,-38,29
+Primera División,2017/2018,19,UD Las Palmas,38,5,7,26,24:74,-50,22
+Primera División,2017/2018,20,Málaga CF,38,5,5,28,24:61,-37,20
+Primera División,2010/2011,1,FC Barcelona,38,30,6,2,95:21,74,96
+Primera División,2010/2011,2,Real Madrid,38,29,5,4,102:33,69,92
+Primera División,2010/2011,3,Valencia CF,38,21,8,9,64:44,20,71
+Primera División,2010/2011,4,Villarreal CF,38,18,8,12,54:44,10,62
+Primera División,2010/2011,5,Sevilla FC,38,17,7,14,62:61,1,58
+Primera División,2010/2011,6,Athletic Bilbao,38,18,4,16,59:55,4,58
+Primera División,2010/2011,7,Atlético Madrid,38,17,7,14,62:53,9,58
+Primera División,2010/2011,8,Espanyol Barcelona,38,15,4,19,46:55,-9,49
+Primera División,2010/2011,9,CA Osasuna,38,13,8,17,45:46,-1,47
+Primera División,2010/2011,10,Sporting Gijón,38,11,14,13,35:42,-7,47
+Primera División,2010/2011,11,Málaga CF,38,13,7,18,54:68,-14,46
+Primera División,2010/2011,12,Racing Santander,38,12,10,16,41:56,-15,46
+Primera División,2010/2011,13,Real Sociedad,38,14,3,21,49:66,-17,45
+Primera División,2010/2011,14,Real Zaragoza,38,12,9,17,40:53,-13,45
+Primera División,2010/2011,15,Levante UD,38,12,9,17,41:52,-11,45
+Primera División,2010/2011,16,Getafe CF,38,12,8,18,49:60,-11,44
+Primera División,2010/2011,17,RCD Mallorca,38,12,8,18,41:56,-15,44
+Primera División,2010/2011,18,Deportivo La Coruña,38,10,13,15,31:47,-16,43
+Primera División,2010/2011,19,Hércules CF,38,9,8,21,36:60,-24,35
+Primera División,2010/2011,20,UD Almería,38,6,12,20,36:70,-34,30
+Premier League,2020/2021,1,Manchester City,38,27,5,6,83:32,51,86
+Premier League,2020/2021,2,Manchester United,38,21,11,6,73:44,29,74
+Premier League,2020/2021,3,Liverpool FC,38,20,9,9,68:42,26,69
+Premier League,2020/2021,4,Chelsea FC,38,19,10,9,58:36,22,67
+Premier League,2020/2021,5,Leicester City,38,20,6,12,68:50,18,66
+Premier League,2020/2021,6,West Ham United,38,19,8,11,62:47,15,65
+Premier League,2020/2021,7,Tottenham Hotspur,38,18,8,12,68:45,23,62
+Premier League,2020/2021,8,Arsenal FC,38,18,7,13,55:39,16,61
+Premier League,2020/2021,9,Leeds United,38,18,5,15,62:54,8,59
+Premier League,2020/2021,10,Everton FC,38,17,8,13,47:48,-1,59
+Premier League,2020/2021,11,Aston Villa,38,16,7,15,55:46,9,55
+Premier League,2020/2021,12,Newcastle United,38,12,9,17,46:62,-16,45
+Premier League,2020/2021,13,Wolverhampton Wanderers,38,12,9,17,36:52,-16,45
+Premier League,2020/2021,14,Crystal Palace,38,12,8,18,41:66,-25,44
+Premier League,2020/2021,15,Southampton FC,38,12,7,19,47:68,-21,43
+Premier League,2020/2021,16,Brighton & Hove Albion,38,9,14,15,40:46,-6,41
+Premier League,2020/2021,17,Burnley FC,38,10,9,19,33:55,-22,39
+Premier League,2020/2021,18,Fulham FC,38,5,13,20,27:53,-26,28
+Premier League,2020/2021,19,West Bromwich Albion,38,5,11,22,35:76,-41,26
+Premier League,2020/2021,20,Sheffield United,38,7,2,29,20:63,-43,23
+Primera División,2018/2019,1,FC Barcelona,38,26,9,3,90:36,54,87
+Primera División,2018/2019,2,Atlético Madrid,38,22,10,6,55:29,26,76
+Primera División,2018/2019,3,Real Madrid,38,21,5,12,63:46,17,68
+Primera División,2018/2019,4,Valencia CF,38,15,16,7,51:35,16,61
+Primera División,2018/2019,5,Getafe CF,38,15,14,9,48:35,13,59
+Primera División,2018/2019,6,Sevilla FC,38,17,8,13,62:47,15,59
+Primera División,2018/2019,7,Espanyol Barcelona,38,14,11,13,48:50,-2,53
+Primera División,2018/2019,8,Athletic Bilbao,38,13,14,11,41:45,-4,53
+Primera División,2018/2019,9,Real Sociedad,38,13,11,14,45:46,-1,50
+Primera División,2018/2019,10,Real Betis,38,14,8,16,44:52,-8,50
+Primera División,2018/2019,11,CD Alavés,38,13,11,14,39:50,-11,50
+Primera División,2018/2019,12,SD Eibar,38,11,14,13,46:50,-4,47
+Primera División,2018/2019,13,CD Leganés,38,11,12,15,37:43,-6,45
+Primera División,2018/2019,14,Villarreal CF,38,10,14,14,49:52,-3,44
+Primera División,2018/2019,15,Levante UD,38,11,11,16,59:66,-7,44
+Primera División,2018/2019,16,Real Valladolid,38,10,11,17,32:51,-19,41
+Primera División,2018/2019,17,Celta Vigo,38,10,11,17,53:62,-9,41
+Primera División,2018/2019,18,Girona FC,38,9,10,19,37:53,-16,37
+Primera División,2018/2019,19,SD Huesca,38,7,12,19,43:65,-22,33
+Primera División,2018/2019,20,Rayo Vallecano,38,8,8,22,41:70,-29,32
+Premier League,2008/2009,1,Manchester United,38,28,6,4,68:24,44,90
+Premier League,2008/2009,2,Liverpool FC,38,25,11,2,77:27,50,86
+Premier League,2008/2009,3,Chelsea FC,38,25,8,5,68:24,44,83
+Premier League,2008/2009,4,Arsenal FC,38,20,12,6,68:37,31,72
+Premier League,2008/2009,5,Everton FC,38,17,12,9,55:37,18,63
+Premier League,2008/2009,6,Aston Villa,38,17,11,10,54:48,6,62
+Premier League,2008/2009,7,Fulham FC,38,14,11,13,39:34,5,53
+Premier League,2008/2009,8,Tottenham Hotspur,38,14,9,15,45:45,0,51
+Premier League,2008/2009,9,West Ham United,38,14,9,15,42:45,-3,51
+Premier League,2008/2009,10,Manchester City,38,15,5,18,58:50,8,50
+Premier League,2008/2009,11,Wigan Athletic,38,12,9,17,34:45,-11,45
+Premier League,2008/2009,12,Stoke City,38,12,9,17,38:55,-17,45
+Premier League,2008/2009,13,Bolton Wanderers,38,11,8,19,41:53,-12,41
+Premier League,2008/2009,14,Portsmouth FC,38,10,11,17,38:57,-19,41
+Premier League,2008/2009,15,Blackburn Rovers,38,10,11,17,40:60,-20,41
+Premier League,2008/2009,16,Sunderland AFC,38,9,9,20,34:54,-20,36
+Premier League,2008/2009,17,Hull City,38,8,11,19,39:64,-25,35
+Premier League,2008/2009,18,Newcastle United,38,7,13,18,40:59,-19,34
+Premier League,2008/2009,19,Middlesbrough FC,38,7,11,20,28:57,-29,32
+Premier League,2008/2009,20,West Bromwich Albion,38,8,8,22,36:67,-31,32
+Premier League,2011/2012,1,Manchester City,38,28,5,5,93:29,64,89
+Premier League,2011/2012,2,Manchester United,38,28,5,5,89:33,56,89
+Premier League,2011/2012,3,Arsenal FC,38,21,7,10,74:49,25,70
+Premier League,2011/2012,4,Tottenham Hotspur,38,20,9,9,66:41,25,69
+Premier League,2011/2012,5,Newcastle United,38,19,8,11,56:51,5,65
+Premier League,2011/2012,6,Chelsea FC,38,18,10,10,65:46,19,64
+Premier League,2011/2012,7,Everton FC,38,15,11,12,50:40,10,56
+Premier League,2011/2012,8,Liverpool FC,38,14,10,14,47:40,7,52
+Premier League,2011/2012,9,Fulham FC,38,14,10,14,48:51,-3,52
+Premier League,2011/2012,10,West Bromwich Albion,38,13,8,17,45:52,-7,47
+Premier League,2011/2012,11,Swansea City,38,12,11,15,44:51,-7,47
+Premier League,2011/2012,12,Norwich City,38,12,11,15,52:66,-14,47
+Premier League,2011/2012,13,Sunderland AFC,38,11,12,15,45:46,-1,45
+Premier League,2011/2012,14,Stoke City,38,11,12,15,36:53,-17,45
+Premier League,2011/2012,15,Wigan Athletic,38,11,10,17,42:62,-20,43
+Premier League,2011/2012,16,Aston Villa,38,7,17,14,37:53,-16,38
+Premier League,2011/2012,17,Queens Park Rangers,38,10,7,21,43:66,-23,37
+Premier League,2011/2012,18,Bolton Wanderers,38,10,6,22,46:77,-31,36
+Premier League,2011/2012,19,Blackburn Rovers,38,8,7,23,48:78,-30,31
+Premier League,2011/2012,20,Wolverhampton Wanderers,38,5,10,23,40:82,-42,25
+Premier League,2010/2011,1,Manchester United,38,23,11,4,78:37,41,80
+Premier League,2010/2011,2,Chelsea FC,38,21,8,9,69:33,36,71
+Premier League,2010/2011,3,Manchester City,38,21,8,9,60:33,27,71
+Premier League,2010/2011,4,Arsenal FC,38,19,11,8,72:43,29,68
+Premier League,2010/2011,5,Tottenham Hotspur,38,16,14,8,55:46,9,62
+Premier League,2010/2011,6,Liverpool FC,38,17,7,14,59:44,15,58
+Premier League,2010/2011,7,Everton FC,38,13,15,10,51:45,6,54
+Premier League,2010/2011,8,Fulham FC,38,11,16,11,49:43,6,49
+Premier League,2010/2011,9,Aston Villa,38,12,12,14,48:59,-11,48
+Premier League,2010/2011,10,Sunderland AFC,38,12,11,15,45:56,-11,47
+Premier League,2010/2011,11,West Bromwich Albion,38,12,11,15,56:71,-15,47
+Premier League,2010/2011,12,Newcastle United,38,11,13,14,56:57,-1,46
+Premier League,2010/2011,13,Stoke City,38,13,7,18,46:48,-2,46
+Premier League,2010/2011,14,Bolton Wanderers,38,12,10,16,52:56,-4,46
+Premier League,2010/2011,15,Blackburn Rovers,38,11,10,17,46:59,-13,43
+Premier League,2010/2011,16,Wigan Athletic,38,9,15,14,40:61,-21,42
+Premier League,2010/2011,17,Wolverhampton Wanderers,38,11,7,20,46:66,-20,40
+Premier League,2010/2011,18,Birmingham City,38,8,15,15,37:58,-21,39
+Premier League,2010/2011,19,Blackpool FC,38,10,9,19,55:78,-23,39
+Premier League,2010/2011,20,West Ham United,38,7,12,19,43:70,-27,33
+Premier League,2006/2007,1,Manchester United,38,28,5,5,83:27,56,89
+Premier League,2006/2007,2,Chelsea FC,38,24,11,3,64:24,40,83
+Premier League,2006/2007,3,Liverpool FC,38,20,8,10,57:27,30,68
+Premier League,2006/2007,4,Arsenal FC,38,19,11,8,63:35,28,68
+Premier League,2006/2007,5,Tottenham Hotspur,38,17,9,12,57:54,3,60
+Premier League,2006/2007,6,Everton FC,38,15,13,10,52:36,16,58
+Premier League,2006/2007,7,Bolton Wanderers,38,16,8,14,47:52,-5,56
+Premier League,2006/2007,8,Reading FC,38,16,7,15,52:47,5,55
+Premier League,2006/2007,9,Portsmouth FC,38,14,12,12,45:42,3,54
+Premier League,2006/2007,10,Blackburn Rovers,38,15,7,16,52:54,-2,52
+Premier League,2006/2007,11,Aston Villa,38,11,17,10,43:41,2,50
+Premier League,2006/2007,12,Middlesbrough FC,38,12,10,16,44:49,-5,46
+Premier League,2006/2007,13,Newcastle United,38,11,10,17,38:47,-9,43
+Premier League,2006/2007,14,Manchester City,38,11,9,18,29:44,-15,42
+Premier League,2006/2007,15,West Ham United,38,12,5,21,35:59,-24,41
+Premier League,2006/2007,16,Fulham FC,38,8,15,15,38:60,-22,39
+Premier League,2006/2007,17,Wigan Athletic,38,10,8,20,37:59,-22,38
+Premier League,2006/2007,18,Sheffield United,38,10,8,20,32:55,-23,38
+Premier League,2006/2007,19,Charlton Athletic,38,8,10,20,34:60,-26,34
+Premier League,2006/2007,20,Watford FC,38,5,13,20,29:59,-30,28
+Premier League,2005/2006,1,Chelsea FC,38,29,4,5,72:22,50,91
+Premier League,2005/2006,2,Manchester United,38,25,8,5,72:34,38,83
+Premier League,2005/2006,3,Liverpool FC,38,25,7,6,57:25,32,82
+Premier League,2005/2006,4,Arsenal FC,38,20,7,11,68:31,37,67
+Premier League,2005/2006,5,Tottenham Hotspur,38,18,11,9,53:38,15,65
+Premier League,2005/2006,6,Blackburn Rovers,38,19,6,13,51:42,9,63
+Premier League,2005/2006,7,Newcastle United,38,17,7,14,47:42,5,58
+Premier League,2005/2006,8,Bolton Wanderers,38,15,11,12,49:41,8,56
+Premier League,2005/2006,9,West Ham United,38,16,7,15,52:55,-3,55
+Premier League,2005/2006,10,Wigan Athletic,38,15,6,17,45:52,-7,51
+Premier League,2005/2006,11,Everton FC,38,14,8,16,34:49,-15,50
+Premier League,2005/2006,12,Fulham FC,38,14,6,18,48:58,-10,48
+Premier League,2005/2006,13,Charlton Athletic,38,13,8,17,41:55,-14,47
+Premier League,2005/2006,14,Middlesbrough FC,38,12,9,17,48:58,-10,45
+Premier League,2005/2006,15,Manchester City,38,13,4,21,43:48,-5,43
+Premier League,2005/2006,16,Aston Villa,38,10,12,16,42:55,-13,42
+Premier League,2005/2006,17,Portsmouth FC,38,10,8,20,37:62,-25,38
+Premier League,2005/2006,18,Birmingham City,38,8,10,20,28:50,-22,34
+Premier League,2005/2006,19,West Bromwich Albion,38,7,9,22,31:58,-27,30
+Premier League,2005/2006,20,Sunderland AFC,38,3,6,29,26:69,-43,15
+Bundesliga,1992/1993,1,Werder Bremen,34,19,10,5,63:30,33,48:20
+Bundesliga,1992/1993,2,Bayern München,34,18,11,5,74:45,29,47:21
+Bundesliga,1992/1993,3,Eintracht Frankfurt,34,15,12,7,56:39,17,42:26
+Bundesliga,1992/1993,4,Borussia Dortmund,34,18,5,11,61:43,18,41:27
+Bundesliga,1992/1993,5,Bayer Leverkusen,34,14,12,8,64:45,19,40:28
+Bundesliga,1992/1993,6,Karlsruher SC,34,14,11,9,60:54,6,39:29
+Bundesliga,1992/1993,7,VfB Stuttgart,34,12,12,10,56:50,6,36:32
+Bundesliga,1992/1993,8,1. FC Kaiserslautern,34,13,9,12,50:40,10,35:33
+Bundesliga,1992/1993,9,Bor. Mönchengladbach,34,13,9,12,59:59,0,35:33
+Bundesliga,1992/1993,10,FC Schalke 04,34,11,12,11,42:43,-1,34:34
+Bundesliga,1992/1993,11,Hamburger SV,34,8,15,11,42:44,-2,31:37
+Bundesliga,1992/1993,12,1. FC Köln,34,12,4,18,41:51,-10,28:40
+Bundesliga,1992/1993,13,1. FC Nürnberg,34,10,8,16,30:47,-17,28:40
+Bundesliga,1992/1993,14,SG Wattenscheid 09,34,10,8,16,46:67,-21,28:40
+Bundesliga,1992/1993,15,Dynamo Dresden,34,7,13,14,32:49,-17,27:41
+Bundesliga,1992/1993,16,VfL Bochum,34,8,10,16,45:52,-7,26:42
+Bundesliga,1992/1993,17,Bayer 05 Uerdingen,34,7,10,17,35:64,-29,24:44
+Bundesliga,1992/1993,18,1. FC Saarbrücken,34,5,13,16,37:71,-34,23:45
+Primera División,2016/2017,1,Real Madrid,38,29,6,3,106:41,65,93
+Primera División,2016/2017,2,FC Barcelona,38,28,6,4,116:37,79,90
+Primera División,2016/2017,3,Atlético Madrid,38,23,9,6,70:27,43,78
+Primera División,2016/2017,4,Sevilla FC,38,21,9,8,69:49,20,72
+Primera División,2016/2017,5,Villarreal CF,38,19,10,9,56:33,23,67
+Primera División,2016/2017,6,Real Sociedad,38,19,7,12,59:53,6,64
+Primera División,2016/2017,7,Athletic Bilbao,38,19,6,13,53:43,10,63
+Primera División,2016/2017,8,Espanyol Barcelona,38,15,11,12,49:50,-1,56
+Primera División,2016/2017,9,CD Alavés,38,14,13,11,41:43,-2,55
+Primera División,2016/2017,10,SD Eibar,38,15,9,14,56:51,5,54
+Primera División,2016/2017,11,Málaga CF,38,12,10,16,49:55,-6,46
+Primera División,2016/2017,12,Valencia CF,38,13,7,18,56:65,-9,46
+Primera División,2016/2017,13,Celta Vigo,38,13,6,19,53:69,-16,45
+Primera División,2016/2017,14,UD Las Palmas,38,10,9,19,53:74,-21,39
+Primera División,2016/2017,15,Real Betis,38,10,9,19,41:64,-23,39
+Primera División,2016/2017,16,Deportivo La Coruña,38,8,12,18,43:61,-18,36
+Primera División,2016/2017,17,CD Leganés,38,8,11,19,36:55,-19,35
+Primera División,2016/2017,18,Sporting Gijón,38,7,10,21,42:72,-30,31
+Primera División,2016/2017,19,CA Osasuna,38,4,10,24,40:94,-54,22
+Primera División,2016/2017,20,Granada CF,38,4,8,26,30:82,-52,20

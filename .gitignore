@@ -1,0 +1,5 @@
+# Ignore virutal environment will upload requirements.txt
+leagueparity-env
+
+# Old filewriting functions
+asyncfilewrite.py
