@@ -15,5 +15,5 @@ platforms. Below is an outline of the project's data extraction, transformation,
 ### 2.2 [Jupyter notebook that processes data with pandas to generate parity metrics](https://github.com/emarrow40/LeagueParityAnalysis/blob/main/leagueparitymetrics.ipynb)
 
 
-### 2.3 [Tableu Public Interactive Dashboard to visualize parity metrics](https://public.tableau.com/app/profile/evan.marrow/viz/ParityinTop5LeaguesDashboard/Dashboard1)
+### 2.3 [Tableau Public Interactive Dashboard to visualize parity metrics](https://public.tableau.com/app/profile/evan.marrow/viz/ParityinTop5LeaguesDashboard/Dashboard1)
 
